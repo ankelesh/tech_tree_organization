@@ -1,6 +1,6 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Личный уровень" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1681041445865" VGAP_QUANTITY="3 pt">
+<node TEXT="Личный уровень" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1681651429295" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <hook NAME="MapStyle" background="#3c3836">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/dark_gruvbox_template.mm" fit_to_viewport="false"/>
@@ -10,7 +10,7 @@
 <font SIZE="24"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="default" ID="ID_602083445" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#3c3836" BACKGROUND_COLOR="#fbf1c7" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.9 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0" BORDER_DASH_LIKE_EDGE="true" BORDER_DASH="SOLID" VGAP_QUANTITY="3 pt">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-18 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-17.25 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="SansSerif" SIZE="11" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <edge STYLE="bezier" COLOR="#93a1a1" WIDTH="3" DASH="SOLID"/>
 <richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
@@ -95,7 +95,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Организация 1 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1570526671" CREATED="1679857396322" MODIFIED="1681041449048" VGAP_QUANTITY="3 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
+<node TEXT="Организация 1 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1570526671" CREATED="1679857396322" MODIFIED="1681651419151" VGAP_QUANTITY="3 pt" HGAP_QUANTITY="116 pt" VSHIFT_QUANTITY="216.74999 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -127,7 +127,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Партийное\организационное расписание" ID="ID_1676922237" CREATED="1681038280333" MODIFIED="1681041449046"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Партийное\организационное расписание" ID="ID_1676922237" CREATED="1681038280333" MODIFIED="1681041449046"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS">
 <html>
   <head>
     
@@ -152,8 +152,7 @@
       6) Приём и выписка членов организации. Приём - начать составлять досье, ознакомить человека с материалами организации (желательно учебными), принять решение, нужен ли он в организации (или его лучше оставить просто подписчиком). Выписка - собрать обратную связь, убрать человека из всех чатов, подписок на облака, разобраться с членскими взносами, донести для всех что человек выбыл.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Аналитический клуб" ID="ID_51861887" CREATED="1681043487876" MODIFIED="1681045327401"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -189,13 +188,59 @@
       9) Выработка стратегии и целей по самоулучшению.
     </p>
   </body>
+</html></richcontent>
+</node>
+<node TEXT="Агитационный клуб" ID="ID_1067976847" CREATED="1681647400481" MODIFIED="1681648980725"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Оформление мероприятий.
+    </p>
+    <p>
+      2) Лозунговое формулирование. Формулирование названий.
+    </p>
+    <p>
+      3) Оформление деятельности в формате ретроспективы.(цели - самодиагностика, использование деятельности для привлечения активных людей в агитации, ведение истории деятельности).
+    </p>
+    <p>
+      4) Создание правильных призывов к аудитории.Проведение разъяснительной работы для максимизации аудитории которая готова откликнуться.
+    </p>
+    <p>
+      5) Абсорбационная агитация - агитация которая призывает ваших подписчиков или аудиторию становится частью организации. (важный принцип - договора с нововступившими).
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Базовая система контроля над ресурсами" ID="ID_1235068404" CREATED="1681649064242" MODIFIED="1681650375923"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Система отслеживания ресурсов в распоряжении организации (по возможности - открытая). Формат - для начинающей организации подойдёт даже блокнотик, на будущее следует рассмотреть инвентаризационную систему. Желательные данные для хранения: Название вещи, закупочная цена, идентификационный номер (можно поначалу использовать штрихкод или серийный номер), координаты текущего члена организации который её использует, координаты члена организации который её использовал в прошлый раз, состояние, по возможности - процент или сумму вложений от конкретных членов организации.
+    </p>
+    <p>
+      2) Система хранения. По возможности это должна быть арендуемая недвижимость (если того позволяет касса). В крайнем случае это можно делать на территории одного из членов организации (в таком случае нужно предумотреть тару хранения).
+    </p>
+    <p>
+      3) Система прозрачного требования ресурса. ( Отслеживать состояние и иметь резервную компенсационную сумму в кассе, отслеживать координаты того, кто вам ресурс дал, давать фиксированный срок пользования). Для продвитых - давать расписки на пользование. Возможно пригодится публичная площадка для поиска ресурсов - доска объявлений или что то типа того.
+    </p>
+    <p>
+      4) Система для передачи в собственность. Расписки, юридическое оформление по возможности, внесение в системы отслеживания, возможность возврата.
+    </p>
+  </body>
 </html>
 </richcontent>
 </node>
 </node>
-<node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1681041417503">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="-127.5 pt;0 pt;" ENDINCLINATION="-12 pt;0.75 pt;"/>
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="-166.5 pt;-2.25 pt;" ENDINCLINATION="-62.25 pt;11.25 pt;"/>
+<node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="left" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1681647437904" HGAP_QUANTITY="17 pt" VSHIFT_QUANTITY="-48.75 pt">
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="-126.75 pt;0 pt;" ENDINCLINATION="-11.25 pt;0.75 pt;"/>
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="-165.75 pt;-1.5 pt;" ENDINCLINATION="-61.5 pt;11.25 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -214,8 +259,8 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовые навыки менеджмента" POSITION="right" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1681041450112" HGAP_QUANTITY="-414.24999 pt" VSHIFT_QUANTITY="-130.5 pt">
-<arrowlink COLOR="#ff6666" DESTINATION="ID_1676922237" STARTINCLINATION="75.75 pt;-3.75 pt;" ENDINCLINATION="-48.75 pt;-2.25 pt;"/>
+<node TEXT="Базовые навыки менеджмента" POSITION="right" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1681651425068" HGAP_QUANTITY="-420.99999 pt" VSHIFT_QUANTITY="-69.75 pt">
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="78.75 pt;15 pt;" ENDINCLINATION="-73.5 pt;9.75 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -235,11 +280,10 @@
       4) Умение работать с конфликтами.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node TEXT="Идеологическая грамотность" POSITION="left" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1681045544826">
-<arrowlink COLOR="#ff6666" DESTINATION="ID_51861887" STARTINCLINATION="-64.5 pt;0 pt;" ENDINCLINATION="-91.5 pt;18.75 pt;"/>
+<node TEXT="Идеологическая грамотность" POSITION="left" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1681651324120" HGAP_QUANTITY="23.75 pt" VSHIFT_QUANTITY="98.25 pt">
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="-72 pt;-1.5 pt;" ENDINCLINATION="84.75 pt;-179.24999 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -260,6 +304,101 @@
     </p>
     <p>
       5) Знание идеологически близких источников и знание контридеологических источников.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Адекватность времени" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1770719064" CREATED="1681641802916" MODIFIED="1681651429290" HGAP_QUANTITY="-373.74999 pt" VSHIFT_QUANTITY="12 pt">
+<arrowlink COLOR="#ff6666" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-57.75 pt;15.75 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Знание о современной культурной жизни в контесте поколений
+    </p>
+    <p>
+      2) Знание о современной культурной жизни в контексте слоёв не связанных с поколениями
+    </p>
+    <p>
+      3) Мемология. В первую очередь - умение отличать пространства использования мемов. Плохо не делать &quot;немеметичный&quot; контент, плохо использовать их неуместно или непонятно для других культурных слоёв.
+    </p>
+    <p>
+      4) Умение взглянуть на контент глазами неофита. Если сложного в понимании слишком много, то лучше уменьшить количество локальных мемов, локальной лексики и сложных терминов.
+    </p>
+    <p>
+      5) Умение грамотно организовывать и упорядочивать собственный контент, в том числе мемы.
+    </p>
+    <p>
+      6) Умение снисходить (или подниматься) до целевой аудитории.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Знание современных методов создания контента" POSITION="left" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1681650766835">
+<arrowlink COLOR="#ff6666" DESTINATION="ID_1067976847" STARTINCLINATION="-99.75 pt;0 pt;" ENDINCLINATION="-99 pt;19.5 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Знание графических, текстовых, видеоредакторов (отдельные пункты под профессиональное владение)
+    </p>
+    <p>
+      2) Знание современных платформ для контента (причём альтернативных)
+    </p>
+    <p>
+      3) Умение разделять контент по провокативности и соблюдать писаные и неписаные правила в случае необходимости.
+    </p>
+    <p>
+      4) Умение работать с форматами (не только видео, но и остальные форматы)
+    </p>
+    <p>
+      5) Знание свежих веяний оформления
+    </p>
+    <p>
+      6) Знание где можно заказать оформление на договорной основе (желательно не на уровне личных контактов, а системно)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Базовые юридические знания" POSITION="right" ID="ID_512513754" CREATED="1681650389736" MODIFIED="1681650805266" HGAP_QUANTITY="-416.49999 pt" VSHIFT_QUANTITY="-194.24999 pt">
+<arrowlink COLOR="#ff6666" DESTINATION="ID_1235068404" STARTINCLINATION="159 pt;0 pt;" ENDINCLINATION="-305.24999 pt;28.5 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Знание законов о собственности. Знание статей о воровстве и присвоение собственности. Знание правил обращения в правоохранительную систему, написания заявлений и расписок.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Базовые навыки бухгалтерии и работы в торговле" POSITION="left" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1681650812466" HGAP_QUANTITY="20.75 pt" VSHIFT_QUANTITY="8.25 pt">
+<arrowlink COLOR="#ff6666" DESTINATION="ID_1235068404" STARTINCLINATION="-175.49999 pt;0 pt;" ENDINCLINATION="-144 pt;26.25 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Знание работы кладовщика
+    </p>
+    <p>
+      2) Навыки работы с системами отслеживания товаров
+    </p>
+    <p>
+      3) Умение работы с таблицами.
     </p>
   </body>
 </html>
