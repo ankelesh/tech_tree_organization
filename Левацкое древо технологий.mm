@@ -1,8 +1,8 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Личный уровень" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1681816932970" VGAP_QUANTITY="3 pt">
+<node TEXT="Стадия организованности" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1681987335727" VGAP_QUANTITY="3 pt" NodeVisibilityConfiguration="SHOW_HIDDEN_NODES">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#3c3836" zoom="1.301">
+<hook NAME="MapStyle" background="#3c3836" zoom="0.77">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/dark_gruvbox_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
@@ -10,7 +10,7 @@
 <font SIZE="24"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="default" ID="ID_602083445" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#3c3836" BACKGROUND_COLOR="#fbf1c7" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.9 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0" BORDER_DASH_LIKE_EDGE="true" BORDER_DASH="SOLID" VGAP_QUANTITY="3 pt">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-15 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-13.5 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="SansSerif" SIZE="11" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <edge STYLE="bezier" COLOR="#93a1a1" WIDTH="3" DASH="SOLID"/>
 <richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
@@ -72,7 +72,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Личный уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1525481271" CREATED="1681987107485" MODIFIED="1681987300645" HGAP_QUANTITY="317.74999 pt" VSHIFT_QUANTITY="-1.5 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -94,9 +94,12 @@
       ВАЖНО - для каждой технологии нужно указывать период по истечении которого эту технологию нужно пересмотреть.
     </p>
   </body>
-</html></richcontent>
-<node TEXT="Базовые навыки менеджмента" POSITION="right" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1681939013089">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="170.99999 pt;0 pt;" ENDINCLINATION="-299.24999 pt;9 pt;"/>
+</html>
+</richcontent>
+<hook NAME="FreeNode"/>
+<node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1681986532300">
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="170.99999 pt;0 pt;" ENDINCLINATION="-296.99999 pt;9 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="211.49999 pt;0 pt;" ENDINCLINATION="-33.75 pt;-16.5 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -118,9 +121,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1681928913822">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="71.25 pt;-0.75 pt;" ENDINCLINATION="-9 pt;0.75 pt;"/>
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="82.5 pt;0 pt;" ENDINCLINATION="-66.75 pt;0 pt;"/>
+<node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1681986376939">
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="81.75 pt;0 pt;" ENDINCLINATION="-66 pt;0 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="71.25 pt;0 pt;" ENDINCLINATION="-6.75 pt;0.75 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -139,8 +142,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Идеологическая грамотность" POSITION="right" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1681939017900">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="137.25 pt;0 pt;" ENDINCLINATION="-89.25 pt;0 pt;"/>
+<node TEXT="Идеологическая грамотность" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1681986505860">
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-120 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-120.75 pt;-15.75 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -165,7 +169,188 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Организация 1 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1570526671" CREATED="1679857396322" MODIFIED="1681935340452" VGAP_QUANTITY="3 pt" HGAP_QUANTITY="647.74998 pt" VSHIFT_QUANTITY="-0.75 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Адекватность времени" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1770719064" CREATED="1681641802916" MODIFIED="1681986546428">
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-62.25 pt;8.25 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;-2.25 pt;" ENDINCLINATION="-220.49999 pt;0 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Знание о современной культурной жизни в контесте поколений
+    </p>
+    <p>
+      2) Знание о современной культурной жизни в контексте слоёв не связанных с поколениями
+    </p>
+    <p>
+      3) Мемология. В первую очередь - умение отличать пространства использования мемов. Плохо не делать &quot;немеметичный&quot; контент, плохо использовать их неуместно или непонятно для других культурных слоёв.
+    </p>
+    <p>
+      4) Умение взглянуть на контент глазами неофита. Если сложного в понимании слишком много, то лучше уменьшить количество локальных мемов, локальной лексики и сложных терминов.
+    </p>
+    <p>
+      5) Умение грамотно организовывать и упорядочивать собственный контент, в том числе мемы.
+    </p>
+    <p>
+      6) Умение снисходить (или подниматься) до целевой аудитории.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Знание современных методов создания контента" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1681986460970">
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-254.99999 pt;-14.25 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-228.74999 pt;-18 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-176.24999 pt;9 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Знание графических, текстовых, видеоредакторов (отдельные пункты под профессиональное владение)
+    </p>
+    <p>
+      2) Знание современных платформ для контента (причём альтернативных)
+    </p>
+    <p>
+      3) Умение разделять контент по провокативности и соблюдать писаные и неписаные правила в случае необходимости.
+    </p>
+    <p>
+      4) Умение работать с форматами (не только видео, но и остальные форматы)
+    </p>
+    <p>
+      5) Знание свежих веяний оформления
+    </p>
+    <p>
+      6) Знание где можно заказать оформление на договорной основе (желательно не на уровне личных контактов, а системно)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Базовые юридические знания" ID="ID_512513754" CREATED="1681650389736" MODIFIED="1681987349681">
+<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-300.74999 pt;28.5 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Знание законов о собственности. Знание статей о воровстве и присвоение собственности. Знание правил обращения в правоохранительную систему, написания заявлений и расписок.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Базовые навыки бухгалтерии и работы в торговле" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1681987344031">
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="84 pt;0 pt;" ENDINCLINATION="-193.49999 pt;0 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Знание работы кладовщика
+    </p>
+    <p>
+      2) Навыки работы с системами отслеживания товаров
+    </p>
+    <p>
+      3) Умение работы с таблицами.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Базовое знание рекламы, пиара и маркетологии." ID="ID_701292597" CREATED="1681931525600" MODIFIED="1681986548133">
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;-5.25 pt;" ENDINCLINATION="-79.5 pt;-2.25 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Хотя бы немного теории маркетологии. Если вы боитесь что это вас &quot;обуржуазит&quot; или вы не сможете отделить рекламу в товарном стиле от того что нужно для пропаганды - это повод лучше разобраться и в теории маркетологии, и в марксистской теории. Вычленяйте полезное и применяйте творческий подход, не следуйте шаблонам. Реклама молока от рекламы организации отличается, и ваша задача - понять в чём, а не выкинуть теорию рекламы.
+    </p>
+    <p>
+      2) Параметры пропаганды зависят от цели пропаганды. Инструменты которые предоставляет современная реклама и пропаганда нужно знать, но применять по надобности. Пока вы не можете просчитать эффект применения - лучше не пользоваться сложными инструментами.
+    </p>
+    <p>
+      3) Нельзя ставить рекламу и пиар во главу угла. Множество эффективных методов рекламы имеют слишком неприятные пост-эффекты или &quot;подводные камни&quot;. Лучше слабо рекламировать сильную деятельность, нежели сильно рекламировать слабую, но в целом нужно избегать сильных перекосов в этой сфере.
+    </p>
+    <p>
+      4) Качество диалектически связано с количеством. Вам потребуется много пиар-контента производить, но нельзя забывать про качество. В среднем лучше оценивать оба параметра численно и находить оптимальное сочетание (т.е. если наших трудовых ресурсов хватит на Н максимально плохого контента или М максимально хорошего, нужно найти идеальное сочетание между этими двумя экстремумами).
+    </p>
+    <p>
+      5) Знание алгоритмов современных медийных, поисковых и социальных платформ и умение популярно это объяснить не вовлечённым в создание контента членам организации для улучшения их работы с этими платформами.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Базовое знание преподавательской работы" ID="ID_1317096810" CREATED="1681935248870" MODIFIED="1681986415149">
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="326.24999 pt;0 pt;" ENDINCLINATION="-232.49999 pt;0 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Умение упорядочивать информацию
+    </p>
+    <p>
+      2) Умение оценивать сложность понимания новичком и составлять учебные планы
+    </p>
+    <p>
+      3) Умение оценивать знания студентов (хотя бы на уровне - &quot;прочёл&quot;)
+    </p>
+    <p>
+      4) Умение создавать обучающий контент компиляцией.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Базовые знания в IT и электронике" ID="ID_1314321739" CREATED="1681937359356" MODIFIED="1681986590387">
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-206.99999 pt;24.75 pt;"/>
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="328.49999 pt;0 pt;" ENDINCLINATION="-144 pt;3.75 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Минимальные навыки системного администратора или хотя бы эникейщика.
+    </p>
+    <p>
+      2) Умение пользоваться поиском для релевантной технической информации (желательно знание английского)
+    </p>
+    <p>
+      3) Знакомство с популярным софтом для разных задач и умение находить аналоги и\или пиратский софт.
+    </p>
+    <p>
+      4) Умение обращаться с аккаунтами и паролями. Знание систем хранения паролей, систем совместного доступа.
+    </p>
+    <p>
+      5) Умение разбираться с электронной техникой не бытового пользования, к примеру с оборудованием звуковика или проектором.
+    </p>
+    <p>
+      6) Умение выбирать нетипичную технику при закупках для организации (знакомство с системами отзывов, умение вникнуть в другую область).
+    </p>
+    <p>
+      7) Знание цифровой гигиены, умение популярно дать это понимание не связанным с IT людям. Навыки по организации базовой защиты устройств членов организации (к примеру, антивирусы, фаерволлы, мение чистить от вредоносного софта).
+    </p>
+    <p>
+      8) Умение писать инструкции для людей не разбирающихся в теме. Т.е. лучше один раз написать подробную инструкцию нежели постоянно помогать людям с идентичными проблемами. Желательно - не технически сложным языком.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Организация 1 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1570526671" CREATED="1679857396322" MODIFIED="1681987308631" VGAP_QUANTITY="3 pt" HGAP_QUANTITY="1025.74997 pt" VSHIFT_QUANTITY="3.75 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -175,8 +360,7 @@
       Когда вы можете выделить под общее для организации дело совокупно силы до эквивалента одного неработающего человека. Один человек в рабочую неделю нарабатывает 40 человекочасов. Соответственно одна организация первого уровня нарабатывает не более 40 человекочасов.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <hook NAME="FreeNode"/>
 <node TEXT="Малая касса" ID="ID_80983957" CREATED="1679858240036" MODIFIED="1681041421601"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -224,8 +408,7 @@
       6) Приём и выписка членов организации. Приём - начать составлять досье, ознакомить человека с материалами организации (желательно учебными), принять решение, нужен ли он в организации (или его лучше оставить просто подписчиком). Выписка - собрать обратную связь, убрать человека из всех чатов, подписок на облака, разобраться с членскими взносами, донести для всех что человек выбыл.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Аналитический клуб" ID="ID_51861887" CREATED="1681043487876" MODIFIED="1681045327401"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -287,7 +470,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовая система контроля над ресурсами" ID="ID_1235068404" CREATED="1681649064242" MODIFIED="1681935340451"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Базовая система контроля над ресурсами" ID="ID_1235068404" CREATED="1681649064242" MODIFIED="1681986103522"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -348,23 +531,7 @@
       4) Избегать репликации пропаганды не принадлежащей вам. Перед тем как распространить материалы, убедитесь что их произвели вы - что заимствований минимальное количество, что анализ в пропаганде ваш, а не чужой. Контролировать мейнстримность - проанализируйте насколько ваша пропаганда популистская и не допускайте чрезмерного градуса, иначе она сольётся с другой популистской пропагандой. <b>ВАЖНО&nbsp;- </b>популизм это инструмент который может пригодится, но не организации такого малого масштаба. (Нет смысла обещать здравоохранение бесплатное и для каждого если ваша организация, оставшись одна во всём мире его не сможет организовать даже для себя, если у вас даже теоретически не будет на это ресурсов в течении долгого времени).
     </p>
   </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Организация 2 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_467248104" CREATED="1681816770989" MODIFIED="1681928862373" HGAP_QUANTITY="603.49998 pt" VSHIFT_QUANTITY="-3.75 pt">
-<hook NAME="FreeNode"/>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Может выделить совокупно силы более чем один неработающий человек, но ещё не может позволить себе финансировать неработающего члена организации.
-    </p>
-  </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Сборник учебных материалов" ID="ID_1603938111" CREATED="1681933278098" MODIFIED="1681935238069"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -391,8 +558,7 @@
       6) Подготовить минимальные обучающие материалы по не-идеологической тематике, благо их гораздо проще набирать и осваивать (неполитизированные материалы проще проверить на точность). Это пригодится для обучения людей которые будут потом выполнять функциональные работы внутри организации.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Техническое обеспечение - минимальный уровень" ID="ID_1245802533" CREATED="1681936174954" MODIFIED="1681937498879"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -422,189 +588,22 @@
       7) Разделение ролей и распределение доступа к медийным и техническим аккаунтам. Желательно чтобы в организации занималось тех. обеспечением более одного человека, а совместные аккаунты организации должны хорошо контролироваться, не только людьми занятыми техническим обеспеченим.
     </p>
   </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="Адекватность времени" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_1770719064" CREATED="1681641802916" MODIFIED="1681938948269">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-64.5 pt;8.25 pt;"/>
-<arrowlink COLOR="#ff6666" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;-4.5 pt;" ENDINCLINATION="-222.74999 pt;0 pt;"/>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      1) Знание о современной культурной жизни в контесте поколений
-    </p>
-    <p>
-      2) Знание о современной культурной жизни в контексте слоёв не связанных с поколениями
-    </p>
-    <p>
-      3) Мемология. В первую очередь - умение отличать пространства использования мемов. Плохо не делать &quot;немеметичный&quot; контент, плохо использовать их неуместно или непонятно для других культурных слоёв.
-    </p>
-    <p>
-      4) Умение взглянуть на контент глазами неофита. Если сложного в понимании слишком много, то лучше уменьшить количество локальных мемов, локальной лексики и сложных терминов.
-    </p>
-    <p>
-      5) Умение грамотно организовывать и упорядочивать собственный контент, в том числе мемы.
-    </p>
-    <p>
-      6) Умение снисходить (или подниматься) до целевой аудитории.
-    </p>
-  </body>
 </html></richcontent>
 </node>
-<node TEXT="Знание современных методов создания контента" POSITION="right" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1681935335151">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="179.99999 pt;-60 pt;" ENDINCLINATION="-188.24999 pt;8.25 pt;"/>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      1) Знание графических, текстовых, видеоредакторов (отдельные пункты под профессиональное владение)
-    </p>
-    <p>
-      2) Знание современных платформ для контента (причём альтернативных)
-    </p>
-    <p>
-      3) Умение разделять контент по провокативности и соблюдать писаные и неписаные правила в случае необходимости.
-    </p>
-    <p>
-      4) Умение работать с форматами (не только видео, но и остальные форматы)
-    </p>
-    <p>
-      5) Знание свежих веяний оформления
-    </p>
-    <p>
-      6) Знание где можно заказать оформление на договорной основе (желательно не на уровне личных контактов, а системно)
-    </p>
-  </body>
-</html></richcontent>
 </node>
-<node TEXT="Базовые юридические знания" POSITION="right" ID="ID_512513754" CREATED="1681650389736" MODIFIED="1681813380276">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="159 pt;0 pt;" ENDINCLINATION="-302.99999 pt;28.5 pt;"/>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Организация 2 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1564500419" CREATED="1681987224085" MODIFIED="1681987335724" HGAP_QUANTITY="1637.74995 pt" VSHIFT_QUANTITY="6 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
   </head>
   <body>
     <p>
-      1) Знание законов о собственности. Знание статей о воровстве и присвоение собственности. Знание правил обращения в правоохранительную систему, написания заявлений и расписок.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Базовые навыки бухгалтерии и работы в торговле" POSITION="right" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1681935347324">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="79.5 pt;-6 pt;" ENDINCLINATION="-198.74999 pt;-15.75 pt;"/>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      1) Знание работы кладовщика
-    </p>
-    <p>
-      2) Навыки работы с системами отслеживания товаров
-    </p>
-    <p>
-      3) Умение работы с таблицами.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node TEXT="Базовое знание рекламы, пиара и маркетологии." POSITION="right" ID="ID_701292597" CREATED="1681931525600" MODIFIED="1681937321185">
-<arrowlink COLOR="#ff6666" DESTINATION="ID_1949269221" STARTINCLINATION="286.49999 pt;0 pt;" ENDINCLINATION="-18 pt;-0.75 pt;"/>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      1) Хотя бы немного теории маркетологии. Если вы боитесь что это вас &quot;обуржуазит&quot; или вы не сможете отделить рекламу в товарном стиле от того что нужно для пропаганды - это повод лучше разобраться и в теории маркетологии, и в марксистской теории. Вычленяйте полезное и применяйте творческий подход, не следуйте шаблонам. Реклама молока от рекламы организации отличается, и ваша задача - понять в чём, а не выкинуть теорию рекламы.
-    </p>
-    <p>
-      2) Параметры пропаганды зависят от цели пропаганды. Инструменты которые предоставляет современная реклама и пропаганда нужно знать, но применять по надобности. Пока вы не можете просчитать эффект применения - лучше не пользоваться сложными инструментами.
-    </p>
-    <p>
-      3) Нельзя ставить рекламу и пиар во главу угла. Множество эффективных методов рекламы имеют слишком неприятные пост-эффекты или &quot;подводные камни&quot;. Лучше слабо рекламировать сильную деятельность, нежели сильно рекламировать слабую, но в целом нужно избегать сильных перекосов в этой сфере.
-    </p>
-    <p>
-      4) Качество диалектически связано с количеством. Вам потребуется много пиар-контента производить, но нельзя забывать про качество. В среднем лучше оценивать оба параметра численно и находить оптимальное сочетание (т.е. если наших трудовых ресурсов хватит на Н максимально плохого контента или М максимально хорошего, нужно найти идеальное сочетание между этими двумя экстремумами).
-    </p>
-    <p>
-      5) Знание алгоритмов современных медийных, поисковых и социальных платформ и умение популярно это объяснить не вовлечённым в создание контента членам организации для улучшения их работы с этими платформами.
+      Может выделить совокупно силы более чем один неработающий человек, но ещё не может позволить себе финансировать неработающего члена организации.
     </p>
   </body>
 </html>
 </richcontent>
-</node>
-<node TEXT="Базовое знание преподавательской работы" POSITION="right" ID="ID_1317096810" CREATED="1681935248870" MODIFIED="1681938873953">
-<arrowlink COLOR="#ff6666" DESTINATION="ID_1603938111" STARTINCLINATION="346.49999 pt;0 pt;" ENDINCLINATION="-92.25 pt;2.25 pt;"/>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      1) Умение упорядочивать информацию
-    </p>
-    <p>
-      2) Умение оценивать сложность понимания новичком и составлять учебные планы
-    </p>
-    <p>
-      3) Умение оценивать знания студентов (хотя бы на уровне - &quot;прочёл&quot;)
-    </p>
-    <p>
-      4) Умение создавать обучающий контент компиляцией.
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-<node TEXT="Базовые знания в IT и электронике" POSITION="right" ID="ID_1314321739" CREATED="1681937359356" MODIFIED="1681939000696">
-<arrowlink COLOR="#ff6666" DESTINATION="ID_1245802533" STARTINCLINATION="328.49999 pt;0 pt;" ENDINCLINATION="-146.25 pt;3.75 pt;"/>
-<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      1) Минимальные навыки системного администратора или хотя бы эникейщика.
-    </p>
-    <p>
-      2) Умение пользоваться поиском для релевантной технической информации (желательно знание английского)
-    </p>
-    <p>
-      3) Знакомство с популярным софтом для разных задач и умение находить аналоги и\или пиратский софт.
-    </p>
-    <p>
-      4) Умение обращаться с аккаунтами и паролями. Знание систем хранения паролей, систем совместного доступа.
-    </p>
-    <p>
-      5) Умение разбираться с электронной техникой не бытового пользования, к примеру с оборудованием звуковика или проектором.
-    </p>
-    <p>
-      6) Умение выбирать нетипичную технику при закупках для организации (знакомство с системами отзывов, умение вникнуть в другую область).
-    </p>
-    <p>
-      7) Знание цифровой гигиены, умение популярно дать это понимание не связанным с IT людям. Навыки по организации базовой защиты устройств членов организации (к примеру, антивирусы, фаерволлы, мение чистить от вредоносного софта).
-    </p>
-    <p>
-      8) Умение писать инструкции для людей не разбирающихся в теме. Т.е. лучше один раз написать подробную инструкцию нежели постоянно помогать людям с идентичными проблемами. Желательно - не технически сложным языком.
-    </p>
-  </body>
-</html>
-</richcontent>
+<hook NAME="FreeNode"/>
 </node>
 </node>
 </map>
