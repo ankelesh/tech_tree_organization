@@ -10,7 +10,7 @@
 <font SIZE="24"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="default" ID="ID_602083445" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#3c3836" BACKGROUND_COLOR="#fbf1c7" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.9 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0" BORDER_DASH_LIKE_EDGE="true" BORDER_DASH="SOLID" VGAP_QUANTITY="3 pt">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-13.5 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-12.75 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="SansSerif" SIZE="11" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <edge STYLE="bezier" COLOR="#93a1a1" WIDTH="3" DASH="SOLID"/>
 <richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
@@ -94,12 +94,14 @@
       ВАЖНО - для каждой технологии нужно указывать период по истечении которого эту технологию нужно пересмотреть.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <hook NAME="FreeNode"/>
-<node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1681986532300">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="170.99999 pt;0 pt;" ENDINCLINATION="-296.99999 pt;9 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="211.49999 pt;0 pt;" ENDINCLINATION="-33.75 pt;-16.5 pt;"/>
+<node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1682254556465">
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="211.49999 pt;0 pt;" ENDINCLINATION="-33 pt;-15.75 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="171.74999 pt;0 pt;" ENDINCLINATION="-296.24999 pt;9 pt;"/>
+<arrowlink COLOR="#ccffff" DESTINATION="ID_1280865951" STARTINCLINATION="177.74999 pt;15 pt;" ENDINCLINATION="-147 pt;-6.75 pt;"/>
+<arrowlink COLOR="#ccffff" DESTINATION="ID_200845134" STARTINCLINATION="108.75 pt;0 pt;" ENDINCLINATION="-78.75 pt;-1.5 pt;"/>
+<arrowlink COLOR="#ccffff" DESTINATION="ID_1703981505" STARTINCLINATION="398.99999 pt;0 pt;" ENDINCLINATION="-93 pt;-3.75 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -122,8 +124,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1681986376939">
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="81.75 pt;0 pt;" ENDINCLINATION="-66 pt;0 pt;"/>
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="71.25 pt;0 pt;" ENDINCLINATION="-6.75 pt;0.75 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="81.75 pt;0 pt;" ENDINCLINATION="-65.25 pt;0 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="71.25 pt;0 pt;" ENDINCLINATION="-6 pt;0.75 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -143,8 +145,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Идеологическая грамотность" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1681986505860">
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-120 pt;0 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-120.75 pt;-15.75 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-120 pt;-15 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-119.25 pt;0 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -170,8 +172,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Адекватность времени" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1770719064" CREATED="1681641802916" MODIFIED="1681986546428">
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-62.25 pt;8.25 pt;"/>
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;-2.25 pt;" ENDINCLINATION="-220.49999 pt;0 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;-1.5 pt;" ENDINCLINATION="-219.74999 pt;0 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-61.5 pt;8.25 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -200,9 +202,9 @@
 </html></richcontent>
 </node>
 <node TEXT="Знание современных методов создания контента" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1681986460970">
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-254.99999 pt;-14.25 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-228.74999 pt;-18 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-176.24999 pt;9 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-227.99999 pt;-17.25 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-254.24999 pt;-13.5 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-175.49999 pt;9 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -231,7 +233,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые юридические знания" ID="ID_512513754" CREATED="1681650389736" MODIFIED="1681987349681">
-<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-300.74999 pt;28.5 pt;"/>
+<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-299.99999 pt;28.5 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -245,7 +247,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые навыки бухгалтерии и работы в торговле" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1681987344031">
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="84 pt;0 pt;" ENDINCLINATION="-193.49999 pt;0 pt;"/>
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="84 pt;0 pt;" ENDINCLINATION="-192.74999 pt;0 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -265,7 +267,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовое знание рекламы, пиара и маркетологии." ID="ID_701292597" CREATED="1681931525600" MODIFIED="1681986548133">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;-5.25 pt;" ENDINCLINATION="-79.5 pt;-2.25 pt;"/>
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;-4.5 pt;" ENDINCLINATION="-78.75 pt;-1.5 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -291,7 +293,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовое знание преподавательской работы" ID="ID_1317096810" CREATED="1681935248870" MODIFIED="1681986415149">
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="326.24999 pt;0 pt;" ENDINCLINATION="-232.49999 pt;0 pt;"/>
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="326.24999 pt;0 pt;" ENDINCLINATION="-231.74999 pt;0 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -314,8 +316,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые знания в IT и электронике" ID="ID_1314321739" CREATED="1681937359356" MODIFIED="1681986590387">
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-206.99999 pt;24.75 pt;"/>
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="328.49999 pt;0 pt;" ENDINCLINATION="-144 pt;3.75 pt;"/>
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-206.24999 pt;24.75 pt;"/>
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="328.49999 pt;0 pt;" ENDINCLINATION="-143.25 pt;3.75 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -349,6 +351,37 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Базовое знание научной методологии" ID="ID_1426020231" CREATED="1682250820247" MODIFIED="1682251515179">
+<arrowlink COLOR="#990099" DESTINATION="ID_200845134" STARTINCLINATION="248.24999 pt;0 pt;" ENDINCLINATION="-135 pt;2.25 pt;"/>
+<arrowlink COLOR="#990099" DESTINATION="ID_1603938111" STARTINCLINATION="368.24999 pt;0 pt;" ENDINCLINATION="-139.5 pt;9.75 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Понимание принципов научной работы, принципов цитирования и умение ставить контролируемые эксперименты
+    </p>
+    <p>
+      2) Знание основных методов познания хотя бы в качестве наслышанности (диамат, позитивистский научный метод, субъективный идеализм и т.д.). Это нужно не только для того чтобы вести научную работу, но и для того чтобы понимать если вы сделали вывод исходя не из того метода (т.е. к примеру когда вы работали над пунктом дерева, вы пришли к тому что для организации кассы надо найти верующего человека и освятить сейф - скорее всего вы исходили из объективного идеализма). Это не спасёт от ошибок, но поможет ауторефлексии.
+    </p>
+    <p>
+      3) Знание статистических методов. Умение отличить среднее от медианного и от модального. Это пригодится при анализе показателей.
+    </p>
+    <p>
+      4) Умение правильно оформлять эксперимент или теорию, умение отличить важные и неважные детали.
+    </p>
+    <p>
+      5) Умение строить причинно-следственные связи, отличать вероятности от фактичности.
+    </p>
+    <p>
+      6) Умение строить последовательный, тезис - полный текст (без отсылок на внешние источники, с раскрытием всех терминов).
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Организация 1 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1570526671" CREATED="1679857396322" MODIFIED="1681987308631" VGAP_QUANTITY="3 pt" HGAP_QUANTITY="1025.74997 pt" VSHIFT_QUANTITY="3.75 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -362,7 +395,7 @@
   </body>
 </html></richcontent>
 <hook NAME="FreeNode"/>
-<node TEXT="Малая касса" ID="ID_80983957" CREATED="1679858240036" MODIFIED="1681041421601"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Малая касса" FOLDED="true" ID="ID_80983957" CREATED="1679858240036" MODIFIED="1681041421601"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -382,6 +415,19 @@
     </p>
   </body>
 </html></richcontent>
+<node TEXT="Опыт применения" ID="ID_831421301" CREATED="1682239161181" MODIFIED="1682239208413"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Виртуальная касса - у проекта RedStarter плохо себя показала. Важен еще психологический момент участия в общем деле. Часть людей просто вообще не переступит эту психологическую границу и никогда ни денег ни труда не внесут. Нет смысла и принимать с ними решения - они фактически не рабочие в коллективе, они вне его.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Партийное\организационное расписание" ID="ID_1676922237" CREATED="1681038280333" MODIFIED="1681935193801"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -590,6 +636,139 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Внешние связи - каталог и интерфейсы" ID="ID_1280865951" CREATED="1682248427435" MODIFIED="1682249619180"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) База данных по контактам. Инициирующая запись - выжимка сведений об организации. В будущем можно расширить и до целого досье. Вносить следует сокращённые протоколы взаимодействий, (ВАЖНО - ТАЙНО - ДОСТУПНО ТОЛЬКО ЧЛЕНАМ ОРГАНИЗАЦИИ) - вкратце основную линию взаимодействия с этой организацией и цели этого.
+    </p>
+    <p>
+      2) Выделение пресс-секретаря или кого либо в организации с наиболее развитыми навыками разделения личного и рабочего. Задача - передавать линию вашей организии без искажений и по возможности без отпечатка личного отношения.
+    </p>
+    <p>
+      3) Формализация интерфейсов взаимодействия. Желательно документально оформлять то, как именно вы взаимодействуете. Если вы предоставляете материалы - вы должны заранее оговаривать что вы предоставляете и следовать этому уговору досконально.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Исследования и ауторефлексия" ID="ID_200845134" CREATED="1682249858489" MODIFIED="1682250757750"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Ведение учёта собственных показателей (к примеру, количество членов, объём кассы, кпд выполняемых задач, даже то, какие пункты дерева были реализованы, как именно и как давно). Эта статическая работа пригодится при самоулучшении.
+    </p>
+    <p>
+      2) Учёт времени с момента реализации. Желательно в организационном расписании предусмотреть регулярные оценки эффективности реализаций (т.е. если наша касса функционирует, то функционирует ли она правильно, нет ли нареканий, нельзя ли её улучшить, не грозит ли какому либо из её элементов что либо (к примеру, банк может быть на грани разорения и надо поменять банк со счётом организации)).
+    </p>
+    <p>
+      3) Желательна качественная и подробная документация по тому, как у вас что организовано. Важный момент - желательно делить документацию на 3 уровня. Первый - сокращённый, второй - только важные замечания и подробности, третий - вообще всё. К примеру, при построении кассы был выбран счёт в банке Х. На первом уровне нужно только упоминание характеристик счёта, на втором уровне - то, почему был выбран именно этот вариант в этом банке, на третьем - вообще все подробности, от выбора именно такого варианта реализации (а не сейфа к примеру) до полного отчёта по походу\звонку в банк для открытия счёта. Это пригодится в случае повторной реализации или оценки качества проведённой работы. К примеру, ваш счёт был неудачным и вам пришлось вернутся к реализации кассы - и по результатам анализа было выяснено что вы проанализировали тогда только один банк и одно предложение по депозитарному счёту. Это позволит вам увидеть ошибку и в следующий раз проанализировать больше предложений. А сокращённая документация даст понимание для нового члена организации за меньшее время
+    </p>
+    <p>
+      4)&nbsp;&nbsp;Желательно всегда иметь закреплённую разработку по дереву и не прекращать прогресс. Это нужно не только для того чтобы &quot;развиваться&quot;, но и для того чтобы видеть чего вашей организации не хватает когда вы ставите новые задачи. К примеру, вам нужно сделать агитационный ролик - вы можете на такой сессии увидеть чего вам не хватает для его.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Критерии перехода" ID="ID_1535681447" CREATED="1682251584255" MODIFIED="1682252170251"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Не столько пункт про часть организации, сколько про поднятие темы на обсуждениях внутри организации.
+    </p>
+    <p>
+      1) Стоит иметь чёткое целеполагание - для чего вы хотите &quot;поднять&quot; уровень - для разработки новой технологии, для создания проекта или по &quot;донабору&quot; членов и финансово-рабочей мощности.
+    </p>
+    <p>
+      2) При анализе критериев подъёма с одной стороны, стоит уделять критическое значение ваших показателей численности и совокупной финансого-рабочей мощности. С другой стороны, дерево подразумевает высокий уровень исследованности к моменту перехода (т.е. если вы не реализуете все пункты, у вас есть запас мощности для реализации технологии более высокого требования). Следовательно, вы можете забегать вперёд по технологиям ценой недоисследованности. Решение по &quot;подъёму&quot; уровня организация должна принимать каждый раз исходя из реальной ситуации.
+    </p>
+    <p>
+      3) Следует избегать недоразвитости ваших реализаций или вытягивания дерева &quot;в высоту&quot;.
+    </p>
+    <p>
+      4) Для гармоничного развития дерева можно применять &quot;правило пирамидки&quot; (т.е. количество следующих узлов дерева которое можно реализовывать равно половине реализованного в прошлом уровне в случае если уровень всё ещё не до конца релизован.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Собрание планирования" ID="ID_1703981505" CREATED="1682252287643" MODIFIED="1682254514947"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Это именно собрание, на котором рассматривают цели и средства, а так же раздают задачи и проверяют их исполнение.
+    </p>
+    <p>
+      2) Для ведения списка задач и выставления сроков нужно пользоваться современными системами - разные вариации систем тикетов, канбан-досок и так далее. Ни в коем случае не допускать хаоса в этой системе.
+    </p>
+    <p>
+      3) Первое что нужно сделать - это точная формулировка задачи. Чем более полное ТЗ - тем лучше. Формулировки задач должны проходить в три этапа - 1. Концептуация. Задачу формулирует тот, кто её предложил. 2. Специализация. Её анализирует специалист по данной теме. 3. Обсуждение с исполнителями - для максимального уточнения. По возможности задача разбивается на подзадачи. Для каждой задачи необходимо уточнять её независимость и создавать дерево зависимостей для удобной оптимизации между разными людьми.
+    </p>
+    <p>
+      4) Анализ ресурсной и временной базы. Этот пункт наиболее времязатратный в условиях отсутствия жёсткого подчинения. Для оптимизации нужно поделить на 2 этапа - предварительная (брутто) смета составляется в процессе без анализа, потом нетто-смета проходит через оптимизацию и голосование. В условиях жесткой командной цепи - это можно ускорить.
+    </p>
+    <p>
+      5) Распределение задач на основе сначала добровольного взятия, потом уже задачи выдаются принудительно.
+    </p>
+    <p>
+      6) После окончания фазы планирования формализуется буфер оставшихся ресурсов (свободное время у людей которым не нашлось задачи, непотраченная касса). Этот буфер используется для смягчения ошибок планирования.
+    </p>
+    <p>
+      7) Желательно начать сразу использовать автоматизацию для ведения списка задач.
+    </p>
+    <p>
+      8) После окончания задач проводится процесс сдачи задач (отдельное собрание или индивидуальная встреча под протокол). Задача этого процесса - определить успешность, возникшие подводные камни и количество истраченных ресурсов.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Пример: ваша организация собирается на субботник, в ней 5 человек и 2к в кассе:
+    </p>
+    <p>
+      Фаза 1. Общее собрание на котором задача делится на подзадачи. К примеру в случае субботника, уборка мусора, подметание, покраска скамеек, вынос мусора. Для них определяется временная стоимость и дерево зависимостей. К примеру, на сбор мусора нужно 10 человекочасов, на подметание 10 человекочасов, на скамейки 4 человекочаса, на вынос мусора 2 человекочаса. Вынос мусора зависит от сборка мусора, подметание зависит от сбора мусора, после подметания нужно вынести ещё раз мусор. Скамейки можно красить независимо и по часу на каждую. Итоговое разделение:
+    </p>
+    <p>
+      1 член организации: 3 часа уборка мусора, 1 час вынос мусора, 1 час подметание, 1 час вынос мусора
+    </p>
+    <p>
+      2 член организации: 3 часа уборка мусора, 2 часа подметание
+    </p>
+    <p>
+      3 член организации: 2 часа уборка мусора, 3 часа подметание
+    </p>
+    <p>
+      4 член организации: 2 часа уборка, 2 подметание, 1 покраска
+    </p>
+    <p>
+      5 член организации: 3 часа покраска, 2 часа подметание
+    </p>
+    <p>
+      На нужные расходники выделяется 100.
+    </p>
+    <p>
+      Фаза 2. Работы, по исходу которых потрачено 600 (зашли в кафе), и на 3 часа больше на подметание (забыли метлу)
+    </p>
+    <p>
+      Фаза 3. Финальное собрание, где лишние затраты были вынесены на обозрение, а так же проанализировано качество выполнения задач. По результатам объявлен новый донабор в кассу чтобы заместить потраченное, организатор сделал вывод по оповещению (чтобы не забывали инструменты, забывший инструмент получил выговор).
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Организация 2 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1564500419" CREATED="1681987224085" MODIFIED="1681987335724" HGAP_QUANTITY="1637.74995 pt" VSHIFT_QUANTITY="6 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -601,8 +780,7 @@
       Может выделить совокупно силы более чем один неработающий человек, но ещё не может позволить себе финансировать неработающего члена организации.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <hook NAME="FreeNode"/>
 </node>
 </node>
