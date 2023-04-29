@@ -1,6 +1,6 @@
 <map version="freeplane 1.9.13">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Стадия организованности" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1681987335727" VGAP_QUANTITY="3 pt" NodeVisibilityConfiguration="SHOW_HIDDEN_NODES">
+<node TEXT="Стадия организованности" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1682774286539" VGAP_QUANTITY="3 pt" NodeVisibilityConfiguration="SHOW_HIDDEN_NODES">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <hook NAME="MapStyle" background="#3c3836" zoom="0.77">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/dark_gruvbox_template.mm" fit_to_viewport="false"/>
@@ -10,7 +10,7 @@
 <font SIZE="24"/>
 <stylenode LOCALIZED_TEXT="styles.predefined" POSITION="right" STYLE="bubble">
 <stylenode LOCALIZED_TEXT="default" ID="ID_602083445" ICON_SIZE="12 pt" FORMAT_AS_HYPERLINK="false" COLOR="#3c3836" BACKGROUND_COLOR="#fbf1c7" STYLE="bubble" SHAPE_HORIZONTAL_MARGIN="8 pt" SHAPE_VERTICAL_MARGIN="5 pt" BORDER_WIDTH_LIKE_EDGE="false" BORDER_WIDTH="1.9 px" BORDER_COLOR_LIKE_EDGE="true" BORDER_COLOR="#f0f0f0" BORDER_DASH_LIKE_EDGE="true" BORDER_DASH="SOLID" VGAP_QUANTITY="3 pt">
-<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-12.75 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
+<arrowlink SHAPE="CUBIC_CURVE" COLOR="#a89984" WIDTH="2" TRANSPARENCY="255" DASH="" FONT_SIZE="9" FONT_FAMILY="SansSerif" DESTINATION="ID_602083445" STARTINCLINATION="102.75 pt;-12 pt;" ENDINCLINATION="102.75 pt;3 pt;" STARTARROW="NONE" ENDARROW="DEFAULT"/>
 <font NAME="SansSerif" SIZE="11" BOLD="false" STRIKETHROUGH="false" ITALIC="false"/>
 <edge STYLE="bezier" COLOR="#93a1a1" WIDTH="3" DASH="SOLID"/>
 <richcontent CONTENT-TYPE="plain/auto" TYPE="DETAILS"/>
@@ -96,12 +96,13 @@
   </body>
 </html></richcontent>
 <hook NAME="FreeNode"/>
-<node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1682254556465">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="211.49999 pt;0 pt;" ENDINCLINATION="-33 pt;-15.75 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="171.74999 pt;0 pt;" ENDINCLINATION="-296.24999 pt;9 pt;"/>
-<arrowlink COLOR="#ccffff" DESTINATION="ID_1280865951" STARTINCLINATION="177.74999 pt;15 pt;" ENDINCLINATION="-147 pt;-6.75 pt;"/>
-<arrowlink COLOR="#ccffff" DESTINATION="ID_200845134" STARTINCLINATION="108.75 pt;0 pt;" ENDINCLINATION="-78.75 pt;-1.5 pt;"/>
-<arrowlink COLOR="#ccffff" DESTINATION="ID_1703981505" STARTINCLINATION="398.99999 pt;0 pt;" ENDINCLINATION="-93 pt;-3.75 pt;"/>
+<node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1682780870883">
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="171.74999 pt;0 pt;" ENDINCLINATION="-295.49999 pt;9 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="144.75 pt;0 pt;" ENDINCLINATION="-95.25 pt;-23.25 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="108.75 pt;0 pt;" ENDINCLINATION="-78 pt;-0.75 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1703981505" STARTINCLINATION="398.99999 pt;0 pt;" ENDINCLINATION="-98.25 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1280865951" STARTINCLINATION="177.74999 pt;15 pt;" ENDINCLINATION="-146.25 pt;-6 pt;"/>
+<arrowlink COLOR="#ccffff" DESTINATION="ID_1226545065" STARTINCLINATION="869.24997 pt;0 pt;" ENDINCLINATION="-80.25 pt;-12 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -124,8 +125,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1681986376939">
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="81.75 pt;0 pt;" ENDINCLINATION="-65.25 pt;0 pt;"/>
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="71.25 pt;0 pt;" ENDINCLINATION="-6 pt;0.75 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="81.75 pt;0 pt;" ENDINCLINATION="-64.5 pt;0 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="71.25 pt;0 pt;" ENDINCLINATION="-5.25 pt;0.75 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -144,9 +145,10 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Идеологическая грамотность" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1681986505860">
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-120 pt;-15 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-119.25 pt;0 pt;"/>
+<node TEXT="Идеологическая грамотность" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1682780728430">
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-118.5 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-119.25 pt;-14.25 pt;"/>
+<arrowlink COLOR="#ff0033" DESTINATION="ID_1226545065" STARTINCLINATION="939.74997 pt;0 pt;" ENDINCLINATION="-248.24999 pt;-27 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -172,8 +174,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Адекватность времени" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1770719064" CREATED="1681641802916" MODIFIED="1681986546428">
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;-1.5 pt;" ENDINCLINATION="-219.74999 pt;0 pt;"/>
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-61.5 pt;8.25 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-60.75 pt;8.25 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;-0.75 pt;" ENDINCLINATION="-218.99999 pt;0 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -202,9 +204,9 @@
 </html></richcontent>
 </node>
 <node TEXT="Знание современных методов создания контента" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1681986460970">
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-227.99999 pt;-17.25 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-254.24999 pt;-13.5 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-175.49999 pt;9 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-227.24999 pt;-16.5 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-253.49999 pt;-12.75 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-174.74999 pt;9 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -233,7 +235,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые юридические знания" ID="ID_512513754" CREATED="1681650389736" MODIFIED="1681987349681">
-<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-299.99999 pt;28.5 pt;"/>
+<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-299.24999 pt;28.5 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -247,7 +249,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые навыки бухгалтерии и работы в торговле" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1681987344031">
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="84 pt;0 pt;" ENDINCLINATION="-192.74999 pt;0 pt;"/>
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="84 pt;0 pt;" ENDINCLINATION="-191.99999 pt;0 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -267,7 +269,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовое знание рекламы, пиара и маркетологии." ID="ID_701292597" CREATED="1681931525600" MODIFIED="1681986548133">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;-4.5 pt;" ENDINCLINATION="-78.75 pt;-1.5 pt;"/>
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;-3.75 pt;" ENDINCLINATION="-78 pt;-0.75 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -293,7 +295,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовое знание преподавательской работы" ID="ID_1317096810" CREATED="1681935248870" MODIFIED="1681986415149">
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="326.24999 pt;0 pt;" ENDINCLINATION="-231.74999 pt;0 pt;"/>
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="326.24999 pt;0 pt;" ENDINCLINATION="-230.99999 pt;0 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -316,8 +318,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые знания в IT и электронике" ID="ID_1314321739" CREATED="1681937359356" MODIFIED="1681986590387">
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-206.24999 pt;24.75 pt;"/>
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="328.49999 pt;0 pt;" ENDINCLINATION="-143.25 pt;3.75 pt;"/>
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-205.49999 pt;24.75 pt;"/>
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="328.49999 pt;0 pt;" ENDINCLINATION="-142.5 pt;3.75 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -352,8 +354,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовое знание научной методологии" ID="ID_1426020231" CREATED="1682250820247" MODIFIED="1682251515179">
-<arrowlink COLOR="#990099" DESTINATION="ID_200845134" STARTINCLINATION="248.24999 pt;0 pt;" ENDINCLINATION="-135 pt;2.25 pt;"/>
-<arrowlink COLOR="#990099" DESTINATION="ID_1603938111" STARTINCLINATION="368.24999 pt;0 pt;" ENDINCLINATION="-139.5 pt;9.75 pt;"/>
+<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="368.24999 pt;0 pt;" ENDINCLINATION="-138.75 pt;9.75 pt;"/>
+<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="248.24999 pt;0 pt;" ENDINCLINATION="-134.25 pt;2.25 pt;"/>
 <richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -379,8 +381,151 @@
       6) Умение строить последовательный, тезис - полный текст (без отсылок на внешние источники, с раскрытием всех терминов).
     </p>
   </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Организация 2 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1564500419" CREATED="1681987224085" MODIFIED="1682780638373" VGAP_QUANTITY="3 pt" HGAP_QUANTITY="1970.74994 pt" VSHIFT_QUANTITY="-0.75 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Может выделить совокупно силы более чем один неработающий человек, но ещё не может позволить себе финансировать неработающего члена организации.
+    </p>
+  </body>
 </html>
 </richcontent>
+<hook NAME="FreeNode"/>
+<node TEXT="Организация 3 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" ID="ID_624909941" CREATED="1682774208962" MODIFIED="1682780638369" HGAP_QUANTITY="1124.74997 pt" VSHIFT_QUANTITY="-6.75 pt">
+<hook NAME="FreeNode"/>
+</node>
+<node TEXT="Основы управления" ID="ID_1226545065" CREATED="1682774296600" MODIFIED="1682775282999"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) На этом этапе количество людей уже превышает количество которое может спокойно создавать и распределять задачи по принципу личного общения. Начинает появляться деление по отделам и замкнутым клубам (т.е. люди концентрируются на общении только с теми людьми, которые связаны с ними задачей)
+    </p>
+    <p>
+      2) Появляется нужда разделять их осмысленно, с той целью чтобы люди одновременно и не выпадали из общего дела и не отвлекали других членов организации.
+    </p>
+    <p>
+      3) Для этого разделения есть несколько путей которые могут быть поначалу избыточными, или поначалу требовательными к ресурсам.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="&quot;Жесткие&quot; системы управления" ID="ID_25983482" CREATED="1682774325683" MODIFIED="1682776767177"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Эти системы основываются на жёсткости цепи подчинения. Им свойственно чёткое распределение обязанностей и стабильная структура постов, а так же достаточно чёткие принципы ответственности.
+    </p>
+    <p>
+      2) Это может быть обычная иерархическая система с разными типами назначений (выборная, исходящая из центра, исходящая снизу)
+    </p>
+    <p>
+      3) Требует большого количества бюрократической работы - эти системы управления полагаются на принцип прописывания как обязанностей, так и прав. Дополнительный элемент хаоса вносится в случае выборности - тогда приходится очень вкладываться в наладку систем голосования и профилактику расколов. Так же системам с использованием выборности характерен &quot;ад переголосований&quot; которого нужно заранее избежать (т.е. люди голосуют, результаты голосования не подходят из за близости или неявности победы 50-50 - и запускается очередной круг голосования). Помните что выборные системы поглощают время участников, соответственно вам нужен избыток рабочих часов у вашей организации (т.к. часть времени отныне будет уходить на голосования). При этом эта доля &quot;голосовательного&quot; времени&nbsp;&nbsp;- гораздо меньше чем у систем &quot;мягкого&quot; управления, т.к. голосование идёт только за посты, но не за решения.
+    </p>
+    <p>
+      4) В случае закрепления не-выборной системы нужен механизм передачи дел и смены курса без учёта личного мнения главы. Один из самых простых способов - это жёсткая система с консилиумом во главе, а не с главой. Самый простой способ создания жёсткой иерархии - это совет отделов, скорее всего именно эта модель будет наиболее удобной для организации 2 уровня.
+    </p>
+    <p>
+      Пример: в вашей организации 4 отдела (обеспечение, агитация\пропаганда, отдел реальной деятельности и отдел внешних связей). При простейшей вариации совета отделов, происходит стартовое голосование (по отделам) на которых выбираются 4 главы - для каждого отдела. Эти 4 человека - ваш консилиум который управляет организацией, главы смещаются и назначаются голосованием консилиума а не отделов. Это плохо расширяемая система, так что рассматривайте и другие варианты.
+    </p>
+    <p>
+      5) Любой системе управления обязательна формализация - все обязанности должны быть расписаны.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="&quot;Мягкие&quot; системы управления" ID="ID_1450635938" CREATED="1682776809107" MODIFIED="1682779612587"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Эти системы основываются на мягкости цепи подчинения. Им свойственно минимальное распределение обязанностей и нестабильная структура постов, а так же принцип общественного контроля.
+    </p>
+    <p>
+      2) Это может быть иерархическая система с выборностью, которая основывается на фракционной среде (а не на общей), система всеобщего голосования, не-иерархическая система циклической передачи назначений или даже квази-анархическая система регулярных перетасовок лидеров (т.е. каждый период разные люди занимают ответственные посты).
+    </p>
+    <p>
+      3) Требуют очень развитой электронно-бюрократической среды для показа эффективности, но при этом может стартовать без неё и даже без чёткого распределения обязанностей - просто будет иметь сложности с скоростью реагирования и большой потенциал к развалу из за центробежных сил.
+    </p>
+    <p>
+      4) Не требовательны к ресурсам поначалу, но в последствии начинают проявлять погрешности синхронизации - поскольку у большого количества людей может быть большое количество отличающихся решений по оптимизации и переделу организационных ресурсов (т.н. перетягивание одеяла на себя). Это приводит к чудовищным затратам как времени, так и мыслительного потенциала и ресурсов которые по итогу могут распределится некорректно.
+    </p>
+    <p>
+      5) При сохранении максимально близких к количественным показателям выборных систем (т.н. один человек-один голос или к примеру систем всеобщего каскадного опроса с &quot;голосом по умолчанию&quot;) нужно учитывать проблему внутрипартийной агитации. Нужно пресекать попытки эмоционального давления на членов организации. Так же требуется максимально отстранённо и конкретно описывать предмет голосований, иначе человек отвественный за их проведение получает в руки манипулятивный инструмент.
+    </p>
+    <p>
+      6) Пример мягкой системы управления:
+    </p>
+    <p>
+      В вашей организации есть реестр всех членов организации хранящий все их релевантные навыки. Соответственно для каждого голосования происходит выборка по исполнителям и требуемым навыкам и ответственностям по обеспечению. Т.е. если у вас 5 человек занимается обеспечением, а 10 занимаются реальной деятельностью и вам нужно спланировать будущее мероприятие, должна быть проведена выборка по схеме Реальная деятельность + обеспечение, после чего эти люди уже голосуют. Это плохо расширяемая система, поскольку потом количество специалистов и поддерживающих ответственностей разрастётся до необрабатываемого числа (т.е. эти люди не смогут вынести обоснованное решение голосованием). Рассматривайте на будущее и другие варианты.
+    </p>
+    <p>
+      7) Любой системе управления обязательна формализация - все обязанности должны быть расписаны.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Агрегационные системы управления" ID="ID_1579701706" CREATED="1682779666624" MODIFIED="1682780624618"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) ЭТО СИСТЕМА ДРОБЛЕНИЯ, А НЕ РОСТА, НЕ ПРИМЕНЯТЬ В СЛУЧАЕ КОГДА ВЫ ГОТОВЫ К РОСТУ.
+    </p>
+    <p>
+      2) Это подразумевает что вы не сможете распоряжаться в приказном порядке ресурсами агрегированных под-организаций. Следовательно, не стоит их учитывать как свои. Для реального учёта следует сначала выполнить слияние (на ваших условиях, иначе передайте дерево той организации на условиях которой вы слились).
+    </p>
+    <p>
+      3) Это очень удобно для консервации размера и функций организаций. Не принимайте больше ресурсов и людей чем вы собираетесь использовать в деле - иначе это вас начнёт тянуть назад.
+    </p>
+    <p>
+      4) Для правильного выполнения дробления вам нужно заранее предусмотреть все протоколы исполнения дробления. Т.е. вы должны ещё до реальных действий на бумаге рассмотреть вопросы:
+    </p>
+    <p>
+      &nbsp;&nbsp;&nbsp;- Кому и как достаются ресурсы.
+    </p>
+    <p>
+      &nbsp;&nbsp;&nbsp;- Кто сохраняет контроль и как разбиваются ваши электронные системы.
+    </p>
+    <p>
+      &nbsp;&nbsp;&nbsp;- Кому достаётся какая часть пропагандистского аппарата
+    </p>
+    <p>
+      &nbsp;&nbsp;&nbsp;- Какие члены организации хотят остаться в какой. Какие задачи будут невозможны к выполнению после дробления.
+    </p>
+    <p>
+      &nbsp;&nbsp;&nbsp;- Каков протокол исключения из организации.
+    </p>
+    <p>
+      5) Для правильного выполнения слияния вам требуется идентичный протокол. Дополнительные аспекты включают в себя перестройку цепочек подчинения. Помните что только принимающая организация сохраняет свою систему управления, иначе получится бардак.
+    </p>
+    <p>
+      6) Выработка протоколов будущего взаимодействия. Вы можете это сделать раньше благодаря тому, что вы пропускаете большую часть налаживания внешних связей т.к. вы уже знаете подробно о будущей новой организации. Следовательно, вы должны выработать меж-организационную систему управления. Принцип и вид системы выбирается вами в зависимости от ситуации (это может быть как консилиум глав\высших лиц организаций, так и директивно-задачная система, где организации не делят управление, а имеют общее пространство задач.
+    </p>
+    <p>
+      7) Все протоколы взаимодействий обязаны быть строго формализованы, а межорганизационное общение должно проходить дипломатически верно (т.е. после выполнения дробления и агрегации, нельзя выносить свои старые проблемы и тон общения, начинается формальное общение и максимальная конкретика).
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node TEXT="Организация 1 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1570526671" CREATED="1679857396322" MODIFIED="1681987308631" VGAP_QUANTITY="3 pt" HGAP_QUANTITY="1025.74997 pt" VSHIFT_QUANTITY="3.75 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
@@ -425,11 +570,12 @@
       Виртуальная касса - у проекта RedStarter плохо себя показала. Важен еще психологический момент участия в общем деле. Часть людей просто вообще не переступит эту психологическую границу и никогда ни денег ни труда не внесут. Нет смысла и принимать с ними решения - они фактически не рабочие в коллективе, они вне его.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node TEXT="Партийное\организационное расписание" ID="ID_1676922237" CREATED="1681038280333" MODIFIED="1681935193801"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Партийное\организационное расписание" ID="ID_1676922237" CREATED="1681038280333" MODIFIED="1682780875764">
+<arrowlink COLOR="#006666" DESTINATION="ID_1226545065" STARTINCLINATION="120 pt;0 pt;" ENDINCLINATION="-176.24999 pt;-51.75 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -636,7 +782,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Внешние связи - каталог и интерфейсы" ID="ID_1280865951" CREATED="1682248427435" MODIFIED="1682249619180"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Внешние связи - каталог и интерфейсы" ID="ID_1280865951" CREATED="1682248427435" MODIFIED="1682780838131">
+<arrowlink COLOR="#00ffff" DESTINATION="ID_1579701706" STARTINCLINATION="151.5 pt;0 pt;" ENDINCLINATION="-410.99999 pt;11.25 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -652,8 +800,7 @@
       3) Формализация интерфейсов взаимодействия. Желательно документально оформлять то, как именно вы взаимодействуете. Если вы предоставляете материалы - вы должны заранее оговаривать что вы предоставляете и следовать этому уговору досконально.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Исследования и ауторефлексия" ID="ID_200845134" CREATED="1682249858489" MODIFIED="1682250757750"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -674,8 +821,7 @@
       4)&nbsp;&nbsp;Желательно всегда иметь закреплённую разработку по дереву и не прекращать прогресс. Это нужно не только для того чтобы &quot;развиваться&quot;, но и для того чтобы видеть чего вашей организации не хватает когда вы ставите новые задачи. К примеру, вам нужно сделать агитационный ролик - вы можете на такой сессии увидеть чего вам не хватает для его.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Критерии перехода" ID="ID_1535681447" CREATED="1682251584255" MODIFIED="1682252170251"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -699,10 +845,11 @@
       4) Для гармоничного развития дерева можно применять &quot;правило пирамидки&quot; (т.е. количество следующих узлов дерева которое можно реализовывать равно половине реализованного в прошлом уровне в случае если уровень всё ещё не до конца релизован.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node TEXT="Собрание планирования" ID="ID_1703981505" CREATED="1682252287643" MODIFIED="1682254514947"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Собрание планирования" ID="ID_1703981505" CREATED="1682252287643" MODIFIED="1682780861647">
+<arrowlink COLOR="#00cc00" DESTINATION="ID_1226545065" STARTINCLINATION="248.99999 pt;0 pt;" ENDINCLINATION="-133.5 pt;9.75 pt;"/>
+<richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -766,22 +913,8 @@
       Фаза 3. Финальное собрание, где лишние затраты были вынесены на обозрение, а так же проанализировано качество выполнения задач. По результатам объявлен новый донабор в кассу чтобы заместить потраченное, организатор сделал вывод по оповещению (чтобы не забывали инструменты, забывший инструмент получил выговор).
     </p>
   </body>
-</html>
-</richcontent>
-</node>
-</node>
-<node TEXT="Организация 2 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="right" ID="ID_1564500419" CREATED="1681987224085" MODIFIED="1681987335724" HGAP_QUANTITY="1637.74995 pt" VSHIFT_QUANTITY="6 pt"><richcontent CONTENT-TYPE="xml/" TYPE="DETAILS" HIDDEN="true">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Может выделить совокупно силы более чем один неработающий человек, но ещё не может позволить себе финансировать неработающего члена организации.
-    </p>
-  </body>
 </html></richcontent>
-<hook NAME="FreeNode"/>
+</node>
 </node>
 </node>
 </map>
