@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
 <node TEXT="Стадия организованности" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1687621262770" VGAP_QUANTITY="3 pt" NodeVisibilityConfiguration="SHOW_HIDDEN_NODES">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#3c3836" zoom="0.77">
+<hook NAME="MapStyle" background="#3c3836" zoom="0.592">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/dark_gruvbox_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
@@ -961,6 +961,40 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Улучшение: медик" ID="ID_942840113" CREATED="1692456281078" MODIFIED="1692457752323"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Главная задача медика - сохранять здоровье членов организации в моменты их физического присутствия вместе.
+    </p>
+    <p>
+      2) Побочная задача - это отслеживание и заказ нового медицинского инвентаря.
+    </p>
+    <p>
+      3) При этом, ему не обязательно высшее образование, это слишком квалифицированный специалист. Лучше всего подойдёт среднее образование или парамедицинское.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Что улучшится:
+    </p>
+    <p>
+      1) У вас полностью будет закрыт вопрос с медицинским сопровождением достаточно крупных мероприятий (или травмоопасных). Если ваша практическая деятельность это включает - вам желательно такого специалиста иметь, пусть и не в первую очередь.
+    </p>
+    <p>
+      2) Это работа на будущее - медики вам обязательно понадобятся в будущем
+    </p>
+    <p>
+      3) Это экономит ресурсы членов организации за счёт централизованной медпомощи
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Кадровый отдел" ID="ID_1524814853" CREATED="1689432450572" MODIFIED="1689435388386"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -1035,8 +1069,7 @@
       8) Работа этого отдела станет статьёй расходов. Помните, что к ней всегда захотят присосаться люди из корыстных побуждений. Поэтому трата денег должна осуществляться с приоритетом в пользу не членов организации. К примеру, вместо зарубежной поездки для знакомства с зарубежным деятелем лучше чтобы он приехал к вам, и не было соблазна просто &quot;провести отдых за рубежом&quot; для сотрудника отдела.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Отдел межорганизационных взаимодействий" ID="ID_1265233484" CREATED="1691246748929" MODIFIED="1691247619300"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -1058,6 +1091,30 @@
     </p>
     <p>
       5) Так же именно этот отдел занимается обменами и организацией совместных действий. Они ведут как информационное сопровождение обменов, так и анализ их возможности. Ну и конечно же, физическое взаимодействие тоже на них (Как минимум, организационно).
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Медпункт\медотдел" ID="ID_311276620" CREATED="1692453878620" MODIFIED="1692456061108"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Фактически это прямое улучшение медпоста, где все &quot;желательные&quot; пункты становятся обязательными.
+    </p>
+    <p>
+      2) Теперь желательно им получать и практические навыки для применения, к примеру в качестве волонтёров или ещё чего.
+    </p>
+    <p>
+      3) Самое время начать накапливать полезный инветарь на балансе организации. Приборы для измерения давления, капельницы, возможно - раскладушки, стулья и прочее что нужно для организации полевого медпункта.
+    </p>
+    <p>
+      4) Помните что медицина - дорогое вложение. Предусмотрите траты кассы заранее, чтобы это не оказалось внезапным.
+    </p>
+    <p>
+      5) Следите за юридическим аспектом, чтобы ваши медики не подставились под какую либо статью. Заранее изучите вопрос и заготовьте контакты адвоката.
     </p>
   </body>
 </html>
@@ -1088,13 +1145,13 @@
   </body>
 </html></richcontent>
 <hook NAME="FreeNode"/>
-<node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1688825164424">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1280865951" STARTINCLINATION="177.74999 pt;15 pt;" ENDINCLINATION="-128.25 pt;0 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="869.24997 pt;0 pt;" ENDINCLINATION="-114.75 pt;-36.75 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="149.25 pt;0 pt;" ENDINCLINATION="-77.25 pt;-5.25 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1703981505" STARTINCLINATION="398.99999 pt;0 pt;" ENDINCLINATION="-193.49999 pt;0 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="171.74999 pt;0 pt;" ENDINCLINATION="-277.49999 pt;9 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="108.75 pt;0 pt;" ENDINCLINATION="-60 pt;0 pt;"/>
+<node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1692454905396">
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1703981505" STARTINCLINATION="398.99999 pt;0 pt;" ENDINCLINATION="-191.99999 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="149.25 pt;0 pt;" ENDINCLINATION="-75.75 pt;-3.75 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1280865951" STARTINCLINATION="177.74999 pt;15 pt;" ENDINCLINATION="-126.75 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="171.74999 pt;0 pt;" ENDINCLINATION="-275.99999 pt;9 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="869.24997 pt;0 pt;" ENDINCLINATION="-113.25 pt;-35.25 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="108.75 pt;0 pt;" ENDINCLINATION="-58.5 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1135,7 +1192,7 @@
 </node>
 </node>
 <node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1683451772525">
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="59.25 pt;0 pt;" ENDINCLINATION="-166.5 pt;0 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="59.25 pt;0 pt;" ENDINCLINATION="-165 pt;0 pt;"/>
 <arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="71.25 pt;0 pt;" ENDINCLINATION="0 pt;0.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -1173,11 +1230,11 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Идеологическая грамотность" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1683454829240">
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="939.74997 pt;0 pt;" ENDINCLINATION="-212.99999 pt;0 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-101.25 pt;0 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-100.5 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Идеологическая грамотность" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1691854093405">
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-99.75 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-99 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="939.74997 pt;0 pt;" ENDINCLINATION="-219.74999 pt;11.25 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1234,8 +1291,8 @@
 </node>
 </node>
 <node TEXT="Адекватность времени" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1770719064" CREATED="1681641802916" MODIFIED="1681986546428">
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-42.75 pt;8.25 pt;"/>
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;0 pt;" ENDINCLINATION="-200.99999 pt;0 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;0 pt;" ENDINCLINATION="-199.49999 pt;0 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-41.25 pt;8.25 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1279,10 +1336,10 @@
 </node>
 </node>
 <node TEXT="Знание современных методов создания контента" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1683454862065">
-<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-101.25 pt;-37.5 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-209.24999 pt;0 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-235.49999 pt;0 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-156.75 pt;9 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-155.25 pt;9 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-233.99999 pt;0 pt;"/>
+<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-99.75 pt;-36 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-207.74999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1311,8 +1368,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые юридические знания" ID="ID_512513754" CREATED="1681650389736" MODIFIED="1683451801326">
-<arrowlink COLOR="#0066ff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="157.5 pt;0 pt;" ENDINCLINATION="-12 pt;-39 pt;"/>
-<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-281.24999 pt;28.5 pt;"/>
+<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-279.74999 pt;28.5 pt;"/>
+<arrowlink COLOR="#0066ff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="157.5 pt;0 pt;" ENDINCLINATION="-10.5 pt;-37.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1328,7 +1385,7 @@
 </node>
 <node TEXT="Базовые навыки бухгалтерии и работы в торговле" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1689432603557">
 <arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="311.99999 pt;76.5 pt;" ENDINCLINATION="84.75 pt;90 pt;"/>
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="1463.24996 pt;0 pt;" ENDINCLINATION="-182.24999 pt;5.25 pt;"/>
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="1463.24996 pt;0 pt;" ENDINCLINATION="-180.74999 pt;5.25 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1348,7 +1405,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовое знание рекламы, пиара и маркетологии." ID="ID_701292597" CREATED="1681931525600" MODIFIED="1681986548133">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;0 pt;" ENDINCLINATION="-60 pt;0 pt;"/>
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;0 pt;" ENDINCLINATION="-58.5 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1373,8 +1430,8 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовое знание преподавательской работы" ID="ID_1317096810" CREATED="1681935248870" MODIFIED="1688821837735">
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="334.49999 pt;0 pt;" ENDINCLINATION="-212.99999 pt;0 pt;"/>
+<node TEXT="Базовое знание преподавательской работы" FOLDED="true" ID="ID_1317096810" CREATED="1681935248870" MODIFIED="1688821837735">
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="334.49999 pt;0 pt;" ENDINCLINATION="-211.49999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1397,9 +1454,9 @@
 </html></richcontent>
 <node TEXT="Высшее педагогическое образование по нужной стадии" ID="ID_286787971" CREATED="1690646505924" MODIFIED="1690646544535"/>
 </node>
-<node TEXT="Базовые знания в IT и электронике" ID="ID_1314321739" CREATED="1681937359356" MODIFIED="1684053130341">
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="358.49999 pt;-16.5 pt;" ENDINCLINATION="-94.5 pt;0 pt;"/>
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-187.49999 pt;24.75 pt;"/>
+<node TEXT="Базовые знания в IT и электронике" FOLDED="true" ID="ID_1314321739" CREATED="1681937359356" MODIFIED="1684053130341">
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="358.49999 pt;-15 pt;" ENDINCLINATION="-93 pt;0 pt;"/>
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-185.99999 pt;24.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1448,9 +1505,9 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Базовое знание научной методологии" ID="ID_1426020231" CREATED="1682250820247" MODIFIED="1688821840307">
-<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="186.74999 pt;-7.5 pt;" ENDINCLINATION="-78 pt;0 pt;"/>
-<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="219.74999 pt;3.75 pt;" ENDINCLINATION="-353.99999 pt;51 pt;"/>
+<node TEXT="Базовое знание научной методологии" ID="ID_1426020231" CREATED="1682250820247" MODIFIED="1692461630717">
+<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="154.5 pt;45.75 pt;" ENDINCLINATION="-108.75 pt;51.75 pt;"/>
+<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="219.74999 pt;3.75 pt;" ENDINCLINATION="-352.49999 pt;51 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1478,6 +1535,122 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Базовые навыки первой помощи" ID="ID_680484539" CREATED="1691850064159" MODIFIED="1692460744090">
+<arrowlink COLOR="#ffcccc" DESTINATION="ID_923173040" STARTINCLINATION="235.49999 pt;0 pt;" ENDINCLINATION="-266.99999 pt;10.5 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Это очень полезно для обычной жизни - так, вам проще будет переносить разные болезни или травмы при знании как с ними бороться. Кроме того, это уменьшает зависимость от внешних медиков, т.е. вы сможете в случае чего оказать человеку первую помощь без врача или с консультациями врача. Это обязательный навык для сбора в одном месте большого количества человек. Кроме того, эти навыки смогут в случае чего спасти ваших возрастных членов организации. Да и в случае взаимодействия с детьми, это не лишний навык.
+    </p>
+    <p>
+      2) Эти навыки очень полезны в критических ситуациях, а в организациях занимающихся любой деятельностью требующей выхода из дома - эти ситуации возможны. Особенно в случае активного спорта.
+    </p>
+    <p>
+      3) Эти навыки не означают самолечение. Помните что задача получения этих навыков - уменьшение зависимости от медиков, но не замена их. Самолечение может оказаться хуже чем отсутствие помощи, так что в случае чего обращение к врачу приоритетнее.
+    </p>
+    <p>
+      4) Для получения навыков стоит обратить внимание на следующие источники:
+    </p>
+    <ul>
+      <li>
+        Курсы неэкстренной медицины - МЧС, красный крест и другое.
+      </li>
+      <li>
+        Самые базовые навыки можно собрать просто расспрашивая других людей (но есть высокая вероятность что вы это и так уже знаете, но попробовать стоит).
+      </li>
+      <li>
+        Учебники и энциклопедии научно-популярного уровня
+      </li>
+      <li>
+        Просветительский контент научно-популярного уровня по первой помощи
+      </li>
+      <li>
+        Коммерческие курсы и тренинги по первой помощи (если у вас на работе есть такие курсы как опциональное - рекомендую пройти)
+      </li>
+      <li>
+        Армейские методички по первой помощи (учтите что они обычно не покрывают все случаи и все навыки, они сконцентрированы только на военных и на их травмах).
+      </li>
+    </ul>
+    <p>
+      5) Полезные знания для аггрегации:
+    </p>
+    <ul>
+      <li>
+        Базовые сведения о широко распространённых рецептурных лекарствах и их дозировке
+      </li>
+      <li>
+        Умение делать уколы, ставить капельницы, накладывать шины и так далее.
+      </li>
+      <li>
+        Знание медицинской карты города\городов где расположены члены организации (местонахождение разных мед.учреждений, аптек, номеров, частных клиник и свободно практикующих врачей\медсестёр, режима работы отделений и их профилей).
+      </li>
+      <li>
+        Знание поведения в разных критических (медицинских) ситуациях - что делать в случае перелома\падения и т.д. Как вести себя при авариях и в случае чп.
+      </li>
+      <li>
+        Знание законодательства в сфере первой медицинской помощи - чтобы не подставить себя и не подставить других. Знать границы применения своих знаний.
+      </li>
+      <li>
+        Умение составлять &quot;аптечки&quot; - минимальный набор препаратов и инструкций к их применению. Этот навык полезен и для себя, и для распространения внутри организации.
+      </li>
+      <li>
+        Знание полагающихся по закону методов профилактики, умение организовать в случае чего профилактические мероприятия.
+      </li>
+      <li>
+        Умение примерно работать с медицинской бюрократией, знание бумажек которые нужно получать для разных действий до того как попадёшь к врачу.
+      </li>
+      <li>
+        Наблюдательность за признаками хронических болезней и умение накапливать знания и инструкции по борьбе с ними в случае если у ваших товарищей они есть.
+      </li>
+    </ul>
+    <p>
+      
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Базовые знания химии" ID="ID_551656470" CREATED="1692458247729" MODIFIED="1692460682679" TEXT_ALIGN="RIGHT"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Минимальные знания химии (хорошо освоенный школьный курс), знание распространённых хим. соединений.
+    </p>
+    <p>
+      2) Базовые знания фармацевтики, хотя бы на уровне действующих веществ (опционально).
+    </p>
+    <p>
+      3) Навыки проведения хим-лабораторных работ. Навыки поддержания стерильности, знание техники безопасности применительно к хим лаборатории.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node TEXT="Высшее химическое образование" ID="ID_640148159" CREATED="1692460690929" MODIFIED="1692461620150"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Это высшее университетское образование по одному из хим. направлений. Исключительно полезно образование фармацевта - оно имеет большую прикладную ценность, а так же химическо-экономическое образование (или его аналог который включает в себя экономику производств) для анализа отраслей и помощи экономистам в анализе. В контексте РФ вам может пригодится для анализа и химик-нефтяник, и химик-эколог.
+    </p>
+    <p>
+      2) Хим образование - это одно из образований - возможных источников денег для организации (для поднятия собственных производств).&#xa0;
+    </p>
+    <p>
+      3) При необходимости такой человек может провести хим экспертизу. Это довольно редкая задача для организации, но если таковая появится - он с ней справится.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 <node TEXT="Организация 2 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_1564500419" CREATED="1681987224085" MODIFIED="1682780638373" HGAP_QUANTITY="1970.74994 pt" VSHIFT_QUANTITY="-0.75 pt" VGAP_QUANTITY="3 pt"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -1492,7 +1665,7 @@
 </html></richcontent>
 <hook NAME="FreeNode"/>
 <node TEXT="Основы управления" FOLDED="true" ID="ID_1226545065" CREATED="1682774296600" MODIFIED="1690031391418" VGAP_QUANTITY="3 pt">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_14300266" STARTINCLINATION="324.74999 pt;-11.25 pt;" ENDINCLINATION="-410.24999 pt;-3 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_14300266" STARTINCLINATION="324.74999 pt;-9.75 pt;" ENDINCLINATION="-408.74999 pt;-1.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1617,8 +1790,8 @@
 </node>
 </node>
 <node TEXT="Касса - уровень 2" ID="ID_1364688242" CREATED="1684053390399" MODIFIED="1688821447555">
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_90758297" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-386.99999 pt;0 pt;"/>
 <arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="320.99999 pt;0 pt;" ENDINCLINATION="159.75 pt;9 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_90758297" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-385.49999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1674,7 +1847,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Расписание - уровень 2" ID="ID_87990140" CREATED="1684054690141" MODIFIED="1686419681337">
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="205.49999 pt;9 pt;" ENDINCLINATION="99.75 pt;-15 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="205.49999 pt;9 pt;" ENDINCLINATION="99.75 pt;-13.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1724,7 +1897,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Аналитический клуб - уровень 2" ID="ID_587119677" CREATED="1684056190596" MODIFIED="1688821420287">
-<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1614872174" STARTINCLINATION="311.99999 pt;-3 pt;" ENDINCLINATION="-523.49998 pt;-8.25 pt;"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1614872174" STARTINCLINATION="311.99999 pt;-1.5 pt;" ENDINCLINATION="-521.99998 pt;-6.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1786,7 +1959,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Система распределения ресурсов - модернизация" ID="ID_89672790" CREATED="1684057296371" MODIFIED="1688821537659">
-<arrowlink COLOR="#6666ff" TRANSPARENCY="255" DESTINATION="ID_457596016" STARTINCLINATION="194.24999 pt;40.5 pt;" ENDINCLINATION="-736.49998 pt;-69.75 pt;"/>
+<arrowlink COLOR="#6666ff" TRANSPARENCY="255" DESTINATION="ID_457596016" STARTINCLINATION="194.24999 pt;40.5 pt;" ENDINCLINATION="-734.99998 pt;-68.25 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1877,7 +2050,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Практическая деятельность - уровень 2" ID="ID_1329099653" CREATED="1684059378417" MODIFIED="1684059702930"><richcontent TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Практическая деятельность - уровень 2" FOLDED="true" ID="ID_1329099653" CREATED="1684059378417" MODIFIED="1684059702930"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1904,7 +2077,7 @@
   </body>
 </html></richcontent>
 <node TEXT="Общественно полезный активизм - 2 уровень" ID="ID_651790853" CREATED="1685805086522" MODIFIED="1688827145170">
-<arrowlink COLOR="#660099" TRANSPARENCY="255" DESTINATION="ID_1144600905" STARTINCLINATION="402.74999 pt;17.25 pt;" ENDINCLINATION="-213.74999 pt;-11.25 pt;"/>
+<arrowlink COLOR="#660099" TRANSPARENCY="255" DESTINATION="ID_1144600905" STARTINCLINATION="402.74999 pt;17.25 pt;" ENDINCLINATION="-212.24999 pt;-9.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1936,7 +2109,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Помощь рабочим коллективам - 2 уровень" ID="ID_1580805956" CREATED="1685806707209" MODIFIED="1688826980118">
-<arrowlink DESTINATION="ID_1803473880" STARTINCLINATION="608.99998 pt;0 pt;" ENDINCLINATION="-158.25 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1803473880" STARTINCLINATION="608.99998 pt;0 pt;" ENDINCLINATION="-156.75 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1959,7 +2132,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Пропаганда - уровень 2" ID="ID_404429290" CREATED="1685807891303" MODIFIED="1688826963806">
-<arrowlink COLOR="#00cccc" TRANSPARENCY="255" DESTINATION="ID_755771941" STARTINCLINATION="218.99999 pt;-0.75 pt;" ENDINCLINATION="-338.24999 pt;0 pt;"/>
+<arrowlink COLOR="#00cccc" TRANSPARENCY="255" DESTINATION="ID_755771941" STARTINCLINATION="218.99999 pt;0 pt;" ENDINCLINATION="-336.74999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1979,7 +2152,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Творчество - уровень 2" ID="ID_1378278297" CREATED="1685809873612" MODIFIED="1688829244605">
-<arrowlink COLOR="#ccccff" TRANSPARENCY="255" DESTINATION="ID_1843863921" STARTINCLINATION="345.74999 pt;-13.5 pt;" ENDINCLINATION="-53.25 pt;1.5 pt;"/>
+<arrowlink COLOR="#ccccff" TRANSPARENCY="255" DESTINATION="ID_1843863921" STARTINCLINATION="345.74999 pt;-12 pt;" ENDINCLINATION="-51.75 pt;1.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2002,7 +2175,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Образование" ID="ID_1492288452" CREATED="1687010160226" MODIFIED="1688826907023">
-<arrowlink COLOR="#006600" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="24.75 pt;0 pt;" ENDINCLINATION="-236.99999 pt;33.75 pt;"/>
+<arrowlink COLOR="#006600" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="24.75 pt;0 pt;" ENDINCLINATION="-235.49999 pt;33.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2039,8 +2212,8 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Теоретическая работа - основы" ID="ID_1690776229" CREATED="1687010436035" MODIFIED="1688829339630">
-<arrowlink COLOR="#ffff99" TRANSPARENCY="255" DESTINATION="ID_911497786" STARTINCLINATION="490.49999 pt;13.5 pt;" ENDINCLINATION="-197.99999 pt;-7.5 pt;"/>
+<node TEXT="Теоретическая работа - основы" ID="ID_1690776229" CREATED="1687010436035" MODIFIED="1692458220996">
+<arrowlink COLOR="#ffff99" TRANSPARENCY="255" DESTINATION="ID_911497786" STARTINCLINATION="492.74999 pt;0 pt;" ENDINCLINATION="-196.49999 pt;-6 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2083,9 +2256,31 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Медицинское волонтёрство" ID="ID_125733824" CREATED="1692458409649" MODIFIED="1692459888719"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Как и другая деятельность с волонтёрством - это в первую очередь нужно для создания хорошего имиджа за счёт помощи людям, набора из людей которым вы помогли новых сотрудников, а так же для наработки опыта вашим медикам. Ну и для пропаганды своих идей конечно же.
+    </p>
+    <p>
+      2) Это довольно ресурсоёмкая деятельность в случае концентрации на сложных заболеваниях. Для оптимизации затрат вы можете применять медицинскую сортировку и концентрироваться на наиболее простых и медийно удобных случаях.
+    </p>
+    <p>
+      3) В этой деятельности вам потребуется хорошее юридическое сопровождение во избежание проблем. Заготовьте сразу юридический отдел.
+    </p>
+    <p>
+      4) Готовьтесь экономить ресурсы за счёт собственной системы хранения и закупок. Закупайте опт, храните сами все нужные медикаменты за счёт своих мощностей.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node TEXT="Система организации общения и основы внутренней безопасности" ID="ID_1215325420" CREATED="1686413922218" MODIFIED="1687626794223">
-<arrowlink COLOR="#666666" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="545.99998 pt;26.25 pt;" ENDINCLINATION="-440.24999 pt;-42.75 pt;"/>
+<arrowlink COLOR="#666666" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="545.99998 pt;26.25 pt;" ENDINCLINATION="-438.74999 pt;-41.25 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2145,7 +2340,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Система генерации ресурсов" ID="ID_920389084" CREATED="1686419807413" MODIFIED="1687623836711">
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_402188662" STARTINCLINATION="706.49998 pt;0 pt;" ENDINCLINATION="-535.49998 pt;0 pt;"/>
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_402188662" STARTINCLINATION="706.49998 pt;0 pt;" ENDINCLINATION="-533.99998 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2183,7 +2378,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Основы внешней безопасности" ID="ID_287150511" CREATED="1687007163624" MODIFIED="1688821971334">
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="191.24999 pt;0 pt;" ENDINCLINATION="-464.99999 pt;-13.5 pt;"/>
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="191.24999 pt;0 pt;" ENDINCLINATION="-463.49999 pt;-12 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2214,6 +2409,35 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Медицинский пост" ID="ID_336451355" CREATED="1691854087084" MODIFIED="1692456259332">
+<arrowlink COLOR="#ffcccc" DESTINATION="ID_311276620" STARTINCLINATION="629.99998 pt;-27 pt;" ENDINCLINATION="-408.74999 pt;38.25 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) С текущим количеством ресурсов вы можете выделить несколько (или хотя бы одного человека) для осуществления медицинского надзора и реакции на ЧП.
+    </p>
+    <p>
+      2) Этих людей желательно не сильно нагружать работой - они должны оценивать обстановку и быть готовыми к оказанию первой помощи.
+    </p>
+    <p>
+      3) С этого момента желательно постоянное повышение квалификации в случае желания участников. Это может быть как более продвинутый набор курсов, так и полноценное мед образование. Кроме того, желательно накопление опыта первой помощи и сериализация его в набор методичек для внутреннего и внешнего распространения. Можно использовать и внешние методички, а так же искать бесплатные курсы и тренинги вне организации.
+    </p>
+    <p>
+      4) Самое время начать накопление и правильное хранение\учёт медикаментов - хотя бы самых востребованных для вашей организации. Кроме того, при качественном отслеживании можно начать принимать избытки медикаментов у членов вашей организации.
+    </p>
+    <p>
+      5) С этого момента накопление информации о здоровье членов организации может приобрести больший размах - у вас есть больше ответственных людей и возможность эту информацию обрабатывать.
+    </p>
+    <p>
+      6) Самое время начать накапливать связи с медиками. Ищите сочувствующих вашим взглядам медиков, фармацевтов и так далее - не для вербовки, а просто для знакомства. Старайтесь им помогать в форме небольшого волонтёрства чтобы получить кредит доверия для экстренной помощи. Старайтесь не навязываться с собственными идеологическими принципами - ценен сам контакт, а не его идеологическая верность.Связи с такими ценными людьми - могут принести огромную выгоду как самой организации, так и для обмена. Кроме того, если контакт деловой не налаживается - не прерывайте межличностный контакт и продолжайте оказывать ненапряжную поддержку. Это может окупиться в будующем.
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node TEXT="Организация 1 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_1570526671" CREATED="1679857396322" MODIFIED="1684053401195" HGAP_QUANTITY="1025.74997 pt" VSHIFT_QUANTITY="3.75 pt" VGAP_QUANTITY="3 pt"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -2228,8 +2452,8 @@
 </html></richcontent>
 <hook NAME="FreeNode"/>
 <node TEXT="Малая касса" ID="ID_80983957" CREATED="1679858240036" MODIFIED="1688821952262">
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1364688242" STARTINCLINATION="728.24998 pt;0 pt;" ENDINCLINATION="-101.25 pt;0 pt;"/>
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="342.74999 pt;0 pt;" ENDINCLINATION="0 pt;-63.75 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="342.74999 pt;0 pt;" ENDINCLINATION="0 pt;-62.25 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1364688242" STARTINCLINATION="728.24998 pt;0 pt;" ENDINCLINATION="-99.75 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2264,10 +2488,10 @@
 </node>
 </node>
 <node TEXT="Партийное\организационное расписание" ID="ID_1676922237" CREATED="1681038280333" MODIFIED="1684059934983">
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-82.5 pt;0 pt;"/>
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="283.49999 pt;0 pt;" ENDINCLINATION="96.75 pt;-329.24999 pt;"/>
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_87990140" STARTINCLINATION="461.24999 pt;0 pt;" ENDINCLINATION="-171.74999 pt;-4.5 pt;"/>
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="161.25 pt;11.25 pt;" ENDINCLINATION="-158.25 pt;-33.75 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-81 pt;0 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="283.49999 pt;0 pt;" ENDINCLINATION="96.75 pt;-327.74999 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="161.25 pt;11.25 pt;" ENDINCLINATION="-156.75 pt;-32.25 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_87990140" STARTINCLINATION="461.24999 pt;0 pt;" ENDINCLINATION="-170.24999 pt;-3 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2296,7 +2520,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Аналитический клуб" ID="ID_51861887" CREATED="1681043487876" MODIFIED="1689427826735">
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_587119677" STARTINCLINATION="826.49998 pt;0 pt;" ENDINCLINATION="-101.25 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_587119677" STARTINCLINATION="826.49998 pt;0 pt;" ENDINCLINATION="-99.75 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2334,8 +2558,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Агитационный клуб" ID="ID_1067976847" CREATED="1681647400481" MODIFIED="1688226477756">
-<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_200334904" STARTINCLINATION="2156.99994 pt;0 pt;" ENDINCLINATION="-281.24999 pt;-16.5 pt;"/>
-<arrowlink COLOR="#ffcc66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="194.99999 pt;0 pt;" ENDINCLINATION="-27 pt;-33 pt;"/>
+<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_200334904" STARTINCLINATION="2156.99994 pt;0 pt;" ENDINCLINATION="-279.74999 pt;-15 pt;"/>
+<arrowlink COLOR="#ffcc66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="194.99999 pt;0 pt;" ENDINCLINATION="-25.5 pt;-31.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2361,8 +2585,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Пропагандистский клуб" ID="ID_1949269221" CREATED="1681928919947" MODIFIED="1688226524988">
-<arrowlink COLOR="#ff66ff" TRANSPARENCY="255" DESTINATION="ID_1829181281" STARTINCLINATION="199.49999 pt;0 pt;" ENDINCLINATION="10.5 pt;-57.75 pt;"/>
-<arrowlink COLOR="#ff66cc" TRANSPARENCY="255" DESTINATION="ID_1823356431" STARTINCLINATION="2139.74994 pt;0 pt;" ENDINCLINATION="-137.25 pt;0 pt;"/>
+<arrowlink COLOR="#ff66cc" TRANSPARENCY="255" DESTINATION="ID_1823356431" STARTINCLINATION="2139.74994 pt;0 pt;" ENDINCLINATION="-135.75 pt;0 pt;"/>
+<arrowlink COLOR="#ff66ff" TRANSPARENCY="255" DESTINATION="ID_1829181281" STARTINCLINATION="199.49999 pt;0 pt;" ENDINCLINATION="10.5 pt;-56.25 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2406,8 +2630,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Сборник учебных материалов" ID="ID_1603938111" CREATED="1681933278098" MODIFIED="1688821536721">
-<arrowlink COLOR="#cc00cc" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="189.74999 pt;0 pt;" ENDINCLINATION="0 pt;-134.25 pt;"/>
-<arrowlink COLOR="#ff00ff" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="2128.49994 pt;0 pt;" ENDINCLINATION="-109.5 pt;3.75 pt;"/>
+<arrowlink COLOR="#ff00ff" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="2128.49994 pt;0 pt;" ENDINCLINATION="-108 pt;3.75 pt;"/>
+<arrowlink COLOR="#cc00cc" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="189.74999 pt;0 pt;" ENDINCLINATION="0 pt;-132.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2436,10 +2660,10 @@
 </html></richcontent>
 </node>
 <node TEXT="Техническое обеспечение - минимальный уровень" ID="ID_1245802533" CREATED="1681936174954" MODIFIED="1688821423339">
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="498.74999 pt;0 pt;" ENDINCLINATION="-143.25 pt;0 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1017731120" STARTINCLINATION="2028.74994 pt;0 pt;" ENDINCLINATION="-508.49998 pt;-7.5 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="39 pt;0 pt;" ENDINCLINATION="24 pt;-23.25 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="76.5 pt;0 pt;" ENDINCLINATION="53.25 pt;-29.25 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="498.74999 pt;0 pt;" ENDINCLINATION="-141.75 pt;0 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="76.5 pt;0 pt;" ENDINCLINATION="53.25 pt;-27.75 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1017731120" STARTINCLINATION="2028.74994 pt;0 pt;" ENDINCLINATION="-506.99998 pt;-6 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="39 pt;0 pt;" ENDINCLINATION="24 pt;-21.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2471,11 +2695,11 @@
 </html></richcontent>
 </node>
 <node TEXT="Внешние связи - каталог и интерфейсы" ID="ID_1280865951" CREATED="1682248427435" MODIFIED="1691247724535">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="98.25 pt;3.75 pt;" ENDINCLINATION="1.5 pt;-51 pt;"/>
-<arrowlink COLOR="#33ffff" TRANSPARENCY="255" DESTINATION="ID_1834417423" STARTINCLINATION="2049.74994 pt;0 pt;" ENDINCLINATION="-28.5 pt;2.25 pt;"/>
-<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1579701706" STARTINCLINATION="248.24999 pt;-10.5 pt;" ENDINCLINATION="-488.24999 pt;39 pt;"/>
-<arrowlink COLOR="#00ffff" DESTINATION="ID_1679934744" STARTINCLINATION="1442.99996 pt;0 pt;" ENDINCLINATION="-236.24999 pt;-7.5 pt;"/>
-<arrowlink COLOR="#00ffff" DESTINATION="ID_1265233484" STARTINCLINATION="1493.99996 pt;0 pt;" ENDINCLINATION="-355.49999 pt;0 pt;"/>
+<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1265233484" STARTINCLINATION="1493.99996 pt;0 pt;" ENDINCLINATION="-353.99999 pt;0 pt;"/>
+<arrowlink COLOR="#33ffff" TRANSPARENCY="255" DESTINATION="ID_1834417423" STARTINCLINATION="2049.74994 pt;0 pt;" ENDINCLINATION="-27 pt;2.25 pt;"/>
+<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1579701706" STARTINCLINATION="248.24999 pt;-9 pt;" ENDINCLINATION="-486.74999 pt;39 pt;"/>
+<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1679934744" STARTINCLINATION="1442.99996 pt;0 pt;" ENDINCLINATION="-234.74999 pt;-6 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="98.25 pt;3.75 pt;" ENDINCLINATION="1.5 pt;-49.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2539,9 +2763,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовая система контроля над ресурсами" ID="ID_1235068404" CREATED="1681649064242" MODIFIED="1686423711333">
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="350.24999 pt;-6.75 pt;" ENDINCLINATION="-176.24999 pt;0 pt;"/>
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_89672790" STARTINCLINATION="626.24998 pt;0 pt;" ENDINCLINATION="-238.49999 pt;0 pt;"/>
+<node TEXT="Базовая система контроля над ресурсами" ID="ID_1235068404" CREATED="1681649064242" MODIFIED="1692453521817">
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_89672790" STARTINCLINATION="626.24998 pt;0 pt;" ENDINCLINATION="-236.99999 pt;0 pt;"/>
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="350.24999 pt;-5.25 pt;" ENDINCLINATION="-162 pt;-8.25 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2563,10 +2787,10 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Собрание планирования" ID="ID_1703981505" CREATED="1682252287643" MODIFIED="1688829320236">
-<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="55.5 pt;0 pt;" ENDINCLINATION="-54 pt;1.5 pt;"/>
-<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1738433834" STARTINCLINATION="733.49998 pt;-169.49999 pt;" ENDINCLINATION="-230.24999 pt;-6.75 pt;"/>
-<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="94.5 pt;0 pt;" ENDINCLINATION="3 pt;-11.25 pt;"/>
+<node TEXT="Собрание планирования" ID="ID_1703981505" CREATED="1682252287643" MODIFIED="1692453488643">
+<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1738433834" STARTINCLINATION="733.49998 pt;-167.99999 pt;" ENDINCLINATION="-228.74999 pt;-5.25 pt;"/>
+<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="94.5 pt;0 pt;" ENDINCLINATION="3 pt;-9.75 pt;"/>
+<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="188.99999 pt;0 pt;" ENDINCLINATION="-206.99999 pt;6.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2633,8 +2857,8 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Практическая деятельность" FOLDED="true" ID="ID_197761191" CREATED="1683446737133" MODIFIED="1691246744093" VGAP_QUANTITY="3 pt">
-<arrowlink COLOR="#cccccc" TRANSPARENCY="255" DESTINATION="ID_1329099653" STARTINCLINATION="349.49999 pt;0 pt;" ENDINCLINATION="-707.99998 pt;0 pt;"/>
+<node TEXT="Практическая деятельность" FOLDED="true" ID="ID_197761191" CREATED="1683446737133" MODIFIED="1691847324327" VGAP_QUANTITY="3 pt">
+<arrowlink COLOR="#cccccc" TRANSPARENCY="255" DESTINATION="ID_1329099653" STARTINCLINATION="349.49999 pt;0 pt;" ENDINCLINATION="-706.49998 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2790,6 +3014,36 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Кружок" ID="ID_324570156" CREATED="1691847390180" MODIFIED="1691857406856"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Задача кружков - не столько изучение теории, сколько коллективное обсуждение и работа с практикой. Кружок сам по себе не является чем то универсальным - вы не можете полноценно освоить всё что нужно просто участвуя в нём. Это фактически, &quot;университет\нии&quot; на минимальнейших минималках. Помните, что для нормального обучения вам нужна стандартизированная программа и человек который уже хорошо разбирается в предмете (или чётко написанный учебник).
+    </p>
+    <p>
+      2) Будьте осторожны с уходом в высшие материи. Понятно что философия очень хорошо работает на абстракном уровне, но как только вы начинаете уходить совсем в астрал и на уровень птичьего языка, вы рискуете свалится в шизу. Старайтесь концентрироваться на прикладном уровне.
+    </p>
+    <p>
+      3) Опасайтесь при наборе программы обучения - включения плохо проверенных материалов или выбора &quot;на свой вкус&quot;. Помните, что не только ваши идеологические учебники работают, не только ваша пропаганда старается завлечь вас на свою сторону. Эклектика может привести вас в шизу даже если вы исходили из лучших побуждений и старались обобщить всё полезное из того что знаете.
+    </p>
+    <p>
+      4) Помните что обучение конечно. Старайтесь не замыкаться на нём и искать способы перейти к практической деятельности. В идеале кружок должен самоликвидироваться когда вы получите чуть больше чем базовый объём знаний и проведёте некоторый объём практики. Опыт обучения&#xa0;должен быть хорошо систематизирован и выложен в открытый доступ.
+    </p>
+    <p>
+      5) Важна последовательность обучения. Не скачите по темам, не уходите в субъективный выбор учебных материалов. Желательно программу обучения выстроить заранее и не отступать от неё.
+    </p>
+    <p>
+      6) Внимательно проверяйте приглашённых (и неприглашённых)специалистов. Задача этой проверки - выявить шиза или достаточно упоротого ревизиониста. Смотрите на его отступления от вашей программы, на маркеры упоротости вроде фолк-хистори или попытки отменять подтверждённые научные знания.
+    </p>
+    <p>
+      7) Основа кружка - это дискуссия. Старайтесь больше времени проводить вместе обсуждая и споря, нежели просто читая.
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node TEXT="Идеологическая подготовка" ID="ID_1164016728" CREATED="1690646595310" MODIFIED="1690647010173"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -2798,6 +3052,35 @@
   </head>
   <body>
     Идеологическая подготовка обычно имеет следующие цели и задачи:<br/>Формирование идентичности и патриотизма: основная цель идеологической подготовки заключается в укреплении наднациональной общности, и общих взглядов. Это достигается путем пропаганды и поддержки общенациональных ценностей, всеобщей истории, терпимости языков и культуры и общечеловеческих гуманистических символов.<br/><br/>Военно-патриотическое воспитание: одной из важнейших задач идеологической подготовки является военно-патриотическое воспитание. Оно направлено на формирование готовности членое организации отстаивать общие интересы организации и общей родины, прививать терпимость к армии, поддерживать желание служить в армии и защищать родину.<br/><br/>Формирование идеологической стабильности: идеологическая подготовка может служить средством сохранения и укрепления политической организации ибо формирует у членов позитивное отношение к организации, её центральной идеологии и политики, а также программе действия и текущим политическим реалиям, предотвращая возможные потенциальные угрозы и проникновения потенциальных провокаторов.<br/><br/>Борьба с идеологическими угрозами и враждебными идеями: еще одна задача идеологической подготовки - предотвращение распространения идеологий, которые могут быть враждебными или опасными для организации и всего общества в целом. Это может включать борьбу с экстремизмом, терроризмом, радикализацией, провокаторство, призывам к бессмысленному насилию и другими негативными явлениями.<br/><br/>Формирование характера и нравственных ценностей: идеологическая подготовка включает в себя и формирование характера и нравственности членов организации. Целью здесь является создание морально-этических установок и ценностей, способствующих устойчивому развитию общества и интернационального пролетарского сознания.<br/><br/>Образование и развитие: идеологическая подготовка может также направляться на развитие образования, развитие и укрепление теории, поощрение интеллектуального роста и активного участия участников в различных сферах жизни организации.<br/><br/>Однако стоит отметить, что цели и задачи идеологической подготовки могут варьироваться в зависимости от политической и культурной ситуации в конкретной стране. Форма проведения: политзанятия на определённые темы с выбранным лектором.
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Ответственный за медицину&#xa;(консультант)" ID="ID_923173040" CREATED="1691853021164" MODIFIED="1692456237190">
+<arrowlink COLOR="#ffcccc" DESTINATION="ID_336451355" STARTINCLINATION="564.74998 pt;-20.25 pt;" ENDINCLINATION="-98.25 pt;3 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Задача этого человека - не организовывать лечение, а уметь оказать первую помощь и отправить в медицинское учреждение.
+    </p>
+    <p>
+      2) Он ответственен за сбор данных о здоровье персонала на минимальном уровне - если у кого есть хронические болезни, аллергии, когда пройдена диспансеризация, положены ли ему бесплатные мед услуги или лекарства.
+    </p>
+    <p>
+      3) Так же он ответственен за минимальный набор лекарств и сбор аптечек для разных ситуаций (а так же по возможности за сбор таковых для членов организации).
+    </p>
+    <p>
+      4) При проведении мероприятий он должен быть наготове к оказанию первой помощи (в случае праздников - не пить, в случае рабочих мероприятий - не нагружать его настолько сильно).
+    </p>
+    <p>
+      5) Желательно так же наладить обмен знаниями для членов организации. Минимальное консультирование для всех в принципе, углублённая передача знаний для тех кто заинтересовался. В идеале у всех должно быть хоть какое то понимание первой помощи.
+    </p>
+    <p>
+      6) Желательная психическая устойчивость и готовность к экстренным ситуациям. На этом уровне это ещё не обязательно, но желательно. Кроме того, базовые действия желательно натренировать до автоматизма.
+    </p>
   </body>
 </html></richcontent>
 </node>
