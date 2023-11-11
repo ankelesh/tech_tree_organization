@@ -1,8 +1,8 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node TEXT="Стадия организованности" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1697300022066" VGAP_QUANTITY="3 pt" NodeVisibilityConfiguration="SHOW_HIDDEN_NODES">
+<node TEXT="Стадия организованности" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1697897868893" VGAP_QUANTITY="3 pt" NodeVisibilityConfiguration="SHOW_HIDDEN_NODES">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#3c3836" zoom="0.159">
+<hook NAME="MapStyle" background="#3c3836" zoom="1.001">
     <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/dark_gruvbox_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
@@ -72,7 +72,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="Организация 3 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="top_or_left" ID="ID_624909941" CREATED="1682774208962" MODIFIED="1697300022068" HGAP_QUANTITY="-2936.49991 pt" VSHIFT_QUANTITY="-6.75 pt" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_CENTERED"><richcontent TYPE="DETAILS">
+<node TEXT="Организация 3 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="top_or_left" ID="ID_624909941" CREATED="1682774208962" MODIFIED="1697897868895" HGAP_QUANTITY="-2936.49991 pt" VSHIFT_QUANTITY="-6.75 pt" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_CENTERED"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -90,7 +90,7 @@
   </body>
 </html></richcontent>
 <hook NAME="FreeNode"/>
-<node TEXT="Политики поведения" ID="ID_717313387" CREATED="1689435583733" MODIFIED="1697300022068"><richcontent TYPE="DETAILS">
+<node TEXT="Политики поведения" ID="ID_717313387" CREATED="1689435583733" MODIFIED="1697897868896"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -125,7 +125,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Политика идеологического расширения" ID="ID_1517637751" CREATED="1690041142731" MODIFIED="1697300022070"><richcontent TYPE="DETAILS">
+<node TEXT="Политика идеологического расширения" ID="ID_1517637751" CREATED="1690041142731" MODIFIED="1697897868897"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -149,7 +149,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Политика укрепления статуса персонала" ID="ID_834988243" CREATED="1690040418372" MODIFIED="1697300022071"><richcontent TYPE="DETAILS">
+<node TEXT="Политика укрепления статуса персонала" ID="ID_834988243" CREATED="1690040418372" MODIFIED="1697897868898"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -173,7 +173,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Политика взаимодействий с властью" ID="ID_977338138" CREATED="1690039681223" MODIFIED="1697300022071"><richcontent TYPE="DETAILS">
+<node TEXT="Политика взаимодействий с властью" ID="ID_977338138" CREATED="1690039681223" MODIFIED="1697897868899"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -197,7 +197,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Политика закрепления горизонтальных связей" ID="ID_1973274761" CREATED="1690038929130" MODIFIED="1697300022072"><richcontent TYPE="DETAILS">
+<node TEXT="Политика закрепления горизонтальных связей" ID="ID_1973274761" CREATED="1690038929130" MODIFIED="1697897868899"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -221,7 +221,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Политика перетасовки" ID="ID_1728464876" CREATED="1690038587610" MODIFIED="1697300022072"><richcontent TYPE="DETAILS">
+<node TEXT="Политика перетасовки" ID="ID_1728464876" CREATED="1690038587610" MODIFIED="1697897868900"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -245,7 +245,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Политика усиления контроля" ID="ID_1848989140" CREATED="1690037582612" MODIFIED="1697300022073"><richcontent TYPE="DETAILS">
+<node TEXT="Политика усиления контроля" ID="ID_1848989140" CREATED="1690037582612" MODIFIED="1697897868901"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -275,7 +275,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Политика однонаправленности" ID="ID_1325445182" CREATED="1690034384744" MODIFIED="1697300022073"><richcontent TYPE="DETAILS">
+<node TEXT="Политика однонаправленности" ID="ID_1325445182" CREATED="1690034384744" MODIFIED="1697897868901"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -302,7 +302,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Политика сокрытия" ID="ID_1081627600" CREATED="1690031397823" MODIFIED="1697300022074"><richcontent TYPE="DETAILS">
+<node TEXT="Политика сокрытия" ID="ID_1081627600" CREATED="1690031397823" MODIFIED="1697897868902"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -330,7 +330,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Отдел свободного посещения" ID="ID_1595862303" CREATED="1689429717224" MODIFIED="1697300022074"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел свободного посещения" ID="ID_1595862303" CREATED="1689429717224" MODIFIED="1697897868902"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -375,7 +375,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="&quot;Освобождённый рабочий&quot;" FOLDED="true" ID="ID_1908552945" CREATED="1687616814505" MODIFIED="1697300022075" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_CENTERED"><richcontent TYPE="DETAILS">
+<node TEXT="&quot;Освобождённый рабочий&quot;" FOLDED="true" ID="ID_1908552945" CREATED="1687616814505" MODIFIED="1697897868904" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_CENTERED"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -995,7 +995,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Кадровый отдел" ID="ID_1524814853" CREATED="1689432450572" MODIFIED="1697300022076"><richcontent TYPE="DETAILS">
+<node TEXT="Кадровый отдел" ID="ID_1524814853" CREATED="1689432450572" MODIFIED="1697897868905"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1037,7 +1037,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Отдел международных связей" ID="ID_1679934744" CREATED="1691242912628" MODIFIED="1697300022077"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел международных связей" ID="ID_1679934744" CREATED="1691242912628" MODIFIED="1697897868906"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1070,7 +1070,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Отдел межорганизационных взаимодействий" ID="ID_1265233484" CREATED="1691246748929" MODIFIED="1697300022078"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел межорганизационных взаимодействий" ID="ID_1265233484" CREATED="1691246748929" MODIFIED="1697897868907"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1094,7 +1094,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Медпункт\медотдел" ID="ID_311276620" CREATED="1692453878620" MODIFIED="1697300022080"><richcontent TYPE="DETAILS">
+<node TEXT="Медпункт\медотдел" ID="ID_311276620" CREATED="1692453878620" MODIFIED="1697897868909"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1118,7 +1118,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Логистический отдел" ID="ID_1773984742" CREATED="1693064193553" MODIFIED="1697300022080"><richcontent TYPE="DETAILS">
+<node TEXT="Логистический отдел" ID="ID_1773984742" CREATED="1693064193553" MODIFIED="1697897868912"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1136,7 +1136,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Отдел тех-обеспечения" ID="ID_421795661" CREATED="1694265247799" MODIFIED="1697300022081"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел тех-обеспечения" ID="ID_421795661" CREATED="1694265247799" MODIFIED="1697897845460"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1160,7 +1160,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Отдел рефлексии и исследований" ID="ID_1442517125" CREATED="1694270821500" MODIFIED="1697300022081" VSHIFT_QUANTITY="0.75 pt"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел рефлексии и исследований" ID="ID_1442517125" CREATED="1694270821500" MODIFIED="1697897868913" VSHIFT_QUANTITY="0.75 pt"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1185,7 +1185,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Личный уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_1525481271" CREATED="1681987107485" MODIFIED="1697300022082" HGAP_QUANTITY="317.74999 pt" VSHIFT_QUANTITY="-1.5 pt"><richcontent TYPE="DETAILS">
+<node TEXT="Личный уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_1525481271" CREATED="1681987107485" MODIFIED="1697897868914" HGAP_QUANTITY="317.74999 pt" VSHIFT_QUANTITY="-1.5 pt"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1209,14 +1209,14 @@
   </body>
 </html></richcontent>
 <hook NAME="FreeNode"/>
-<node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1697300022082">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1703981505" STARTINCLINATION="398.99999 pt;0 pt;" ENDINCLINATION="-184.49999 pt;0 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1280865951" STARTINCLINATION="177.74999 pt;15 pt;" ENDINCLINATION="-119.25 pt;0 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="108.75 pt;0 pt;" ENDINCLINATION="-51 pt;0 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="149.25 pt;0 pt;" ENDINCLINATION="-68.25 pt;0 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="869.24997 pt;0 pt;" ENDINCLINATION="-105.75 pt;-27.75 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="171.74999 pt;0 pt;" ENDINCLINATION="-268.49999 pt;9 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1697897868914">
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1280865951" STARTINCLINATION="177.74999 pt;15 pt;" ENDINCLINATION="-115.5 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="149.25 pt;0 pt;" ENDINCLINATION="-64.5 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="869.24997 pt;0 pt;" ENDINCLINATION="-102 pt;-24 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="108.75 pt;0 pt;" ENDINCLINATION="-47.25 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="171.74999 pt;0 pt;" ENDINCLINATION="-264.74999 pt;9 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1703981505" STARTINCLINATION="398.99999 pt;0 pt;" ENDINCLINATION="-180.74999 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1236,7 +1236,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Менеджерское высшее образование" ID="ID_1706000902" CREATED="1690636979448" MODIFIED="1697300022085"><richcontent TYPE="DETAILS">
+<node TEXT="Менеджерское высшее образование" ID="ID_1706000902" CREATED="1690636979448" MODIFIED="1697897868917"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1255,10 +1255,10 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1697300022087">
+<node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1697897868918">
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="59.25 pt;0 pt;" ENDINCLINATION="-153.75 pt;0 pt;"/>
 <arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="71.25 pt;0 pt;" ENDINCLINATION="0 pt;0.75 pt;"/>
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="59.25 pt;0 pt;" ENDINCLINATION="-157.5 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1281,7 +1281,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Высшее экономическое (теоретическое) образование" ID="ID_466305144" CREATED="1690638184900" MODIFIED="1697300022091"><richcontent TYPE="DETAILS">
+<node TEXT="Высшее экономическое (теоретическое) образование" ID="ID_466305144" CREATED="1690638184900" MODIFIED="1697897868921"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1303,13 +1303,13 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Идеологическая грамотность" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1697300022092">
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="939.74997 pt;0 pt;" ENDINCLINATION="-212.24999 pt;11.25 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_324570156" STARTINCLINATION="719.24998 pt;-63 pt;" ENDINCLINATION="-145.5 pt;0 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-91.5 pt;0 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1164016728" STARTINCLINATION="496.49999 pt;0 pt;" ENDINCLINATION="-348.74999 pt;-57.75 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-92.25 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Идеологическая грамотность" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1697897868922">
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-88.5 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_324570156" STARTINCLINATION="719.24998 pt;-59.25 pt;" ENDINCLINATION="-141.75 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="939.74997 pt;0 pt;" ENDINCLINATION="-208.49999 pt;11.25 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1164016728" STARTINCLINATION="496.49999 pt;0 pt;" ENDINCLINATION="-344.99999 pt;-54 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-87.75 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1332,7 +1332,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Качественное методологическое образование" ID="ID_1256798544" CREATED="1690638965919" MODIFIED="1697300022095"><richcontent TYPE="DETAILS">
+<node TEXT="Качественное методологическое образование" ID="ID_1256798544" CREATED="1690638965919" MODIFIED="1697897868925"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1365,10 +1365,10 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Адекватность времени" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1770719064" CREATED="1681641802916" MODIFIED="1697300022095">
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-33.75 pt;8.25 pt;"/>
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;0 pt;" ENDINCLINATION="-191.99999 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Адекватность времени" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1770719064" CREATED="1681641802916" MODIFIED="1697897868926">
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-30 pt;8.25 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;0 pt;" ENDINCLINATION="-188.24999 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1394,7 +1394,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Разделение вкусов масс" ID="ID_337573624" CREATED="1690641837320" MODIFIED="1697300022099"><richcontent TYPE="DETAILS">
+<node TEXT="Разделение вкусов масс" ID="ID_337573624" CREATED="1690641837320" MODIFIED="1697897868929"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1410,12 +1410,12 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Знание современных методов создания контента" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1697300022100">
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-147.75 pt;9 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-200.24999 pt;0 pt;"/>
-<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-92.25 pt;-28.5 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-226.49999 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Знание современных методов создания контента" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1697897868929">
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-196.49999 pt;0 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-222.74999 pt;0 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-144 pt;9 pt;"/>
+<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-88.5 pt;-24.75 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1442,10 +1442,10 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовые юридические знания" ID="ID_512513754" CREATED="1681650389736" MODIFIED="1697300022103">
-<arrowlink COLOR="#0066ff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-54 pt;-75.75 pt;"/>
-<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-272.24999 pt;28.5 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Базовые юридические знания" ID="ID_512513754" CREATED="1681650389736" MODIFIED="1697897868932">
+<arrowlink COLOR="#0066ff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-50.25 pt;-72 pt;"/>
+<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-268.49999 pt;28.5 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1456,12 +1456,12 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Высшее юридическое образование" ID="ID_249144719" CREATED="1690646456955" MODIFIED="1697300022106"/>
+<node TEXT="Высшее юридическое образование" ID="ID_249144719" CREATED="1690646456955" MODIFIED="1697897868935"/>
 </node>
-<node TEXT="Базовые навыки бухгалтерии и работы в торговле" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1697300022106">
+<node TEXT="Базовые навыки бухгалтерии и работы в торговле" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1699112623113">
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="1667.99995 pt;0 pt;" ENDINCLINATION="-197.99999 pt;-51 pt;"/>
 <arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="175.49999 pt;6 pt;" ENDINCLINATION="84.75 pt;90 pt;"/>
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="1463.24996 pt;0 pt;" ENDINCLINATION="-153.75 pt;5.25 pt;"/>
-<richcontent TYPE="DETAILS">
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1484,7 +1484,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Высшее бухгалтерское (экономическое прикладное)" ID="ID_1808379728" CREATED="1694872935037" MODIFIED="1697300022109"><richcontent TYPE="DETAILS">
+<node TEXT="Высшее бухгалтерское (экономическое прикладное)" ID="ID_1808379728" CREATED="1694872935037" MODIFIED="1697897868937"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1500,9 +1500,9 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Базовое знание рекламы, пиара и маркетологии." ID="ID_701292597" CREATED="1681931525600" MODIFIED="1697300022110">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;0 pt;" ENDINCLINATION="-51 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Базовое знание рекламы, пиара и маркетологии." ID="ID_701292597" CREATED="1681931525600" MODIFIED="1697897868939">
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;0 pt;" ENDINCLINATION="-47.25 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1526,10 +1526,10 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовое знание преподавательской работы" FOLDED="true" ID="ID_1317096810" CREATED="1681935248870" MODIFIED="1697300022113">
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1164016728" STARTINCLINATION="338.99999 pt;110.25 pt;" ENDINCLINATION="-200.24999 pt;-239.99999 pt;"/>
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="334.49999 pt;0 pt;" ENDINCLINATION="-203.99999 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Базовое знание преподавательской работы" FOLDED="true" ID="ID_1317096810" CREATED="1681935248870" MODIFIED="1697897878101">
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1164016728" STARTINCLINATION="-5.25 pt;55.5 pt;" ENDINCLINATION="-174.74999 pt;-283.49999 pt;"/>
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="334.49999 pt;0 pt;" ENDINCLINATION="-200.24999 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1550,13 +1550,13 @@
   </body>
 </html></richcontent>
 <node TEXT="Высшее педагогическое образование по нужной стадии" ID="ID_286787971" CREATED="1690646505924" MODIFIED="1693670967730">
-<arrowlink COLOR="#6633ff" TRANSPARENCY="255" DESTINATION="ID_1492288452" STARTINCLINATION="1096.49997 pt;0 pt;" ENDINCLINATION="-98.25 pt;12.75 pt;"/>
+<arrowlink COLOR="#6633ff" TRANSPARENCY="255" DESTINATION="ID_1492288452" STARTINCLINATION="1096.49997 pt;0 pt;" ENDINCLINATION="-94.5 pt;12.75 pt;"/>
 </node>
 </node>
-<node TEXT="Базовые знания в IT и электронике" ID="ID_1314321739" CREATED="1681937359356" MODIFIED="1697300022115">
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-178.49999 pt;24.75 pt;"/>
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="358.49999 pt;-7.5 pt;" ENDINCLINATION="-85.5 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Базовые знания в IT и электронике" ID="ID_1314321739" CREATED="1681937359356" MODIFIED="1697897868943">
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="358.49999 pt;-3.75 pt;" ENDINCLINATION="-81.75 pt;0 pt;"/>
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-174.74999 pt;24.75 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1588,7 +1588,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Высшее образование в айти сфере" ID="ID_813865872" CREATED="1690647024904" MODIFIED="1697300022116"><richcontent TYPE="DETAILS">
+<node TEXT="Высшее образование в айти сфере" ID="ID_813865872" CREATED="1690647024904" MODIFIED="1697897868944"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1604,10 +1604,10 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Базовое знание научной методологии" ID="ID_1426020231" CREATED="1682250820247" MODIFIED="1697300022116">
-<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="219.74999 pt;3.75 pt;" ENDINCLINATION="-344.99999 pt;51 pt;"/>
-<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="154.5 pt;45.75 pt;" ENDINCLINATION="-101.25 pt;51.75 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Базовое знание научной методологии" ID="ID_1426020231" CREATED="1682250820247" MODIFIED="1697897868945">
+<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="219.74999 pt;3.75 pt;" ENDINCLINATION="-341.24999 pt;51 pt;"/>
+<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="154.5 pt;45.75 pt;" ENDINCLINATION="-97.5 pt;51.75 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1634,11 +1634,11 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовые навыки первой помощи" ID="ID_680484539" CREATED="1691850064159" MODIFIED="1697300022118">
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_923173040" STARTINCLINATION="235.49999 pt;0 pt;" ENDINCLINATION="-259.49999 pt;10.5 pt;"/>
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_942840113" STARTINCLINATION="2668.49992 pt;0 pt;" ENDINCLINATION="-92.25 pt;0 pt;"/>
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_125733824" STARTINCLINATION="677.99998 pt;0 pt;" ENDINCLINATION="-191.24999 pt;4.5 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Базовые навыки первой помощи" ID="ID_680484539" CREATED="1691850064159" MODIFIED="1699112625040">
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_942840113" STARTINCLINATION="2668.49992 pt;0 pt;" ENDINCLINATION="-88.5 pt;0 pt;"/>
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_125733824" STARTINCLINATION="844.49997 pt;-22.5 pt;" ENDINCLINATION="-308.24999 pt;-101.25 pt;"/>
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_923173040" STARTINCLINATION="235.49999 pt;0 pt;" ENDINCLINATION="-255.74999 pt;10.5 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1714,7 +1714,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовые знания химии" ID="ID_551656470" CREATED="1692458247729" MODIFIED="1697300022120" TEXT_ALIGN="RIGHT"><richcontent TYPE="DETAILS">
+<node TEXT="Базовые знания химии" ID="ID_551656470" CREATED="1692458247729" MODIFIED="1697897868947" TEXT_ALIGN="RIGHT"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1731,7 +1731,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Высшее химическое образование" ID="ID_640148159" CREATED="1692460690929" MODIFIED="1697300022121"><richcontent TYPE="DETAILS">
+<node TEXT="Высшее химическое образование" ID="ID_640148159" CREATED="1692460690929" MODIFIED="1697897868948"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1750,7 +1750,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Навыки вождения разного транспорта" ID="ID_305160655" CREATED="1693058224097" MODIFIED="1697300022122"><richcontent TYPE="DETAILS">
+<node TEXT="Навыки вождения разного транспорта" ID="ID_305160655" CREATED="1693058224097" MODIFIED="1697897868949"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1774,9 +1774,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовые знания логистики" ID="ID_5763270" CREATED="1693060786609" MODIFIED="1697300022124">
-<arrowlink COLOR="#999900" TRANSPARENCY="255" DESTINATION="ID_137347022" STARTINCLINATION="237.74999 pt;0 pt;" ENDINCLINATION="-149.25 pt;-1.5 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Базовые знания логистики" ID="ID_5763270" CREATED="1693060786609" MODIFIED="1697897868950">
+<arrowlink COLOR="#999900" TRANSPARENCY="255" DESTINATION="ID_137347022" STARTINCLINATION="237.74999 pt;0 pt;" ENDINCLINATION="-145.5 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1793,9 +1793,9 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Профильное логистическое образование" ID="ID_1789453996" CREATED="1693061636105" MODIFIED="1697300022125">
-<arrowlink COLOR="#999900" TRANSPARENCY="255" DESTINATION="ID_1773984742" STARTINCLINATION="2405.24993 pt;0 pt;" ENDINCLINATION="-154.5 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Профильное логистическое образование" ID="ID_1789453996" CREATED="1693061636105" MODIFIED="1697897868951">
+<arrowlink COLOR="#999900" TRANSPARENCY="255" DESTINATION="ID_1773984742" STARTINCLINATION="2405.24993 pt;0 pt;" ENDINCLINATION="-150.75 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1811,7 +1811,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Психическая полноценность и умение налаживать отношения" ID="ID_141487247" CREATED="1693663430941" MODIFIED="1697300022125"><richcontent TYPE="DETAILS">
+<node TEXT="Психическая полноценность и умение налаживать отношения" ID="ID_141487247" CREATED="1693663430941" MODIFIED="1697897868952"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1855,7 +1855,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Не быть глупцом" ID="ID_701410051" CREATED="1693669583418" MODIFIED="1697300022130"><richcontent TYPE="DETAILS">
+<node TEXT="Не быть глупцом" ID="ID_701410051" CREATED="1693669583418" MODIFIED="1697897868954"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1888,7 +1888,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовые знания гражданского боя" ID="ID_317235822" CREATED="1694013214860" MODIFIED="1697300022130"><richcontent TYPE="DETAILS">
+<node TEXT="Базовые знания гражданского боя" ID="ID_317235822" CREATED="1694013214860" MODIFIED="1697897334639"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1938,7 +1938,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Офицеры гражданского боя" ID="ID_186744649" CREATED="1694017522025" MODIFIED="1697300022131"><richcontent TYPE="DETAILS">
+<node TEXT="Офицеры гражданского боя" ID="ID_186744649" CREATED="1694017522025" MODIFIED="1697897868954"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1972,7 +1972,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Базовые знания военного дела" ID="ID_1054374380" CREATED="1694013269006" MODIFIED="1697300022131"><richcontent TYPE="DETAILS">
+<node TEXT="Базовые знания военного дела" ID="ID_1054374380" CREATED="1694013269006" MODIFIED="1697897868957"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -1998,7 +1998,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Командиры" ID="ID_1504675192" CREATED="1694020573823" MODIFIED="1697300022132"><richcontent TYPE="DETAILS">
+<node TEXT="Командиры" ID="ID_1504675192" CREATED="1694020573823" MODIFIED="1697897868958"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2033,7 +2033,7 @@
 </node>
 </node>
 </node>
-<node TEXT="Организация 2 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_1564500419" CREATED="1681987224085" MODIFIED="1697300022132" HGAP_QUANTITY="1970.74994 pt" VSHIFT_QUANTITY="-0.75 pt" VGAP_QUANTITY="3 pt"><richcontent TYPE="DETAILS">
+<node TEXT="Организация 2 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_1564500419" CREATED="1681987224085" MODIFIED="1697897868959" HGAP_QUANTITY="1970.74994 pt" VSHIFT_QUANTITY="-0.75 pt" VGAP_QUANTITY="3 pt"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2045,9 +2045,9 @@
   </body>
 </html></richcontent>
 <hook NAME="FreeNode"/>
-<node TEXT="Основы управления" ID="ID_1226545065" CREATED="1682774296600" MODIFIED="1697300022133" VGAP_QUANTITY="3 pt">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_14300266" STARTINCLINATION="324.74999 pt;-2.25 pt;" ENDINCLINATION="-401.24999 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Основы управления" ID="ID_1226545065" CREATED="1682774296600" MODIFIED="1697897868959" VGAP_QUANTITY="3 pt">
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_14300266" STARTINCLINATION="324.74999 pt;0 pt;" ENDINCLINATION="-397.49999 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2064,7 +2064,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="&quot;Жесткие&quot; системы управления" ID="ID_25983482" CREATED="1682774325683" MODIFIED="1697300022134"><richcontent TYPE="DETAILS">
+<node TEXT="&quot;Жесткие&quot; системы управления" ID="ID_25983482" CREATED="1682774325683" MODIFIED="1697897868961"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2091,7 +2091,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="&quot;Мягкие&quot; системы управления" ID="ID_1450635938" CREATED="1682776809107" MODIFIED="1697300022135"><richcontent TYPE="DETAILS">
+<node TEXT="&quot;Мягкие&quot; системы управления" ID="ID_1450635938" CREATED="1682776809107" MODIFIED="1697897868962"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2124,7 +2124,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Агрегационные системы управления" ID="ID_1579701706" CREATED="1682779666624" MODIFIED="1697300022136"><richcontent TYPE="DETAILS">
+<node TEXT="Агрегационные системы управления" ID="ID_1579701706" CREATED="1682779666624" MODIFIED="1697897868963"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2170,10 +2170,10 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Касса - уровень 2" ID="ID_1364688242" CREATED="1684053390399" MODIFIED="1697300022136">
+<node TEXT="Касса - уровень 2" ID="ID_1364688242" CREATED="1684053390399" MODIFIED="1697897868963">
 <arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="320.99999 pt;0 pt;" ENDINCLINATION="159.75 pt;9 pt;"/>
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_90758297" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-377.99999 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_90758297" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-374.24999 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2239,9 +2239,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Расписание - уровень 2" ID="ID_87990140" CREATED="1684054690141" MODIFIED="1697300022138">
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="205.49999 pt;9 pt;" ENDINCLINATION="99.75 pt;-6 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Расписание - уровень 2" ID="ID_87990140" CREATED="1684054690141" MODIFIED="1697897868965">
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="205.49999 pt;9 pt;" ENDINCLINATION="99.75 pt;-2.25 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2289,9 +2289,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Аналитический клуб - уровень 2" ID="ID_587119677" CREATED="1684056190596" MODIFIED="1697300022140">
-<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1614872174" STARTINCLINATION="311.99999 pt;0 pt;" ENDINCLINATION="-514.49998 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Аналитический клуб - уровень 2" ID="ID_587119677" CREATED="1684056190596" MODIFIED="1697897868967">
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1614872174" STARTINCLINATION="311.99999 pt;0 pt;" ENDINCLINATION="-510.74998 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2354,9 +2354,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Система распределения ресурсов - модернизация" ID="ID_89672790" CREATED="1684057296371" MODIFIED="1697300022142">
-<arrowlink COLOR="#6666ff" TRANSPARENCY="255" DESTINATION="ID_457596016" STARTINCLINATION="194.24999 pt;40.5 pt;" ENDINCLINATION="-727.49998 pt;-60.75 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Система распределения ресурсов - модернизация" ID="ID_89672790" CREATED="1684057296371" MODIFIED="1697897868970">
+<arrowlink COLOR="#6666ff" TRANSPARENCY="255" DESTINATION="ID_457596016" STARTINCLINATION="194.24999 pt;40.5 pt;" ENDINCLINATION="-723.74998 pt;-57 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2401,7 +2401,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Собрание планирования - уровень 2" ID="ID_1738433834" CREATED="1684058354363" MODIFIED="1697300022145"><richcontent TYPE="DETAILS">
+<node TEXT="Собрание планирования - уровень 2" ID="ID_1738433834" CREATED="1684058354363" MODIFIED="1697897868972"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2446,7 +2446,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Практическая деятельность - уровень 2" ID="ID_1329099653" CREATED="1684059378417" MODIFIED="1697300022146"><richcontent TYPE="DETAILS">
+<node TEXT="Практическая деятельность - уровень 2" ID="ID_1329099653" CREATED="1684059378417" MODIFIED="1697897868973"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2472,9 +2472,9 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Общественно полезный активизм - 2 уровень" ID="ID_651790853" CREATED="1685805086522" MODIFIED="1697300022148">
-<arrowlink COLOR="#660099" TRANSPARENCY="255" DESTINATION="ID_1144600905" STARTINCLINATION="402.74999 pt;17.25 pt;" ENDINCLINATION="-204.74999 pt;-2.25 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Общественно полезный активизм - 2 уровень" ID="ID_651790853" CREATED="1685805086522" MODIFIED="1697897868974">
+<arrowlink COLOR="#660099" TRANSPARENCY="255" DESTINATION="ID_1144600905" STARTINCLINATION="402.74999 pt;17.25 pt;" ENDINCLINATION="-200.99999 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2504,9 +2504,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Помощь рабочим коллективам - 2 уровень" ID="ID_1580805956" CREATED="1685806707209" MODIFIED="1697300022149">
-<arrowlink DESTINATION="ID_1803473880" STARTINCLINATION="608.99998 pt;0 pt;" ENDINCLINATION="-149.25 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Помощь рабочим коллективам - 2 уровень" ID="ID_1580805956" CREATED="1685806707209" MODIFIED="1697897868975">
+<arrowlink DESTINATION="ID_1803473880" STARTINCLINATION="608.99998 pt;0 pt;" ENDINCLINATION="-145.5 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2527,9 +2527,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Пропаганда - уровень 2" ID="ID_404429290" CREATED="1685807891303" MODIFIED="1697300022149">
-<arrowlink COLOR="#00cccc" TRANSPARENCY="255" DESTINATION="ID_755771941" STARTINCLINATION="218.99999 pt;0 pt;" ENDINCLINATION="-329.24999 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Пропаганда - уровень 2" ID="ID_404429290" CREATED="1685807891303" MODIFIED="1697897868975">
+<arrowlink COLOR="#00cccc" TRANSPARENCY="255" DESTINATION="ID_755771941" STARTINCLINATION="218.99999 pt;0 pt;" ENDINCLINATION="-325.49999 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2547,9 +2547,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Творчество - уровень 2" ID="ID_1378278297" CREATED="1685809873612" MODIFIED="1697300022150">
-<arrowlink COLOR="#ccccff" TRANSPARENCY="255" DESTINATION="ID_1843863921" STARTINCLINATION="345.74999 pt;-4.5 pt;" ENDINCLINATION="-44.25 pt;1.5 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Творчество - уровень 2" ID="ID_1378278297" CREATED="1685809873612" MODIFIED="1697897868976">
+<arrowlink COLOR="#ccccff" TRANSPARENCY="255" DESTINATION="ID_1843863921" STARTINCLINATION="345.74999 pt;-0.75 pt;" ENDINCLINATION="-40.5 pt;1.5 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2570,9 +2570,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Образование" ID="ID_1492288452" CREATED="1687010160226" MODIFIED="1697300022151">
-<arrowlink COLOR="#006600" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="24.75 pt;0 pt;" ENDINCLINATION="-227.99999 pt;33.75 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Образование" ID="ID_1492288452" CREATED="1687010160226" MODIFIED="1697897868977">
+<arrowlink COLOR="#006600" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="24.75 pt;0 pt;" ENDINCLINATION="-224.24999 pt;33.75 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2608,9 +2608,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Теоретическая работа - основы" ID="ID_1690776229" CREATED="1687010436035" MODIFIED="1697300022151">
-<arrowlink COLOR="#ffff99" TRANSPARENCY="255" DESTINATION="ID_911497786" STARTINCLINATION="492.74999 pt;0 pt;" ENDINCLINATION="-188.99999 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Теоретическая работа - основы" ID="ID_1690776229" CREATED="1687010436035" MODIFIED="1697897868978">
+<arrowlink COLOR="#ffff99" TRANSPARENCY="255" DESTINATION="ID_911497786" STARTINCLINATION="492.74999 pt;0 pt;" ENDINCLINATION="-185.24999 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2651,7 +2651,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Множественность теории" ID="ID_1959943438" CREATED="1695481848996" MODIFIED="1697300022152"><richcontent TYPE="DETAILS">
+<node TEXT="Множественность теории" ID="ID_1959943438" CREATED="1695481848996" MODIFIED="1697897868978"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2685,7 +2685,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Медицинское волонтёрство" ID="ID_125733824" CREATED="1692458409649" MODIFIED="1697300022153"><richcontent TYPE="DETAILS">
+<node TEXT="Медицинское волонтёрство" ID="ID_125733824" CREATED="1692458409649" MODIFIED="1697897868979"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2706,7 +2706,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Производство - основы" ID="ID_1655728774" CREATED="1693065548003" MODIFIED="1697300022154"><richcontent TYPE="DETAILS">
+<node TEXT="Производство - основы" ID="ID_1655728774" CREATED="1693065548003" MODIFIED="1697897868979"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2736,7 +2736,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Научпоп" ID="ID_1081729947" CREATED="1695475773727" MODIFIED="1697300022155"><richcontent TYPE="DETAILS">
+<node TEXT="Научпоп" ID="ID_1081729947" CREATED="1695475773727" MODIFIED="1697897868980"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2760,10 +2760,38 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Гуманитарная помощь - уровень 2" ID="ID_249512268" CREATED="1699711647564" MODIFIED="1699712563795"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Теперь вы способны нарастить ещё большие объёмы сборов и распределения волонтёров. Это требует обязательного улучшения системы хранения ресурсов и денег. Ну и так же требует налаживания внутренней безопасности, чтобы уберечься от воровства.
+    </p>
+    <p>
+      2) Теперь вы сможете налаживать сотрудничество с различными поставщиками, поскольку объёмы ваших закупок уже довольно значительны. Постарайтесь оценить выгоды сотрудничества и найти надёжных оптовиков или поставщиков б\у оборудования. Гуманитарная помощь даёт вам небольшой козырь в выбивании эффективной цены - вы &quot;делаете полезное дело&quot; и личные контакты с главами оптовиков или других поставщиков могут убедить их сделать вам ещё большие скидки вплоть до себестоимости, а так же поможет с различными списаниями и прочими ситуациями где полезные вещи можно получить даром.
+    </p>
+    <p>
+      3) Ваше юридическое крыло теперь будет занято легализацией всей вашей деятельности и продумыванием всех аспектов по оптимизации затрат (если у вас есть связанные с юридической проблематикой операционные расходы).
+    </p>
+    <p>
+      4) Теперь у вас очень много волонтёров, что требует повышения качества их контроля. Возможно, вам потребуется создать &quot;горячую линию&quot; для проблем волонтёров, поскольку из за высоких нагрузок они могут выгорать, а из за большого количества волонтёров вы не сможете уследить за каждым лично. Помимо этого стоит занять администрацию слежением за занятостью волонтёров и постоянно отслеживать превышения норм рабочих часов или затрат волонтёров.
+    </p>
+    <p>
+      5) Помните, что хоть активисты и волонтёры для вас и важны, вы не можете давать им полный приоритет в функционировании организации. Это гарантированно повлечёт большое количество конфликтов и появление обиженных волонтёров, которые не срослись характером со своими коллегами. Для улучшения обстановки вы должны вводить операционную бюрократию для минимизации личного взаимодействия и избежания &quot;личных&quot; скандалов. Но не переусердствуйте, волонтёры бюрократию так же очень не любят. Держите баланс и отслеживайте реакцию персонала на ваши нововведения.
+    </p>
+    <p>
+      6) В плане решения внешних конфликтов у вас появляется одновременно и козырь, и проблема. Во первых, вы имеете &quot;моральное обоснование&quot; для внешних симпатий - вы помогаете людям. Во вторых, частое применение этого козыря его обесценит, и поможет прикрыть проблемы организации лишь на время. Кроме того, некоторые вещи, вроде странных высказываний, вы им прикрыть не сможете. Не используйте это обоснование вообще. Люди которые его ценят - и без того про это вспомнят, а те кто не ценят - и не поймут.
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node TEXT="Система организации общения и основы внутренней безопасности" ID="ID_1215325420" CREATED="1686413922218" MODIFIED="1697300022155">
-<arrowlink COLOR="#666666" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="545.99998 pt;26.25 pt;" ENDINCLINATION="-431.24999 pt;-33.75 pt;"/>
-<richcontent TYPE="DETAILS">
+</node>
+<node TEXT="Система организации общения и основы внутренней безопасности" ID="ID_1215325420" CREATED="1686413922218" MODIFIED="1697897868980">
+<arrowlink COLOR="#666666" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="545.99998 pt;26.25 pt;" ENDINCLINATION="-427.49999 pt;-30 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2821,9 +2849,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Система генерации ресурсов" ID="ID_920389084" CREATED="1686419807413" MODIFIED="1697300022157">
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_402188662" STARTINCLINATION="706.49998 pt;0 pt;" ENDINCLINATION="-526.49998 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Система генерации ресурсов" ID="ID_920389084" CREATED="1686419807413" MODIFIED="1697897868981">
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_402188662" STARTINCLINATION="706.49998 pt;0 pt;" ENDINCLINATION="-522.74998 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2859,9 +2887,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Основы внешней безопасности" ID="ID_287150511" CREATED="1687007163624" MODIFIED="1697300022159">
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="191.24999 pt;0 pt;" ENDINCLINATION="-455.99999 pt;-4.5 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Основы внешней безопасности" ID="ID_287150511" CREATED="1687007163624" MODIFIED="1697897868982">
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="191.24999 pt;0 pt;" ENDINCLINATION="-452.24999 pt;-0.75 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2891,9 +2919,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Медицинский пост" ID="ID_336451355" CREATED="1691854087084" MODIFIED="1697300022160">
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_311276620" STARTINCLINATION="507.74998 pt;0 pt;" ENDINCLINATION="-492.74999 pt;95.25 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Медицинский пост" ID="ID_336451355" CREATED="1691854087084" MODIFIED="1697897868983">
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_311276620" STARTINCLINATION="507.74998 pt;0 pt;" ENDINCLINATION="-488.99999 pt;95.25 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2921,7 +2949,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Организация 1 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_1570526671" CREATED="1679857396322" MODIFIED="1697300022161" HGAP_QUANTITY="1025.74997 pt" VSHIFT_QUANTITY="3.75 pt" VGAP_QUANTITY="3 pt"><richcontent TYPE="DETAILS">
+<node TEXT="Организация 1 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_1570526671" CREATED="1679857396322" MODIFIED="1697897868983" HGAP_QUANTITY="1025.74997 pt" VSHIFT_QUANTITY="3.75 pt" VGAP_QUANTITY="3 pt"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2933,10 +2961,10 @@
   </body>
 </html></richcontent>
 <hook NAME="FreeNode"/>
-<node TEXT="Малая касса" ID="ID_80983957" CREATED="1679858240036" MODIFIED="1697300022161">
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1364688242" STARTINCLINATION="728.24998 pt;0 pt;" ENDINCLINATION="-92.25 pt;0 pt;"/>
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="342.74999 pt;0 pt;" ENDINCLINATION="0 pt;-54.75 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Малая касса" ID="ID_80983957" CREATED="1679858240036" MODIFIED="1697897868984">
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1364688242" STARTINCLINATION="728.24998 pt;0 pt;" ENDINCLINATION="-88.5 pt;0 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="342.74999 pt;0 pt;" ENDINCLINATION="0 pt;-51 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2962,7 +2990,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Опыт применения" ID="ID_831421301" CREATED="1682239161181" MODIFIED="1697300022163"><richcontent TYPE="DETAILS">
+<node TEXT="Опыт применения" ID="ID_831421301" CREATED="1682239161181" MODIFIED="1697897868989"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -2975,12 +3003,12 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Партийное\организационное расписание" ID="ID_1676922237" CREATED="1681038280333" MODIFIED="1697300022164">
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="161.25 pt;11.25 pt;" ENDINCLINATION="-149.25 pt;-24.75 pt;"/>
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="278.99999 pt;29.25 pt;" ENDINCLINATION="96.75 pt;-320.24999 pt;"/>
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-73.5 pt;0 pt;"/>
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_87990140" STARTINCLINATION="461.24999 pt;0 pt;" ENDINCLINATION="-162.75 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Партийное\организационное расписание" ID="ID_1676922237" CREATED="1681038280333" MODIFIED="1697897868989">
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_87990140" STARTINCLINATION="461.24999 pt;0 pt;" ENDINCLINATION="-159 pt;0 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-69.75 pt;0 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="161.25 pt;11.25 pt;" ENDINCLINATION="-145.5 pt;-21 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="278.99999 pt;29.25 pt;" ENDINCLINATION="96.75 pt;-316.49999 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3007,9 +3035,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Аналитический клуб" ID="ID_51861887" CREATED="1681043487876" MODIFIED="1697300022165">
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_587119677" STARTINCLINATION="826.49998 pt;0 pt;" ENDINCLINATION="-92.25 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Аналитический клуб" ID="ID_51861887" CREATED="1681043487876" MODIFIED="1697897868992">
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_587119677" STARTINCLINATION="826.49998 pt;0 pt;" ENDINCLINATION="-88.5 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3045,10 +3073,10 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Агитационный клуб" ID="ID_1067976847" CREATED="1681647400481" MODIFIED="1697300022167">
-<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_200334904" STARTINCLINATION="2156.99994 pt;0 pt;" ENDINCLINATION="-272.24999 pt;-7.5 pt;"/>
-<arrowlink COLOR="#ffcc66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="194.99999 pt;0 pt;" ENDINCLINATION="-18 pt;-24 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Агитационный клуб" ID="ID_1067976847" CREATED="1681647400481" MODIFIED="1697897868994">
+<arrowlink COLOR="#ffcc66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="194.99999 pt;0 pt;" ENDINCLINATION="-14.25 pt;-20.25 pt;"/>
+<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_200334904" STARTINCLINATION="2156.99994 pt;0 pt;" ENDINCLINATION="-268.49999 pt;-3.75 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3072,10 +3100,10 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Пропагандистский клуб" ID="ID_1949269221" CREATED="1681928919947" MODIFIED="1697300022169">
-<arrowlink COLOR="#ff66ff" TRANSPARENCY="255" DESTINATION="ID_1829181281" STARTINCLINATION="199.49999 pt;0 pt;" ENDINCLINATION="10.5 pt;-48.75 pt;"/>
-<arrowlink COLOR="#ff66cc" TRANSPARENCY="255" DESTINATION="ID_1823356431" STARTINCLINATION="2139.74994 pt;0 pt;" ENDINCLINATION="-128.25 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Пропагандистский клуб" ID="ID_1949269221" CREATED="1681928919947" MODIFIED="1697897868997">
+<arrowlink COLOR="#ff66ff" TRANSPARENCY="255" DESTINATION="ID_1829181281" STARTINCLINATION="199.49999 pt;0 pt;" ENDINCLINATION="10.5 pt;-45 pt;"/>
+<arrowlink COLOR="#ff66cc" TRANSPARENCY="255" DESTINATION="ID_1823356431" STARTINCLINATION="2139.74994 pt;0 pt;" ENDINCLINATION="-124.5 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3117,10 +3145,10 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Сборник учебных материалов" ID="ID_1603938111" CREATED="1681933278098" MODIFIED="1697300022170">
-<arrowlink COLOR="#cc00cc" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="189.74999 pt;0 pt;" ENDINCLINATION="0 pt;-125.25 pt;"/>
-<arrowlink COLOR="#ff00ff" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="2128.49994 pt;0 pt;" ENDINCLINATION="-100.5 pt;3.75 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Сборник учебных материалов" ID="ID_1603938111" CREATED="1681933278098" MODIFIED="1697897868999">
+<arrowlink COLOR="#cc00cc" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="189.74999 pt;0 pt;" ENDINCLINATION="0 pt;-121.5 pt;"/>
+<arrowlink COLOR="#ff00ff" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="2128.49994 pt;0 pt;" ENDINCLINATION="-96.75 pt;3.75 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3147,13 +3175,13 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Техническое обеспечение - минимальный уровень" ID="ID_1245802533" CREATED="1681936174954" MODIFIED="1697300022172">
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1017731120" STARTINCLINATION="2028.74994 pt;0 pt;" ENDINCLINATION="-499.49999 pt;0 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_421795661" STARTINCLINATION="1174.49996 pt;-40.5 pt;" ENDINCLINATION="-66.75 pt;0 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="498.74999 pt;0 pt;" ENDINCLINATION="-134.25 pt;0 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="76.5 pt;0 pt;" ENDINCLINATION="53.25 pt;-20.25 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="39 pt;0 pt;" ENDINCLINATION="24 pt;-14.25 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Техническое обеспечение - минимальный уровень" ID="ID_1245802533" CREATED="1681936174954" MODIFIED="1699708414612">
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="39 pt;0 pt;" ENDINCLINATION="24 pt;-10.5 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="498.74999 pt;0 pt;" ENDINCLINATION="-130.5 pt;0 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="76.5 pt;0 pt;" ENDINCLINATION="53.25 pt;-16.5 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1017731120" STARTINCLINATION="2028.74994 pt;0 pt;" ENDINCLINATION="-495.74999 pt;0 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_421795661" STARTINCLINATION="1159.49997 pt;-35.25 pt;" ENDINCLINATION="-219.74999 pt;-16.5 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3183,13 +3211,13 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Внешние связи - каталог и интерфейсы" ID="ID_1280865951" CREATED="1682248427435" MODIFIED="1697300022174">
-<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1679934744" STARTINCLINATION="1442.99996 pt;0 pt;" ENDINCLINATION="-227.24999 pt;0 pt;"/>
-<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1579701706" STARTINCLINATION="248.24999 pt;-1.5 pt;" ENDINCLINATION="-479.24999 pt;39 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="98.25 pt;3.75 pt;" ENDINCLINATION="1.5 pt;-42 pt;"/>
-<arrowlink COLOR="#33ffff" TRANSPARENCY="255" DESTINATION="ID_1834417423" STARTINCLINATION="2049.74994 pt;0 pt;" ENDINCLINATION="-19.5 pt;2.25 pt;"/>
-<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1265233484" STARTINCLINATION="1493.99996 pt;0 pt;" ENDINCLINATION="-346.49999 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Внешние связи - каталог и интерфейсы" ID="ID_1280865951" CREATED="1682248427435" MODIFIED="1697897869005">
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="98.25 pt;3.75 pt;" ENDINCLINATION="1.5 pt;-38.25 pt;"/>
+<arrowlink COLOR="#33ffff" TRANSPARENCY="255" DESTINATION="ID_1834417423" STARTINCLINATION="2049.74994 pt;0 pt;" ENDINCLINATION="-15.75 pt;2.25 pt;"/>
+<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1265233484" STARTINCLINATION="1493.99996 pt;0 pt;" ENDINCLINATION="-342.74999 pt;0 pt;"/>
+<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1679934744" STARTINCLINATION="1442.99996 pt;0 pt;" ENDINCLINATION="-223.49999 pt;0 pt;"/>
+<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1579701706" STARTINCLINATION="248.24999 pt;0 pt;" ENDINCLINATION="-475.49999 pt;39 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3207,9 +3235,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Исследования и ауторефлексия" ID="ID_200845134" CREATED="1682249858489" MODIFIED="1697300022175">
-<arrowlink DESTINATION="ID_1442517125" STARTINCLINATION="1492.49996 pt;-84.75 pt;" ENDINCLINATION="-190.49999 pt;4.5 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Исследования и ауторефлексия" ID="ID_200845134" CREATED="1682249858489" MODIFIED="1697897869007">
+<arrowlink DESTINATION="ID_1442517125" STARTINCLINATION="1492.49996 pt;-81 pt;" ENDINCLINATION="-186.74999 pt;4.5 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3230,7 +3258,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Критерии перехода" ID="ID_1535681447" CREATED="1682251584255" MODIFIED="1697300022177"><richcontent TYPE="DETAILS">
+<node TEXT="Критерии перехода" ID="ID_1535681447" CREATED="1682251584255" MODIFIED="1697897869008"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3254,10 +3282,10 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовая система контроля над ресурсами" ID="ID_1235068404" CREATED="1681649064242" MODIFIED="1697300022178">
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_89672790" STARTINCLINATION="626.24998 pt;0 pt;" ENDINCLINATION="-229.49999 pt;0 pt;"/>
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="351.74999 pt;-28.5 pt;" ENDINCLINATION="-153 pt;-28.5 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Базовая система контроля над ресурсами" ID="ID_1235068404" CREATED="1681649064242" MODIFIED="1699716029228">
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_89672790" STARTINCLINATION="626.24998 pt;0 pt;" ENDINCLINATION="-225.74999 pt;0 pt;"/>
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="193.49999 pt;78.75 pt;" ENDINCLINATION="-575.99998 pt;-60 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3278,11 +3306,11 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Собрание планирования" ID="ID_1703981505" CREATED="1682252287643" MODIFIED="1697300022179">
-<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1738433834" STARTINCLINATION="733.49998 pt;-160.5 pt;" ENDINCLINATION="-221.24999 pt;0 pt;"/>
-<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="120.75 pt;19.5 pt;" ENDINCLINATION="-389.99999 pt;15 pt;"/>
-<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="94.5 pt;0 pt;" ENDINCLINATION="3 pt;-2.25 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Собрание планирования" ID="ID_1703981505" CREATED="1682252287643" MODIFIED="1699112048979">
+<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="94.5 pt;0 pt;" ENDINCLINATION="3 pt;0 pt;"/>
+<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1738433834" STARTINCLINATION="733.49998 pt;-156.75 pt;" ENDINCLINATION="-217.49999 pt;0 pt;"/>
+<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="221.24999 pt;11.25 pt;" ENDINCLINATION="-392.24999 pt;12.75 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3348,9 +3376,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Практическая деятельность" ID="ID_197761191" CREATED="1683446737133" MODIFIED="1697300022180" VGAP_QUANTITY="3 pt">
-<arrowlink COLOR="#cccccc" TRANSPARENCY="255" DESTINATION="ID_1329099653" STARTINCLINATION="349.49999 pt;0 pt;" ENDINCLINATION="-698.99998 pt;0 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Практическая деятельность" ID="ID_197761191" CREATED="1683446737133" MODIFIED="1697897869012" VGAP_QUANTITY="3 pt">
+<arrowlink COLOR="#cccccc" TRANSPARENCY="255" DESTINATION="ID_1329099653" STARTINCLINATION="349.49999 pt;0 pt;" ENDINCLINATION="-695.24998 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3367,7 +3395,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Общественно полезный активизм" ID="ID_1265189305" CREATED="1683447657410" MODIFIED="1697300022181"><richcontent TYPE="DETAILS">
+<node TEXT="Общественно полезный активизм" ID="ID_1265189305" CREATED="1683447657410" MODIFIED="1697897869013"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3394,7 +3422,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Помощь рабочим коллективам" ID="ID_326272518" CREATED="1683449960811" MODIFIED="1697300022182"><richcontent TYPE="DETAILS">
+<node TEXT="Помощь рабочим коллективам" ID="ID_326272518" CREATED="1683449960811" MODIFIED="1697897869013"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3421,7 +3449,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Пропаганда" ID="ID_1829181281" CREATED="1683451813538" MODIFIED="1697300022182" HGAP_QUANTITY="14.75 pt"><richcontent TYPE="DETAILS">
+<node TEXT="Пропаганда" ID="ID_1829181281" CREATED="1683451813538" MODIFIED="1697897869014" HGAP_QUANTITY="14.75 pt"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3448,7 +3476,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Творчество" ID="ID_1486278885" CREATED="1683453528788" MODIFIED="1697300022183"><richcontent TYPE="DETAILS">
+<node TEXT="Творчество" ID="ID_1486278885" CREATED="1683453528788" MODIFIED="1697897869015"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3475,7 +3503,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Блок-список (чем не желательно заниматься)" ID="ID_1392676755" CREATED="1683454958374" MODIFIED="1697300022184"><richcontent TYPE="DETAILS">
+<node TEXT="Блок-список (чем не желательно заниматься)" ID="ID_1392676755" CREATED="1683454958374" MODIFIED="1697897869015"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3505,7 +3533,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Кружок" ID="ID_324570156" CREATED="1691847390180" MODIFIED="1697300022184"><richcontent TYPE="DETAILS">
+<node TEXT="Кружок" ID="ID_324570156" CREATED="1691847390180" MODIFIED="1697897869016"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3535,8 +3563,39 @@
   </body>
 </html></richcontent>
 </node>
+<node TEXT="Гуманитарная помощь" ID="ID_164890971" CREATED="1699708602816" MODIFIED="1699711610799"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Это направление сочетает в себе волонтёрство и деятельность по сборам. Следовательно, вы будете упираться в первую очередь в качество менеджмента ресурсов и надёжность управления финансовых потоков.
+    </p>
+    <p>
+      2) В отличии от обычного состояния, вы начнёте агрегировать большое количество донатов, НО - большая часть будет вам не принадлежать. Это очень важный момент - вам может показаться что такой объём поступлений сохранится после того как вы выйдете из гуманитарной деятельности, но это абсолютно не так. Это не ваши деньги, это деньги нуждающихся, из за чего с ними вы не сможете взаимодействовать. А ещё вам надо будет следить за ними в пять глаз и в случае чего заминать скандалы с воровством, всегда держа гуманитарный фонд по отчётности на плюсе, а разбираться уже внутри себя.
+    </p>
+    <p>
+      3) Ваши каналы для сбора должны иметь резерв и желательно - минимальную комиссию. Вы не должны упираться в ограничения сбора или в то, что комиссия съест кусок отчислений. Заранее продумайте все ваши действия по созданию этих каналов - не хватало только блокировки счетов.
+    </p>
+    <p>
+      4) Постарайтесь продумать юридическую точку зрения. Возможно вам потребуется создать некоммерческое юрлицо, возможно вам потребуется уведомить различные органы, от налоговой до таможенной службы.
+    </p>
+    <p>
+      5) Вам потребуется собственная улучшенная логистика, которая будет скорее всего даже превышать должный уровень развития. Особенно если вы начнёте логистику на предельные расстояния или в опасные\труднопроходимые районы. Заранее продумайте этот аспект. Помните, что на энтузиазме долго не проживёшь - вам желательно самым &quot;критичным&quot; волонтёрам всё же выделять хотя бы минимальную зарплату поверх покрытия операционных затрат.
+    </p>
+    <p>
+      6) Вам желательно иметь отлаженную систему управления. Дело в том, что активисты и волонтёры - это довольно беспокойная публика с презрением к работникам &quot;не в поле&quot; (занимающихся менее напряжённой деятельностью или активной, но простой деятельностью). Это может привести к скандалам, уходам волонтёров и просто их &quot;слому&quot; из за того что на них лежат высокие нагрузки.
+    </p>
+    <p>
+      7) Старайтесь уделять время &quot;человеческому обслуживанию&quot; ваших работников. Если человек устаёт и уделяет вам много времени, вам нужно подумать как с него снять нагрузку или хотя бы попробовать внутренним волонтёрством сбросить его нагрузку в других областях (быт, основная работа). Если у человека шалит психическое состояние, то замотивируйте его отдохнуть или сходить к психологу (или иногда, даже психиатру). Нет ничего грустнее чем ценный волонтёр у которого поехала крыша.
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node TEXT="Идеологическая подготовка" ID="ID_1164016728" CREATED="1690646595310" MODIFIED="1697300022185"><richcontent TYPE="DETAILS">
+</node>
+<node TEXT="Идеологическая подготовка" ID="ID_1164016728" CREATED="1690646595310" MODIFIED="1697897869016"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3546,9 +3605,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Ответственный за медицину&#xa;(консультант)" ID="ID_923173040" CREATED="1691853021164" MODIFIED="1697300022186">
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_336451355" STARTINCLINATION="636.74998 pt;26.25 pt;" ENDINCLINATION="-89.25 pt;-1.5 pt;"/>
-<richcontent TYPE="DETAILS">
+<node TEXT="Ответственный за медицину&#xa;(консультант)" ID="ID_923173040" CREATED="1691853021164" MODIFIED="1697897869018">
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_336451355" STARTINCLINATION="636.74998 pt;26.25 pt;" ENDINCLINATION="-85.5 pt;0 pt;"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3575,7 +3634,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Ответственный за логистику" ID="ID_137347022" CREATED="1693062939857" MODIFIED="1697300022188"><richcontent TYPE="DETAILS">
+<node TEXT="Ответственный за логистику" ID="ID_137347022" CREATED="1693062939857" MODIFIED="1697897869021"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3597,7 +3656,7 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Организация 4 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_64970834" CREATED="1687615578270" MODIFIED="1697300022189" HGAP_QUANTITY="3793.99989 pt" VSHIFT_QUANTITY="-8.25 pt"><richcontent TYPE="DETAILS">
+<node TEXT="Организация 4 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_64970834" CREATED="1687615578270" MODIFIED="1697897869023" HGAP_QUANTITY="3793.99989 pt" VSHIFT_QUANTITY="-8.25 pt"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3611,7 +3670,7 @@
     </p>
   </body>
 </html></richcontent>
-<node TEXT="Отдел полной занятости" ID="ID_449302255" CREATED="1696082976289" MODIFIED="1697300022191"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел полной занятости" ID="ID_449302255" CREATED="1696082976289" MODIFIED="1697897869024"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3635,7 +3694,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Отдел занятого управления" ID="ID_525880617" CREATED="1696082991556" MODIFIED="1697300022192"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел занятого управления" ID="ID_525880617" CREATED="1696082991556" MODIFIED="1697897869024"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3659,7 +3718,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Отдел занятого работника" ID="ID_1212740853" CREATED="1696083072733" MODIFIED="1697300022193"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел занятого работника" ID="ID_1212740853" CREATED="1696083072733" MODIFIED="1697897869025"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3674,7 +3733,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Административный отдел" ID="ID_1030669247" CREATED="1696684539188" MODIFIED="1697300022193"><richcontent TYPE="DETAILS">
+<node TEXT="Административный отдел" ID="ID_1030669247" CREATED="1696684539188" MODIFIED="1697897869025"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3704,7 +3763,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Финансовый отдел" ID="ID_1533024866" CREATED="1696686028832" MODIFIED="1697300022194"><richcontent TYPE="DETAILS">
+<node TEXT="Финансовый отдел" ID="ID_1533024866" CREATED="1696686028832" MODIFIED="1697897869026"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3731,7 +3790,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Ликвидационный список" ID="ID_1456418470" CREATED="1696690140196" MODIFIED="1697300022195"><richcontent TYPE="DETAILS">
+<node TEXT="Ликвидационный список" ID="ID_1456418470" CREATED="1696690140196" MODIFIED="1697897869026"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3752,7 +3811,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Аналитический отдел" ID="ID_1424824747" CREATED="1696690625715" MODIFIED="1697300022195"><richcontent TYPE="DETAILS">
+<node TEXT="Аналитический отдел" ID="ID_1424824747" CREATED="1696690625715" MODIFIED="1697897869027"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3782,7 +3841,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Отдел СМИ и рекламы" ID="ID_287783579" CREATED="1697289022919" MODIFIED="1697300022196"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел СМИ и рекламы" ID="ID_287783579" CREATED="1697289022919" MODIFIED="1697897869027"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3801,9 +3860,8 @@
       4) Взаимодействие с рекламой тоже лежит на этом отделе. Помните что реклама подразумевает денежный оборот, бесплатно вас рекламировать никто не будет, а если и будет, цена этой рекламы - взаимопиар.
     </p>
   </body>
-</html>
-</richcontent>
-<node TEXT="Агитационный отдел" ID="ID_1055085710" CREATED="1697289035982" MODIFIED="1697300022196"><richcontent TYPE="DETAILS">
+</html></richcontent>
+<node TEXT="Агитационный отдел" ID="ID_1055085710" CREATED="1697289035982" MODIFIED="1697897869028"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3819,10 +3877,9 @@
       3) Цели и задачи у агитационного отдела не меняются (см агитационный клуб). Меняются только объёмы работы и чёткость следования информационной политике.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node TEXT="Пропагандистский отдел" ID="ID_1189463852" CREATED="1697289043932" MODIFIED="1697300022197"><richcontent TYPE="DETAILS">
+<node TEXT="Пропагандистский отдел" ID="ID_1189463852" CREATED="1697289043932" MODIFIED="1697897869028"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3841,10 +3898,9 @@
       4) Задачи представления вас во внешнем мире потихоньку переходят к другим отделам, особенно - к рекламному.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node TEXT="Отдел рекламы" ID="ID_1118844972" CREATED="1697289052224" MODIFIED="1697300022198"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел рекламы" ID="ID_1118844972" CREATED="1697289052224" MODIFIED="1697897869029"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3863,11 +3919,10 @@
       4) Готовьте запасник как материалов, так и ресурсов под инфоповоды, чтобы максимально использовать события, толкающие людей в политизацию. Не упускайте моменты социальных сдвигов, когда населению срочно нужны ответы по политическим вопросам.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node TEXT="Учебный отдел" ID="ID_980015925" CREATED="1697289606563" MODIFIED="1697300022198"><richcontent TYPE="DETAILS">
+<node TEXT="Учебный отдел" ID="ID_980015925" CREATED="1697289606563" MODIFIED="1697897869030"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3901,9 +3956,8 @@
       
     </p>
   </body>
-</html>
-</richcontent>
-<node TEXT="Отдел ликбеза" ID="ID_1482410481" CREATED="1697289612110" MODIFIED="1697300022199"><richcontent TYPE="DETAILS">
+</html></richcontent>
+<node TEXT="Отдел ликбеза" ID="ID_1482410481" CREATED="1697289612110" MODIFIED="1697897869030"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3925,10 +3979,9 @@
       5) Так же в нём возможен консультативный отдел по вопросам тем ликбеза, особенно это валидно для юридического ликбеза, ликбеза по рабочей борьбе или ликбеза по вопросам истории.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node TEXT="Отдел подготовки кадров" ID="ID_1835599932" CREATED="1697289617746" MODIFIED="1697300022199"><richcontent TYPE="DETAILS">
+<node TEXT="Отдел подготовки кадров" ID="ID_1835599932" CREATED="1697289617746" MODIFIED="1697897869031"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
     
@@ -3954,6 +4007,338 @@
     </p>
     <p>
       7) Так же именно отдел подготовки кадров может вести информирование и дообучение в связи с изменениями в мире - доносить выводы ваших аналитиков и теоретиков.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Отдел хранения и учёта" ID="ID_334869072" CREATED="1697897517611" MODIFIED="1697898741421"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот отдел вырастает из системы распределения и учёта ресурсов. Он нужен для того чтобы справится со всем наличным инвентарём организации и для планирования будущих закупок. Так же он будет заниматься абсорбцией передаваемых вам вещей (это отдельная сложная штука, т.к. они поступают к вам не в идеальном состоянии и создают небольшой &quot;ад обслуживания&quot;).
+    </p>
+    <p>
+      2) На этом этапе вам необходим небольшой охраняемый склад и налаженная система инвентаризации. Не стесняйтесь использовать коммерческие решения для отслеживания. Так же вам потребуется система заявок и выдачи, чтобы вещи со склада передавались только при наличии сведений о том, кто их взял и когда должен вернуть.
+    </p>
+    <p>
+      3) Это всё не новые данные для этого отдела - вам просто нужно технически отладить всю структуру, назначить обязанности, зарегистрировать всё правильно юридически и иметь возможность этим пользоваться без излишней суеты.
+    </p>
+    <p>
+      4) Время подготовить этот отдел к интеграции с вашей службой безопасности, поскольку главная проблема для организаций небольшого размера - это воровство и нецелевое использование инвентаря. Безопасники должны иметь специальные роли для доступа к данным и к складам.
+    </p>
+    <p>
+      5) Система множественных складов на этом моменте скорее всего будет не нужна - вряд ли у вас будет столько инвентаря. Но есть исключение - это случай когда вы занимаетесь производством. В этом случае вам придётся расширить отдел и адаптировать его к работе с несколькими складами, что потребует усложнения информационных инвентаризационных систем, а так же системы заявок (чтобы человек по заявке к одному складу не мог получить что либо у другого или у нескольких сразу). Для этого вам придётся улучшать взаимодействие с логистическим отделом.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Отдел внешней безопасности" ID="ID_1600880401" CREATED="1697898792731" MODIFIED="1697901043824"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Задача этого отдела - обеспечение вашей внешней безопасности. Это включает в себя безопасность мероприятий, обеспечение сохранности фондов и возможность защитить себя от угроз личного класса (т.е. уровня угрозы конкретному человеку).
+    </p>
+    <p>
+      2) От многих угроз может помочь не столько создание собственных подразделений, сколько обычные коммерческие службы защиты. Но их отличает достаточно высокий ценник. Так что вам нужно пользоваться и тем, и другим. Помните, что чем больше вы разрастаетесь, тем больше вы должны полагаться на собственные силы.
+    </p>
+    <p>
+      3) Основная мера безопасности на этом уровне - это дисциплина и подчинение приказам. Ваши безопасники будут заниматься не столько &quot;тренировками и подготовкой к бою&quot; сколько банальным инструктированием и проведением учебных тревог. Вряд ли вы сможете на данном уровне держать больше чем &quot;пара вышибал&quot;, но у вас при этом достаточно много других сотрудников которые могут помочь в обеспечении безопасности.
+    </p>
+    <p>
+      4) Помимо инструктажа им нужно учится работе с толпой - как контролировать толпу, как не провоцировать, как в случае необходимости можно её удерживать. Ну а так же стоит уметь &quot;выдёргивать&quot; из толпы тех кто её пытается раскачать и вязать особо буйных. Это пригодится практически везде, особенно на мероприятиях с алкоголем.
+    </p>
+    <p>
+      5) Обращение с оружием и т.д. на данном этапе вредно, а не полезно - как декларируемый навык. Как недекларируемый - это очень полезно на будущее.
+    </p>
+    <p>
+      6) Неплохой способ набора людей - адаптация ветеранов и служивших людей. Особенно для начала - бывших полицейских. Они и навыки имеют полезные, и зачастую испытывают сложности с поиском работы. Военные и ветераны несколько предпочтительнее, но скорее всего избытка претендентов у вас и так не будет. Для улучшения качества найма вам ПРИДЁТСЯ работать с ветеранами и госслужащими, и агитировать их.
+    </p>
+    <p>
+      7) Крайне не советую работать с сидевшими за &quot;силовые&quot; статьи - вроде грабежа, рэкета и т.д. Далеко не факт что вы их сможете проконтролировать, да и навыки их даже при физической силе - могут выйти вам боком.
+    </p>
+    <p>
+      8) Физическое развитие - это полезно, но вам на данном этапе нужны именно инструктора. Даже если физически они мало чего сделают, по крайней мере они научат и скоордируют в случае чего других сильных, но неопытных членов организации.
+    </p>
+    <p>
+      9) На данный момент вам из специализированного инвентаря нужны разве что всевозможные оповещалки и прочая мелочёвка. Не пытайтесь накапливать оружие (холодное\огнестрельное) или пытаться соорудить его на базе эрзацев - это может вас подставить и в целом не нужно. Гораздо важнее избегать опасных ситуаций.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Отдел внутренней безопасности" ID="ID_1253527719" CREATED="1697901420070" MODIFIED="1697903491427"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Задача этого отдела для начала - не столько слежка и поиск чего либо, сколько налаживание систем разделения обязанностей, информации и отчётности. Так же именно они ответственны за модерацию и улаживание внутренних конфликтов. Ну и ещё именно они держат списки всех официальных и неофициальных информационных ресурсов и чатов.
+    </p>
+    <p>
+      2) Система доступа к информации и чатам начинает очень сильно разрастаться. Возможно вам придётся выделять роли кураторов для того чтобы не терять ничего из виду. Так же вам придётся курировать огромное количество сочувствующих. В этих объёмах придётся не потеряться - старайтесь ваших кураторов настраивать именно как инструкторов модераторов, чтобы им информацию собирали уже &quot;агенты&quot; - модераторы, а не они сами всё это делали.
+    </p>
+    <p>
+      3) Задача минимизации провокативной деятельности уходит в прошлое. Теперь вы должны работать над созданием и ситуативным изменением своего медийного отпечатка. Безопасники тут работают в тесной связи с пиарщиками и творцами - они не только следят за общим нарративом, но и убирают всё ненужное.
+    </p>
+    <p>
+      4) Безопасники помимо всего прочего отвечают за отслеживание утечек информации. Они всегда есть, ваша задача - знать - кто, кому и куда. И уметь оценивать опасность этого. Именно безопасники отвечают за стирание информации и за распределение доступов.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Отдел публичных связей" ID="ID_1321708149" CREATED="1698499095596" MODIFIED="1698502939729"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Задача этого отдела - менеджмент сообществ скапливающихся вокруг вашей организации. Это естественный процесс собрания большого количества народу и вам стоит его поощрять, даже если это не профильная организации деятельность. Всевозможные творческие, игровые, развлекательные - это всё нужно для того чтобы люди могли сформировать связь вашей организации и своего отдыха.
+    </p>
+    <p>
+      2) Именно этот отдел формирует регламенты сообществ, корпус модерации и организует &quot;развлечения&quot; и мероприятия для ваших сообществ.
+    </p>
+    <p>
+      3) Время человека - это самый ценный ресурс в современном интернете. Вам не нужно чтобы они занимались &quot;чем то полезным&quot; - главное чтобы они были с вами и получали ваше влияние. Поэтому вам важно со временем разрастить слой людей которые заинтересованы вашим сообществом, а не конкретными действиями. Вам не нужно им насаждать какой либо регламент поведения на всё сообщество - специализируйте определённые группки вокруг центральной идеи и не мешайте правилами их развитию.
+    </p>
+    <p>
+      4) Отдел должен &quot;уметь&quot; в разные стили общения, от официального до &quot;душевного&quot;. Помните, что иногда открытость важнее любого количества хорошо составленного текста. Этот отдел будет объяснять решения организации, в том числе спорные или направленные на выгоду для неё (а не для сообщества). Знайте своё сообщество для того чтобы наилучшим образом держать контакт с ним.
+    </p>
+    <p>
+      5) Помимо менеджмента, этот отдел занимается планированием рапространения влияния на новые сферы чтобы собирать себе новых и новых людей по неидеологическим связям. Используйте отдел для контактов и коллабораций с меньшими комьюнити вроде игровых или гиковских.
+    </p>
+    <p>
+      6) Этот отдел должен так же не забывать работать с комьюнити по &quot;бытовым&quot; проблемам, поддерживая порядок и туша &quot;вялотекущие&quot; конфликты. Это довольно сложная, но необходимая работа.
+    </p>
+    <p>
+      7) Этот отдел должен работать в тесной связи с отделом безопасности
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Отдел финансовой экспансии" ID="ID_1362932546" CREATED="1698503445590" MODIFIED="1698505771949"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Это не столько отдел, сколько аналитический центр, &quot;think tank&quot;. Его задача - анализ перспективных методов генерации финансов. Это нужно для того чтобы ваша организация не замирала в состоянии недостатка ресурсов и могла спланировать будущее развитие. Большая часть предложений скорее всего будет отсечена финансовым отделом, но сама генерация должна быть.
+    </p>
+    <p>
+      2) Большое количество организаций обычно концентрируется вокруг одного метода дохода и страдает при его исчерпании или сокращении &quot;кормовой базы&quot;. Важная задача отдела - это диверсификация источников доходов и планирование капитальных инвестиций.
+    </p>
+    <p>
+      3) Это развитие может показаться схожим с развитием обычной корпорации, и это так. Ваша задача - правильно расставить приоритеты и цепь подчинения, чтобы интересы экспансии и доходов не были в приоритете.
+    </p>
+    <p>
+      4) Важный момент - финансовая экспансия может быть направлена не только на прямую экспансию, но и на снижение затрат. Вы можете при должном уровне пробовать выстраивать собственные сети обслуживания ваших сотрудников для удешевления внутренних трат.
+    </p>
+    <p>
+      5) Будьте осторожны с внешними неконтролируемыми источниками. Лучше малая маржа, но с первичного производства нежели крупные дотации извне.
+    </p>
+    <p>
+      6) !ВАЖНО! - при реализации этого отдела вы можете кратно увеличить поток денег и из за этого не справится с идеологической выдержкой. Т.е. скатиться в корпоративизм, свернуть политическую или общественную деятельность и жить дальше. Так что принимайте этот шаг чётко выверив собственную вертикаль управления и идеологическую согласованность.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Отдел внешней разведки" ID="ID_359786446" CREATED="1699106871350" MODIFIED="1699108199901"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Основная задача - поиск и сбор информации для выполнения теоретических и практических задач. Несмотря на довольно &quot;пафосное&quot; название, отдел разведки не является чем то очень усложнённым или запретным, это просто отдел который будет доставлять точную информацию о внешнем мире.
+    </p>
+    <p>
+      2) Позже он разделится на несколько более специализированных отделов, но поначалу он будет единым. Это важно для экономии ресурсов.
+    </p>
+    <p>
+      3) Для этого отдела важно уметь работать с разными источниками. Это может быть как ОИИ, так и получение информации из первых рук. Важный элемент работы - это проверка точности и достоверности источника. Этот показатель можно параметризовать или указывать в качестве дополнительной характеристики.
+    </p>
+    <p>
+      4) Важна умеренная секретность. Это не значит что нужно разводить конспирацию на пустом месте, просто ваши собранные данные должны быть лимитированны по уровням доступа в организации и желательно не находится в легкодоступных местах. Хотя бумага - это очень устаревшая штука, её всё ещё тяжело получить без ведома членов организации, в отличии от всевозможных электронных сервисов.
+    </p>
+    <p>
+      5) Законность действий. Вы - не спецслужба, не политическая организация и даже не доверенный государственный контрагент. Поэтому сбор вами информации обязательно привлечёт стороннее внимание. Следовательно, нужно убедится в законности ваших действий - в этом вам поможет ваш юр. отдел. Возможно, стоит получить какую либо регистрацию ваших действий - к примеру зарегистрировать сми и получить удостоверение корреспондента (само сми не обязано вообще существовать), создать юридически оформленную контору имеющую право на сбор личных данных и так далее. Помните что вам не нужны проблемы с законом.
+    </p>
+    <p>
+      6) Инфильтрация и работа с агентами - это тоже очень специфичное дело. Вам потребуется в таком случае удостоверяться что собираемые вами данные - легальны, иначе можно огрести проблем. Кроме того, помните что ни одному из агентов вы доверять не можете. Будьте осторожны.
+    </p>
+    <p>
+      7) Важно ограничивать себя в сборе данных. Заранее удостоверяйтесь что вам эти данные реально нужны, а не вы что то собираете просто для самого факта &quot;работы&quot;.
+    </p>
+    <p>
+      8) Этот отдел не занимается ничем кроме сбора информации. Подчинение идёт строго через администрацию, несмотря на то что &quot;заказчики&quot; сбора - это другие отделы.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Отдел ОИИ (OSINT)" ID="ID_882491750" CREATED="1699106885557" MODIFIED="1699109625689"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот отдел занимается сбором информации из открытых источников. ВАЖНО - этот сбор не подразумевает что любая информация из открытого источника - легальна. Внимательно относитесь к тому, что вы собираете. К примеру, личные данные можно довольно просто получить в соцсетях и интернете, но хранить их вы не имеете права без соответствующих разрешений.
+    </p>
+    <p>
+      2) Этот отдел должен быть технически современным - понятно, что любые технологии можно заменить просто добавив ещё и ещё сотрудников, но это увеличит вашу заметность. Пользуйтесь технологиями веб-архивирования, автоматизации просмотра, нейросетями для упорядочивания информации и прочими инструментами.
+    </p>
+    <p>
+      3) Помимо открытых источников есть утечки - они появляются довольно редко и нужно предполагать где они могут произойти - для этого за ресурсами и людьми нужно устанавливать &quot;слежку&quot; - к примеру если вас интересует информация о каком либо предприятии, нужно следить за соцсетями сотрудников и прочими местами где может произойти утечка информации. ВАЖНО - это уже не совсем законная деятельность, она в серой зоне или строго запрещена. Уточняйте у юр. отдела.
+    </p>
+    <p>
+      4) Ещё удобный способ осинта который вам желательно освоить - это получение отчётов и ответов на запросы в разные инстанции. Обычно это полностью законно, но требует затрат времени и иногда - допусков. Вам следует держать образцы заявлений и прошений для быстрого запроса, а так же иметь людей с специальностями которые могут по запросу пойти на место (к примеру, в архив).
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Отдел инфильтрации" ID="ID_1553834862" CREATED="1699106938321" MODIFIED="1699110420286"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот отдел занимается инфильтрацией своих сотрудников для получения информации &quot;из первых рук&quot;. Это зачастую законно, но привлекает внимание госструктур. Сотрудники этого отдела могут устраиваться на работу в целевые предприятия, втираться в доверие к сотрудникам других предприятий и так далее. Зачастую, это будет перекрываться с работой &quot;агитатора-внедренца&quot;, с той разницей что один собирает информацию, а другой - агитирует на рабочих местах.
+    </p>
+    <p>
+      2) Для работы в этом отделе нужно очень внимательно подходить к отбору персоны. Её должна проверить система безопасности, а так же он должен быть хорошо проинструктирован. Для обучения таких агентов следует подбирать бывших сотрудников безопасности, министерства внутренних дел и т.д.
+    </p>
+    <p>
+      3) Зачастую у этих сотрудников будет доступ к секретной информации. К примеру, к защищённой коммерческой тайной. Они должны соблюдать НДА места куда инфильтруются и не выдавать информацию, исключение делается ТОЛЬКО в случае если эта информация критически нужна организации. Помните, что вы можете легко уехать за промышленный шпионаж. Ну и естественно обращение с этой информацией должно быть максимально бережным - она должна быть уничтожена после использования или сокрыта.
+    </p>
+    <p>
+      4) Заранее готовьте сотрудника под &quot;спящий&quot; режим. В идеале перед сбором информации он должен зарекомендовать себя на работе как надёжного человека и оставаться им всё время кроме момента сбора информации.
+    </p>
+    <p>
+      5) Заранее подготовьте юридические процедуры на случай если ваш инфильтратор таки вляпается. Он должен быть осведомлён о том что в случае чего, процедуры защиты уже готовы.
+    </p>
+    <p>
+      6) Не забывайте о возможности работать через прокси и в &quot;несознанку&quot;. Вам не обязательно светить вашу организацию перед всеми, если вы можете создать какой-либо прокси-кружок или &quot;отколовшуюся&quot; организацию. Кроме того, вы можете использовать волонтёров, которые вообще не в курсе вашей основной организации.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Отдел работы с агентами" ID="ID_947842146" CREATED="1699106978116" MODIFIED="1699111215316"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Задача данного отдела - это управление внешними людьми, занимающимися сбором информации. Зачастую они могут даже не быть вашими идеологическими сторонниками, а могут быть сочувствующими, жадными до денег, или вообще думать что помогают кому то &quot;по дружбе&quot;.
+    </p>
+    <p>
+      2) В отличии от обычных отделов разведки, этот отдел не занимается собственно &quot;полевой работой&quot; кроме разве что вербовки. В первую очередь он занимается каталогизацией и менеджментом тех агентов, которых удалось завербовать, распределяет им задачи и подготавливает их переход между режимами (спящий\активный).
+    </p>
+    <p>
+      3) Помните, что любой агент через какое то время начнёт терять к вам лояльность. Внимательно следите за тем, что они делают, не взаимодействуют ли они с кем то кроме вас.
+    </p>
+    <p>
+      4) Внимательно относитесь к тому когда и как вы человека завербовали. Если он вам не нужен на данный момент, лучше отказаться от сотрудничества. Состояние &quot;спящего агента&quot; - зачастую чревато тем что восстановить сотрудничество вы не сможете.
+    </p>
+    <p>
+      5) Крайне внимательно относитесь к поведению человека. Излишний энтузиазм - это всегда чёрная метка. Либо человек завербован ещё кем то и это его задача - попасть в агентуру, либо он просто энтузиаст и может вас выдать совершив глупый поступок &quot;из за самонадеянности&quot;. В целом, отбор в агенты должен проводить грамотный человек, желательно с опытом работы в полиции, мвд или других структурах.
+    </p>
+    <p>
+      6) Предпочитайте использовать &quot;одноразовых&quot; агентов - после осуществления задачи, они освобождаются от обязанностей и больше вы с ними не сотрудничаете. Исключение может быть только в случае крайней необходимости. Если вам нужен &quot;крот&quot; который будет долго находится на нужной позиции - предпочтите отдел инфильтрации и внедрите агента.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Практическая деятельность - отделы" ID="ID_1541135347" CREATED="1699111278956" MODIFIED="1699111738449"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) На этом уровне вы уже будете формировать полноценные отделы для вашей основной деятельности. Теперь вы не будете упираться в желание членов организации - приказ будет приказом, а не призывом к агитации.
+    </p>
+    <p>
+      2) Теперь у вас будет достаточно серьёзно развита структура для того чтобы осуществлять комплекные операции - к примеру наладить логистику, информационное сопровождение и юридическую с силовой поддержками одновременно, а не полагаться на сторонние организации или волонтёров. Кроме того, вы сможете делать очень большое количество задач одновременно, вы не будете упираться в то что у вас нет времени в нужный момент, т.е. вы сможете выполнять задачи своевременно.
+    </p>
+    <p>
+      3) Теперь вы сможете выполнять сразу несколько практических задач. Вам всё ещё нужно делить задачи по приоритетам, но в целом если вам нужна комбинация - вы легко справитесь. К примеру, комбинация профсоюзной и волонтёрской деятельности.
+    </p>
+    <p>
+      4) Вы всё ещё не должны заниматься нелегальной деятельностью, блок-лист в силе.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Общественно-полезный активизм" ID="ID_317132188" CREATED="1699111924235" MODIFIED="1699112620185"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Задача этого отдела - распределение финансовых и трудовых потоков которые отправляются на гуманитарные нужды, на общественные ремонтные работы и на поддержку гуманитарных организаций.
+    </p>
+    <p>
+      Т.е. на данном этапе это отдел администрирования, а не отдел напрямую проводящий данную деятельность.
+    </p>
+    <p>
+      2) Под это вы можете использовать большое количество сочувствующих и поддерживающих вашу организацию. Их было довольно много тогда, сейчас их должно быть больше чем может вместить один-два кружка. Следовательно, старая форма организации будет использоваться для локальных мелких отделений которые будут перекладывать всю организационную работу на вас.
+    </p>
+    <p>
+      3) К этому моменту вам стоит задуматься о собственном производстве тех или иных материалов для вашей деятельности, благо объёмы организации позволяют. Это валидно только в случае если такие материалы есть (пример - пошив одежды, формы или масксетей в данной обстановке).
+    </p>
+    <p>
+      4) Активно синхронизируйте этот отдел с вашим отделом СМИ и рекламы чтобы максимизировать репутационные выгоды с каждой акции. Помните что хотя продолжительная деятельность на одном и том же направлении становится всё менее репутационно привлекательной, остальная выгода будет только возрастать.
+    </p>
+    <p>
+      5) Не самый плохой вариант - попробовать легализоваться в поле государства, заняв или обеспечив занятие своим сотрудником какого нибудь локального поста управления (депутатство, главенство в какой либо мелкой государственной организации). Это поможет с нормализацией вашей активности. Главное - помните что какой бы пост сотрудник ни занимал, он всё ещё ваш рядовой сотрудник и не имеет права на воздействие на курс организации. Он нужен вам для прикрытия, а не для дел.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Помощь рабочим коллективам" ID="ID_1199631089" CREATED="1699708465648" MODIFIED="1699715750236"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    1) Теперь это отдел. Если ранее вы могли поддерживать людей состоявших в вашей организации на работе, то сейчас люди в этом отделе не будут работать нигде, следовательно их роль уйдёт от прямой к организационно - аналитической. Они будут решать, кому, где, как и зачем помогать, а так же анализировать состояние этой помощи. 2) Помните что никто не может создать профсоюз &quot;снаружи&quot; - это обычно бесполезно. Следовательно, вам стоит ориентировать отдел на инструктаж желающих таковой создать у себя &quot;на местах&quot;, на обеспечение их информацией и поддержкой. То же самое касается остальных видов помощи, кроме разве что информационной, которую вы можете делать на собственной основе, имея только информацию с мест. 3) На первую роль теперь выходит не простая логистика и информационное освещение - вам нужно начинать проактивную деятельность, а не реактивную. Вы должны собирать информацию о том, какая обстановка на местах, что происходит в предприятиях местности вашей дислокации, какие там зарплаты, насколько коллективы имеют протестный потенциал. Это нужно для увеличения области вашего действия и нахождения &quot;уязвимых мест&quot;. Для этого используйте ваш отдел внешней разведки. 4) Когда вы работаете с рабочими, вы должны чётко доносить до них ответственных лиц вашего отдела. Они не должны &quot;приходить в организацию&quot;, достаточно будет того что они чётко поймут кому звонить в случае проблем. Дальше уже вы можете с ними работать идеологически, когда ваша помощь будет им нужна. К примеру, вы должны сразу донести контакт вашей горячей линии\ вашего юриста по рабочим вопросам, а не разводить болтовню о важности рабочей борьбы. Сначала помощь, потом объяснения. 5) Теперь, когда ваши люди уже создают много работы на пользу борьбы, вы можете активнее пиариться. Но ваша основная цель всё же создание крепких рабочих коллективов, способных к борьбе. Так что старайтесь инструктировать рабочих, приходящих к вам с проблемами. 6) Вы должны заранее вырабатывать протоколы для самых распространённых ситуаций в рабочей борьбе. Чем меньше времени вы тратите на &quot;изобретение велосипедов&quot; - тем лучше. Любой прецедент борьбы должен быть как можно лучше задокументирован и потом проанализирован - почему удалось, или почему не получилось. 7) Вам важно координироваться с властями и правоохранительными органами, но уже не совсем по старому. Вам желательно обзавестись там знакомствами и более &quot;прямыми&quot; каналами чем официальные запросы. Хотя бы на уровне того что вас там знают, я уж не говорю о заинтересованности в вашем деле сотрудников организации. 8) Теперь вы должны отслеживать инспирированность ваших действий со стороны. Загружайте систему внутренней безопасности, отслеживая аналитически кому могут быть выгодны ваши действия и нет ли цепочек от них в вашу организацию.
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Гуманитарная помощь" ID="ID_1353172840" CREATED="1699715777914" MODIFIED="1699716614354"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Теперь гуманитарной помощью занимается целый отдел. Их задача - это стыковка отделов финансового, логистического, хранения и учёта, а так же публичных связей.
+    </p>
+    <p>
+      2) Объём ресурсов теперь должен проходить огромный - вас много, и ваша аудитория для сборов так же будет немалой. Более того, ваш размер и юридический статус уже может дать вам возможность сотрудничества с бизнесом для получения финансов. То же касается и поставщиков - их у вас будет много и по разным параметрам, а цена закупок партий будет достаточно крупной чтобы с вами хотели сотрудничать и на коммерческой основе.
+    </p>
+    <p>
+      3) Ваша система управления будет нагружена большим количеством волонтёров. Следует выделять из них опытных кадров и из них формировать данный отдел, иначе будет возникать ещё большее трение между &quot;волонтёрами в поле&quot; которые ничего не получают и &quot;бюрократами&quot; которые получают зарплату и не находятся в поле.
+    </p>
+    <p>
+      4) Этому отделу может понадобится инвентарь превосходящий по ценности собираемую помощь - к примеру, транспорт. Эти вещи следует покрывать любой ценой не из тех же источников, где вы собираете на гумпомощь, иначе начнётся выяснение ценников (а не всегда самая дешёвая версия - это хорошо).
+    </p>
+    <p>
+      5) Ваши рекламные отделы должны сосредоточится на внешнем образе и распространении информации о вашей организации - это полезно для дальнейшего роста. Старайтесь всё делать дешево, но качественно. Помните, что в случае волонтёрских организаций, репутация очень важна.
+    </p>
+    <p>
+      6) Постарайтесь обеспечить дублирующую финансовую систему для прозрачности сборов и прочих финансовых потоков. Это добавит вам большой плюс к репутации.
     </p>
   </body>
 </html>
