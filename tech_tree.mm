@@ -72,6 +72,225 @@
 </stylenode>
 </map_styles>
 </hook>
+<node TEXT="Организация 5 уровня" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="bottom_or_right" ID="ID_1418869426" CREATED="1707575642911" MODIFIED="1707576137479" HGAP_QUANTITY="5102.74985 pt" VSHIFT_QUANTITY="-11.25 pt">
+<hook NAME="FreeNode"/>
+<richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      На этом уровне организация может позволить полностью закрыть работниками все свои отделы, нужные для существования и расширения. &quot;свободнозанятые&quot; и волонтёры теперь используются для второстепенных активностей или для расширения организации. Поскольку вы полностью закрываете жизненно важные отделы наёмными работниками, вы можете значительно облегчить работу своим службам безопасности, что даёт вам возможность расширить свой инструментарий.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      Помимо этого, вы можете начать расширять свою активность на другие города и регионы. Это подразумевалось и ранее, просто теперь это напрашивающийся процесс, поскольку в вашей &quot;базе&quot; вы уже полностью закрыли потребности в организованности.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Финансовый отдел - рутина" ID="ID_1301926985" CREATED="1707576159368" MODIFIED="1707577660021"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Большое количество работников на балансе организации потребует выделения нескольких работников на постоянную рутинную работу - начисления зарплат, высчитывание отпусков и прочая бухгалтерская рутина.
+    </p>
+    <p>
+      2) Для улучшения и упрощения этой рутинной работы вам потребуется завести несколько форм предприятий и некоммерческих организаций, а так же наладить автоматизацию с помощью современных программ.
+    </p>
+    <p>
+      3) Это потребует плотного сотрудничества финансового отдела с юридическим и техническим отделом.
+    </p>
+    <p>
+      4) Продумайте политику начисления зарплат и осведомлённости о зарплатах ваших работников. Помните, что вне зависимости от вашей идейной направленности и количества ресурсов в вашем распоряжении, вы должны будете оплачивать достаточную сумму для удержания работника. Особенно это важно для любых постов, которые взаимодействуют с важной информацией.
+    </p>
+    <p>
+      5) Продумайте варианты зарплатной экономии для найма людей которые сделают то же самое, но дешевле.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Аналитический отдел - задача накопления" ID="ID_1408831499" CREATED="1707577814839" MODIFIED="1707580123843"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) На данном этапе ваш аналитический отдел скорее всего не сможет обрабатывать достаточно комплексные задачи. Большую часть времени он будет работать в условиях недостатка информации. Это накладывает ограничения - ваши модели часто будут неточными или ошибочными. Следовательно, основная задача отдела будет скорее осведомительной, нежели аналитической.
+    </p>
+    <p>
+      2) На этом этапе важно подготовить всё для подключения к научной сфере. Ваша задача - изучить научную среду в интересующей вас области. Вы должны знать, где можно найти свежайшую и релевантную информацию в научном мире, как получить её в полном формате (зачастую такие статьи продаются, и в свободном доступе не находятся, но иногда можно найти &quot;пиратские&quot; версии). Вы должны иметь представление, когда выходит та или иная статья, насколько релевантные в ней данные, уметь распознать корректность исследования.
+    </p>
+    <p>
+      3) Следовательно, когда отдел полностью сформирован, он должен решить задачу накопления информации о том где получить информацию, как бы это странно ни звучало. В идеале нужно наладить даже работу с университетами по релевантным для аналитики направлениям. Для получения статистики, получения свежих статей, обмена опытом и возможно даже вербовки. В крайнем случае вы можете попросту &quot;подцеплять&quot; статистические сборники собранные для нужд университета.
+    </p>
+    <p>
+      4) По поводу вербовки - достаточно много хороших специалистов можно почерпнуть в провинциальных вузах, нужно просто следить за материалами из сборников &quot;для начинающих&quot;. Там легко понять что человек &quot;выше&quot; общего уровня и его можно попробовать заманить в свой отдел.
+    </p>
+    <p>
+      5) Самое время начать тренироваться в прогностике на локальном уровне с низким пределом планирования. К примеру, собрать информацию по локальным бизнес-объектам и попробовать создать прогностическую картину для них и их рабочих. Возможно, у вас получатся какие либо интересные моменты выяснить - где &quot;наклёвывается&quot; профсоюз, где возможно разорение, а где вы видите внешнее вмешательство с негативными или позитивными целями.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Отдел СМИ - информационная экспансия" ID="ID_210726773" CREATED="1708182979591" MODIFIED="1708184282775"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) При разрастании у вас будет стоять вопрос об экспансии. Вам нужно набирать медийную массу, но большинство путей её набора - достаточно деньгозатратны. Вам скорее всего в перспективе понадобятся все современные методы пропаганды - и сеть блоггеров, и телеграмм-каналов, и даже собственные ботофермы с использованием современных технологий ИИ. Самое время заняться социологическим анализом для выяснения популярности разных площадок и попробовать составить график расшения с всеми возможными опциями и прикидыванием предполагаемых сумм для их разработки.
+    </p>
+    <p>
+      2) Вам нужно оценить собственную подготовку контентщиков и прикинуть пути развития репродукции пропаганды через сторонние группы лиц и каналы путём бесплатной репродукции, а не платной рекламы.
+    </p>
+    <p>
+      3) Самое время оценить собственные технические возможности и попробовать оптимизировать рутину и организационную волокиту. Написать собственных ботов, автоформаттеров с использованием нейросеток, обучить персонал современным инструментам монтажа и т.д. Вы должны нарастить производительность и время реагирования на внешние события хотя бы до уровня мейнстримной пропаганды.
+    </p>
+    <p>
+      4) Наладьте ротацию кадров и подготовьте средства оценивания ваших пропагандистов и опцию &quot;горячей замены&quot; провинившегося контентщика. Это сильно поможет в антикризовой деятельности, когда вы накосячите и вам нужно &quot;опознать&quot; и &quot;перекрыть&quot; косяк. А косячить поначалу вы будете довольно много.
+    </p>
+    <p>
+      5) Экспансия должна быть постоянной. Да, в ней могут случатся просадки, зачастую - из за внешних событий, но вы должны постоянно расширятся, иначе вы застынете на месте и потеряете темп. От темпа отказываться нельзя, потому что у вас не так много времени.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Отдел СМИ - агитация и мобилизация" ID="ID_1883702438" CREATED="1708184301116" MODIFIED="1708187148359"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Ваша аудитория - это ваш ресурс. Причём, довольно часто - только медийный. Проблема в том, что вы - не СМИ. Вы должны постоянно конвертировать ваш медийный капитал в живую силу. Волотёры, новые рекруты - это всё вам очень нужно. Помните, что вы можете использовать и &quot;непрямой&quot; подход - когда вы с аудитории только трясёте донаты, а работу осуществляют наёмные сотрудники. Но это значительно менее эффективно чем эксплуатировать аудиторию. Зачастую сбор донатов эффективнее только для личного прокорма.
+    </p>
+    <p>
+      2) Старайтесь вводить разные виды мотивации и игрофикацию волонтёрских активностей. Чем активнее вы работаете с вашими волонтёрами, тем лучше и чаще они вам помогают. Небольшая финансовая мотивация тоже не помешает, в виде небольших призов или подарков. Кроме того, вы зачастую сможете организовывать полезную для себя работу за счёт вашей же аудитории, делая конкурсы с взносами куда скидывается аудитория.
+    </p>
+    <p>
+      3) Не забывайте развлекать собственную аудиторию активностями, которые вызывают привыкание к участию в ваших мероприятиях, но при этом несут в основном развлекательную функцию - игровые турниры, совместные просмотры, походы, сходки и прочая и прочая. Это закрепляет в аудитории привычку взаимодействия с вами, а так же помогает создавать небольшие сообщества по интересам просто для того чтобы люди так просто не расходились.
+    </p>
+    <p>
+      4) Старайтесь вести статистику аудитории, каталог активных деятелей и тех, кого можно подтянуть под ваши задачи. Помните, что каждый человек который согласился вам помочь - это будущий актив.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Учебный отдел - методическая работа" ID="ID_232349131" CREATED="1709384753846" MODIFIED="1709387010383"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Вам нужно будет вырабатывать и улучшать методические материалы для вашего персонала. Помните, что &quot;универсальных рецептов&quot; никто никогда не имеет. Вы можете попробовать подтаскивать себе материалы университетов, использовать старые метод-материалы и учебники или даже перенимать себе чужие материалы, но помните, что всё это должно складываться в единую картину. Иногда лучше сложить полную, пусть и упрощённую картину, чем просто накидывать огромное количество технически связанных, но не связных материалов.
+    </p>
+    <p>
+      2) Материалы для оценивания знаний лучше готовить в качестве практических, нежели в качестве проверки запоминания материала. Дело в том, что вам не нужно реплицировать для себя &quot;теоретиков&quot; которые отлично помнят весь материал, вам нужны люди, которые могут знания применять. Для этого нужно постоянно держать фокус на практическом применении полученных знаний. Это касается как идеологии, так и любых других побочных дисциплин которые вы у себя будете давать.
+    </p>
+    <p>
+      3) Вам нужно заняться упорядочиванием и наладкой вашей базы знаний. Вы можете пользоваться сторонними, но не забывайте про то, что ваши отделы генерируют &quot;для себя&quot; - это может быть работа аналитиков в &quot;черновом&quot; варианте с включением всех обсуждений, это может быть всевозможная отчётность и материалы дообучения на рабочем месте. Всё это неплохо бы централизованно хранить, чтобы вы могли всегда привести пример, или использовать наработанное для того чтобы &quot;устроить практику&quot; для свежеобученных, чтобы они попробовали сами сделать примерно так же.
+    </p>
+    <p>
+      4) Вы можете попробовать вместо налаживания методической работы (или вместе с налаживанием) - использовать активно наставничество. Это очень помогает в подготовке в случае когда у вас плохо подобраны материалы, но это же может привести к расслоению программы когда разные наставники учат разному.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Отдел хранения и учёта - рутина и проверки" ID="ID_696878955" CREATED="1709387021083" MODIFIED="1709388248402"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Вам нужно наладить рутинную систему инвентаризации и проверок. Для этого нужно использовать смесь коммерческих мер и систем с вашими личными завязанными на систему безопасности и отдел безопасности. Помните, что часть инвентаризационных проблем и воровства вы можете &quot;закрыть&quot; с помощью легальных инструментов, а часть вам придётся обрабатывать абсолютно по другому.
+    </p>
+    <p>
+      2) Вам нужно подготовить бюрократизационную систему под отслеживание и регулярные переинвентаризации того что у вас есть. Частоту и качество проведения установит админ-отдел, но обойтись без проверок нельзя - иначе вы можете чего то не досчитаться. Помните, что хаотичные большие организации с большим количеством наличных вещей - представляют из себя кормушку для воров.
+    </p>
+    <p>
+      3) Альтернатива такой системе - это использование личных вещей сотрудников, но далеко не все вещи можно так использовать. Кроме того, вам придётся как то разбираться с отсутствием таковых вещей у сотрудников и с попытками мошенничества при выдаче таких вещей.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Отдел публичных связей - прозрачность и поддержка интереса" ID="ID_402463931" CREATED="1709388300618" MODIFIED="1709389480592"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) К моменту данного уровня скорее всего ваше сообщество достаточно велико. Вашему отделу публичных связей придётся заняться взаимоисключающими задачами - одновременно прозрачно показывать что вы чем-то занимаетесь, какие процессы происходят в вашей организации, что вы хотите достичь и в какие сроки, при этом сохраняя тайну вокруг того что показывать нельзя. При этом нужно поддерживать интерес сторонних наблюдателей и сторонников. Интерес поддерживается в основном с помощью достаточно важных новостей, а рутина для прозрачности - может довольно сильно интерес приглушить.
+    </p>
+    <p>
+      2)
+    </p>
+    <p>
+      Для решения этого есть несколько путей.<br/>&#xa0;&#xa0;&#xa0;- Во первых, можно начать разделять потоки информации и концентрировать людей вокруг чего то интересного. Тогда &quot;унылые&quot; новости о затратах на мероприятия будут в отчётном канале просто для наглядности и открытости, а &quot;весёлые&quot; - на развлекательном. Минусы - аудитория не будет особо смотреть на ваши &quot;отчётные&quot; каналы.
+    </p>
+    <p>
+      &#xa0;&#xa0;&#xa0;&#xa0;- Во вторых, можно начать аккумулировать &quot;унылые&quot; новости в большие блоки, с дайджестом и &quot;телом&quot; из большого количества отчётов. Таким образом, вы не будете людей захламлять вашей рутинной отчётностью.
+    </p>
+    <p>
+      &#xa0;&#xa0;&#xa0;- В третьих, вы можете превратить вашу отчётность в элемент шоу (как крупные компании). Это с одной стороны, подкрепит интерес, с другой стороны, будет самой скучной частью шоу.
+    </p>
+    <p>
+      &#xa0;&#xa0;&#xa0;- В четвёртых, вы можете превратить свою отчётность в &quot;запросовую&quot; - когда у вас открыто полностью общение и специально назначенные люди на связь с общественностью регулярно отвечают на вопросы сочувствующих и сторонних людей. К сожалению, обычно такой режим, хоть и уважается, но часто приводит к эксцессам, когда на вопросы отвечают очень слабо, незаинтересованно или грубо, что вредит репутации.
+    </p>
+    <p>
+      3) &quot;Застойный вопрос&quot; - зачастую, организация имеет некоторые периоды застоя, когда новостей особо нет, или они тошнотворно-рутинные. В таком случае, вам нужно уметь работать с сочувствующими так, чтобы им не было так скучно и застойно. Лучший вариант - давать медийный контент, но это в том числе представляет собой ловушку - вы можете уйти в поставки медийного контента и оторвать аудиторию от понимания что у вас происходит. С одной стороны, застой - это скучно, с другой стороны, если вы разовьёте медийку так чтобы народ развеселить - ваша ориентация поменяется и ваша аудитория будет больше ориентирована на медиа-контент.&quot;Честный&quot; вариант - это быть честными с аудиторией и не отвлекать её, а признавать проблемы. У него есть очевидный минус - пусть вы и честные, но следить за вами скучно. Лучше решать проблему застоя чем пытаться заставить ваш отдел публичных связей развлекать народ.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node TEXT="Отдел фин. экспансии - решение вопроса эксплуатации" ID="ID_240267001" CREATED="1709389682589" MODIFIED="1709391036739"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Итак, вы начали финансовую экспансию, удачно вложились, у вас есть несколько выгодных предприятий под контролем, вы имеете некоторые подвязки в бизнес-среде и даже участвуете в фондовых рынках. Это всё хорошо, но не идёт ли это в &quot;контру&quot; с вашей идеологической позицией? Не завязывает ли это вас на ваши финансовые интересы? Скорее всего - да.
+    </p>
+    <p>
+      1) Как решать идеологический тупик? Во первых, можно себя &quot;отцепить&quot;, сделав бизнес просто сторонней частью, которая вас поддерживает, но не имеет вашего влияния. С одной стороны, это решит вопрос, с другой стороны - они могут просто от вас уйти. Это не очень хороший вариант, но подходит для самых неудобных для вашей позиции бизнесов.
+    </p>
+    <p>
+      2) Во вторых, можно сосредоточится на фондовых вложениях без контрольных пакетов, когда бизнес живёт отдельно, а вы просто на правах инвестора с него кормитесь. Минус очевиден - меньше профита, большие требования к стартовым вложениям, минимальное влияние на ход дела. Но таким образом вы отвязываетесь от вопроса поступлений и эксплуатации рабочих на предприятиях.
+    </p>
+    <p>
+      3) В третьих, можно заняться преобразованиями на подконтрольном бизнесе, улучшая там условия труда и так далее. Плюсы - это демонстрирует ваши идеи на практике. Минусы - денежный поток ОЧЕНЬ сильно уменьшится, кроме того, вам придётся решать вопрос с кризисами, когда без капитальных вложений предприятие уходит в минус, и вы кормиться с него не сможете.
+    </p>
+    <p>
+      4) В четвёртых, можно заняться построением своего контура экономики, работающего по плановой системе. Но помните, что в таких малых масштабах вы не получите существенного отрыва от кап. предприятий, это просто добавит вам стабильности. Большинство крупных корпораций и так внутри себя использует план. Так что не думайте что вы &quot;откроете что то новое&quot;, вы просто займётесь корпоративизмом.
+    </p>
+    <p>
+      5) В пятых, можно попробовать экспансионировать собственный контур плановой системы, заключая внешние договора на принципах плановости. Но это практически невозможно без существенного админ-ресурса. Ну и при доминации кап экономики вокруг, вы не сможете замкнуть все цепочки внутри себя, что добавит внешнего влияния и уменьшит профит от такого нововведения.
+    </p>
+    <p>
+      6) В шестых, можно попробовать &quot;сесть на два стула&quot; - при заявлении о классовой борьбе и пропаганде профсоюзов, не сильно улучшать условия на принадлежащих предприятиях. Если у вас достаточно сильная медийка, вы можете даже справиться с этим, но тем не менее вы всё равно отвернёте от себя идеологически заряженных людей.
+    </p>
+    <p>
+      7) Альтернативных выходов есть ещё довольно много, но они все просто прикрывают данное противоречие. Вам либо придётся с ним жить, либо отказаться от финансовой экспансии.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
 <node TEXT="Организация 3 уровень" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" POSITION="top_or_left" ID="ID_624909941" CREATED="1682774208962" MODIFIED="1697897868895" HGAP_QUANTITY="-2936.49991 pt" VSHIFT_QUANTITY="-6.75 pt" VGAP_QUANTITY="3 pt" CHILD_NODES_LAYOUT="TOPTOBOTTOM_RIGHT_CENTERED"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1210,12 +1429,12 @@
 </html></richcontent>
 <hook NAME="FreeNode"/>
 <node TEXT="Базовые навыки менеджмента" ID="ID_1847044064" CREATED="1681037792057" MODIFIED="1697897868914">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1280865951" STARTINCLINATION="177.74999 pt;15 pt;" ENDINCLINATION="-115.5 pt;0 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="149.25 pt;0 pt;" ENDINCLINATION="-64.5 pt;0 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="869.24997 pt;0 pt;" ENDINCLINATION="-102 pt;-24 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="108.75 pt;0 pt;" ENDINCLINATION="-47.25 pt;0 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="171.74999 pt;0 pt;" ENDINCLINATION="-264.74999 pt;9 pt;"/>
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1703981505" STARTINCLINATION="398.99999 pt;0 pt;" ENDINCLINATION="-180.74999 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1280865951" STARTINCLINATION="177.74999 pt;15 pt;" ENDINCLINATION="-109.5 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1703981505" STARTINCLINATION="398.99999 pt;0 pt;" ENDINCLINATION="-174.74999 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="149.25 pt;0 pt;" ENDINCLINATION="-58.5 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1676922237" STARTINCLINATION="171.74999 pt;0 pt;" ENDINCLINATION="-258.74999 pt;9 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="108.75 pt;0 pt;" ENDINCLINATION="-41.25 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="869.24997 pt;0 pt;" ENDINCLINATION="-96 pt;-18 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1256,7 +1475,7 @@
 </node>
 </node>
 <node TEXT="Финансовая грамотность" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_840100270" CREATED="1679857562564" MODIFIED="1697897868918">
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="59.25 pt;0 pt;" ENDINCLINATION="-153.75 pt;0 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="59.25 pt;0 pt;" ENDINCLINATION="-147.75 pt;0 pt;"/>
 <arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_80983957" STARTINCLINATION="71.25 pt;0 pt;" ENDINCLINATION="0 pt;0.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -1304,11 +1523,11 @@
 </node>
 </node>
 <node TEXT="Идеологическая грамотность" ID="ID_1812719" CREATED="1681041372439" MODIFIED="1697897868922">
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-88.5 pt;0 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_324570156" STARTINCLINATION="719.24998 pt;-59.25 pt;" ENDINCLINATION="-141.75 pt;0 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="939.74997 pt;0 pt;" ENDINCLINATION="-208.49999 pt;11.25 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1164016728" STARTINCLINATION="496.49999 pt;0 pt;" ENDINCLINATION="-344.99999 pt;-54 pt;"/>
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-87.75 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1570526671" STARTINCLINATION="219.74999 pt;0 pt;" ENDINCLINATION="-82.5 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_51861887" STARTINCLINATION="138.75 pt;0 pt;" ENDINCLINATION="-81.75 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="939.74997 pt;0 pt;" ENDINCLINATION="-202.49999 pt;11.25 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_1164016728" STARTINCLINATION="496.49999 pt;0 pt;" ENDINCLINATION="-338.99999 pt;-48 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_324570156" STARTINCLINATION="719.24998 pt;-53.25 pt;" ENDINCLINATION="-135.75 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1366,8 +1585,8 @@
 </node>
 </node>
 <node TEXT="Адекватность времени" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" ID="ID_1770719064" CREATED="1681641802916" MODIFIED="1697897868926">
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-30 pt;8.25 pt;"/>
-<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;0 pt;" ENDINCLINATION="-188.24999 pt;0 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="359.24999 pt;0 pt;" ENDINCLINATION="-24 pt;8.25 pt;"/>
+<arrowlink COLOR="#ff33ff" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="159 pt;0 pt;" ENDINCLINATION="-182.24999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1410,11 +1629,11 @@
 </html></richcontent>
 </node>
 </node>
-<node TEXT="Знание современных методов создания контента" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1697897868929">
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-196.49999 pt;0 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-222.74999 pt;0 pt;"/>
-<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-144 pt;9 pt;"/>
-<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-88.5 pt;-24.75 pt;"/>
+<node TEXT="Знание современных методов создания контента" ID="ID_1890846255" CREATED="1681644942632" MODIFIED="1700324583544">
+<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-82.5 pt;-18.75 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1067976847" STARTINCLINATION="298.49999 pt;0 pt;" ENDINCLINATION="-138 pt;9 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="78 pt;8.25 pt;" ENDINCLINATION="-216.74999 pt;0 pt;"/>
+<arrowlink COLOR="#ffcc00" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="240.74999 pt;13.5 pt;" ENDINCLINATION="-190.49999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1443,8 +1662,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые юридические знания" ID="ID_512513754" CREATED="1681650389736" MODIFIED="1697897868932">
-<arrowlink COLOR="#0066ff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-50.25 pt;-72 pt;"/>
-<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-268.49999 pt;28.5 pt;"/>
+<arrowlink COLOR="#0066ff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-44.25 pt;-66 pt;"/>
+<arrowlink COLOR="#3366ff" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="148.5 pt;0 pt;" ENDINCLINATION="-262.49999 pt;28.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1458,9 +1677,9 @@
 </html></richcontent>
 <node TEXT="Высшее юридическое образование" ID="ID_249144719" CREATED="1690646456955" MODIFIED="1697897868935"/>
 </node>
-<node TEXT="Базовые навыки бухгалтерии и работы в торговле" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1699112623113">
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="1667.99995 pt;0 pt;" ENDINCLINATION="-197.99999 pt;-51 pt;"/>
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="175.49999 pt;6 pt;" ENDINCLINATION="84.75 pt;90 pt;"/>
+<node TEXT="Базовые навыки бухгалтерии и работы в торговле" ID="ID_1788982368" CREATED="1681650513545" MODIFIED="1701529214231">
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="263.24999 pt;35.25 pt;" ENDINCLINATION="50.25 pt;97.5 pt;"/>
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="1667.99995 pt;0 pt;" ENDINCLINATION="-191.99999 pt;-45 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1501,7 +1720,7 @@
 </node>
 </node>
 <node TEXT="Базовое знание рекламы, пиара и маркетологии." ID="ID_701292597" CREATED="1681931525600" MODIFIED="1697897868939">
-<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;0 pt;" ENDINCLINATION="-47.25 pt;0 pt;"/>
+<arrowlink COLOR="#ff6666" TRANSPARENCY="255" DESTINATION="ID_1949269221" STARTINCLINATION="224.24999 pt;0 pt;" ENDINCLINATION="-41.25 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1527,8 +1746,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовое знание преподавательской работы" FOLDED="true" ID="ID_1317096810" CREATED="1681935248870" MODIFIED="1697897878101">
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1164016728" STARTINCLINATION="-5.25 pt;55.5 pt;" ENDINCLINATION="-174.74999 pt;-283.49999 pt;"/>
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="334.49999 pt;0 pt;" ENDINCLINATION="-200.24999 pt;0 pt;"/>
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1164016728" STARTINCLINATION="0 pt;55.5 pt;" ENDINCLINATION="-168.74999 pt;-277.49999 pt;"/>
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="334.49999 pt;0 pt;" ENDINCLINATION="-194.24999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1550,12 +1769,12 @@
   </body>
 </html></richcontent>
 <node TEXT="Высшее педагогическое образование по нужной стадии" ID="ID_286787971" CREATED="1690646505924" MODIFIED="1693670967730">
-<arrowlink COLOR="#6633ff" TRANSPARENCY="255" DESTINATION="ID_1492288452" STARTINCLINATION="1096.49997 pt;0 pt;" ENDINCLINATION="-94.5 pt;12.75 pt;"/>
+<arrowlink COLOR="#6633ff" TRANSPARENCY="255" DESTINATION="ID_1492288452" STARTINCLINATION="1096.49997 pt;0 pt;" ENDINCLINATION="-88.5 pt;12.75 pt;"/>
 </node>
 </node>
 <node TEXT="Базовые знания в IT и электронике" ID="ID_1314321739" CREATED="1681937359356" MODIFIED="1697897868943">
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="358.49999 pt;-3.75 pt;" ENDINCLINATION="-81.75 pt;0 pt;"/>
-<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-174.74999 pt;24.75 pt;"/>
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1235068404" STARTINCLINATION="373.49999 pt;0 pt;" ENDINCLINATION="-168.74999 pt;24.75 pt;"/>
+<arrowlink COLOR="#33ff33" TRANSPARENCY="255" DESTINATION="ID_1245802533" STARTINCLINATION="358.49999 pt;0 pt;" ENDINCLINATION="-75.75 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1605,8 +1824,8 @@
 </node>
 </node>
 <node TEXT="Базовое знание научной методологии" ID="ID_1426020231" CREATED="1682250820247" MODIFIED="1697897868945">
-<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="219.74999 pt;3.75 pt;" ENDINCLINATION="-341.24999 pt;51 pt;"/>
-<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="154.5 pt;45.75 pt;" ENDINCLINATION="-97.5 pt;51.75 pt;"/>
+<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_200845134" STARTINCLINATION="154.5 pt;45.75 pt;" ENDINCLINATION="-91.5 pt;51.75 pt;"/>
+<arrowlink COLOR="#990099" TRANSPARENCY="255" DESTINATION="ID_1603938111" STARTINCLINATION="219.74999 pt;3.75 pt;" ENDINCLINATION="-335.24999 pt;51 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1635,9 +1854,9 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые навыки первой помощи" ID="ID_680484539" CREATED="1691850064159" MODIFIED="1699112625040">
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_942840113" STARTINCLINATION="2668.49992 pt;0 pt;" ENDINCLINATION="-88.5 pt;0 pt;"/>
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_125733824" STARTINCLINATION="844.49997 pt;-22.5 pt;" ENDINCLINATION="-308.24999 pt;-101.25 pt;"/>
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_923173040" STARTINCLINATION="235.49999 pt;0 pt;" ENDINCLINATION="-255.74999 pt;10.5 pt;"/>
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_125733824" STARTINCLINATION="844.49997 pt;-16.5 pt;" ENDINCLINATION="-302.24999 pt;-95.25 pt;"/>
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_942840113" STARTINCLINATION="2668.49992 pt;0 pt;" ENDINCLINATION="-82.5 pt;0 pt;"/>
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_923173040" STARTINCLINATION="235.49999 pt;0 pt;" ENDINCLINATION="-249.74999 pt;10.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1775,7 +1994,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Базовые знания логистики" ID="ID_5763270" CREATED="1693060786609" MODIFIED="1697897868950">
-<arrowlink COLOR="#999900" TRANSPARENCY="255" DESTINATION="ID_137347022" STARTINCLINATION="237.74999 pt;0 pt;" ENDINCLINATION="-145.5 pt;0 pt;"/>
+<arrowlink COLOR="#999900" TRANSPARENCY="255" DESTINATION="ID_137347022" STARTINCLINATION="237.74999 pt;0 pt;" ENDINCLINATION="-139.5 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -1794,7 +2013,7 @@
   </body>
 </html></richcontent>
 <node TEXT="Профильное логистическое образование" ID="ID_1789453996" CREATED="1693061636105" MODIFIED="1697897868951">
-<arrowlink COLOR="#999900" TRANSPARENCY="255" DESTINATION="ID_1773984742" STARTINCLINATION="2405.24993 pt;0 pt;" ENDINCLINATION="-150.75 pt;0 pt;"/>
+<arrowlink COLOR="#999900" TRANSPARENCY="255" DESTINATION="ID_1773984742" STARTINCLINATION="2405.24993 pt;0 pt;" ENDINCLINATION="-144.75 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2046,7 +2265,7 @@
 </html></richcontent>
 <hook NAME="FreeNode"/>
 <node TEXT="Основы управления" ID="ID_1226545065" CREATED="1682774296600" MODIFIED="1697897868959" VGAP_QUANTITY="3 pt">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_14300266" STARTINCLINATION="324.74999 pt;0 pt;" ENDINCLINATION="-397.49999 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_14300266" STARTINCLINATION="324.74999 pt;0 pt;" ENDINCLINATION="-391.49999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2171,8 +2390,8 @@
 </node>
 </node>
 <node TEXT="Касса - уровень 2" ID="ID_1364688242" CREATED="1684053390399" MODIFIED="1697897868963">
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_90758297" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-368.24999 pt;0 pt;"/>
 <arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="320.99999 pt;0 pt;" ENDINCLINATION="159.75 pt;9 pt;"/>
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_90758297" STARTINCLINATION="509.99998 pt;0 pt;" ENDINCLINATION="-374.24999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2240,7 +2459,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Расписание - уровень 2" ID="ID_87990140" CREATED="1684054690141" MODIFIED="1697897868965">
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="205.49999 pt;9 pt;" ENDINCLINATION="99.75 pt;-2.25 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="205.49999 pt;9 pt;" ENDINCLINATION="99.75 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2290,7 +2509,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Аналитический клуб - уровень 2" ID="ID_587119677" CREATED="1684056190596" MODIFIED="1697897868967">
-<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1614872174" STARTINCLINATION="311.99999 pt;0 pt;" ENDINCLINATION="-510.74998 pt;0 pt;"/>
+<arrowlink COLOR="#ff0000" TRANSPARENCY="255" DESTINATION="ID_1614872174" STARTINCLINATION="311.99999 pt;0 pt;" ENDINCLINATION="-504.74998 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2355,7 +2574,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Система распределения ресурсов - модернизация" ID="ID_89672790" CREATED="1684057296371" MODIFIED="1697897868970">
-<arrowlink COLOR="#6666ff" TRANSPARENCY="255" DESTINATION="ID_457596016" STARTINCLINATION="194.24999 pt;40.5 pt;" ENDINCLINATION="-723.74998 pt;-57 pt;"/>
+<arrowlink COLOR="#6666ff" TRANSPARENCY="255" DESTINATION="ID_457596016" STARTINCLINATION="194.24999 pt;40.5 pt;" ENDINCLINATION="-717.74998 pt;-51 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2473,7 +2692,7 @@
   </body>
 </html></richcontent>
 <node TEXT="Общественно полезный активизм - 2 уровень" ID="ID_651790853" CREATED="1685805086522" MODIFIED="1697897868974">
-<arrowlink COLOR="#660099" TRANSPARENCY="255" DESTINATION="ID_1144600905" STARTINCLINATION="402.74999 pt;17.25 pt;" ENDINCLINATION="-200.99999 pt;0 pt;"/>
+<arrowlink COLOR="#660099" TRANSPARENCY="255" DESTINATION="ID_1144600905" STARTINCLINATION="402.74999 pt;17.25 pt;" ENDINCLINATION="-194.99999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2505,7 +2724,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Помощь рабочим коллективам - 2 уровень" ID="ID_1580805956" CREATED="1685806707209" MODIFIED="1697897868975">
-<arrowlink DESTINATION="ID_1803473880" STARTINCLINATION="608.99998 pt;0 pt;" ENDINCLINATION="-145.5 pt;0 pt;"/>
+<arrowlink DESTINATION="ID_1803473880" STARTINCLINATION="608.99998 pt;0 pt;" ENDINCLINATION="-139.5 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2528,7 +2747,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Пропаганда - уровень 2" ID="ID_404429290" CREATED="1685807891303" MODIFIED="1697897868975">
-<arrowlink COLOR="#00cccc" TRANSPARENCY="255" DESTINATION="ID_755771941" STARTINCLINATION="218.99999 pt;0 pt;" ENDINCLINATION="-325.49999 pt;0 pt;"/>
+<arrowlink COLOR="#00cccc" TRANSPARENCY="255" DESTINATION="ID_755771941" STARTINCLINATION="218.99999 pt;0 pt;" ENDINCLINATION="-319.49999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2548,7 +2767,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Творчество - уровень 2" ID="ID_1378278297" CREATED="1685809873612" MODIFIED="1697897868976">
-<arrowlink COLOR="#ccccff" TRANSPARENCY="255" DESTINATION="ID_1843863921" STARTINCLINATION="345.74999 pt;-0.75 pt;" ENDINCLINATION="-40.5 pt;1.5 pt;"/>
+<arrowlink COLOR="#ccccff" TRANSPARENCY="255" DESTINATION="ID_1843863921" STARTINCLINATION="345.74999 pt;0 pt;" ENDINCLINATION="-34.5 pt;1.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2571,7 +2790,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Образование" ID="ID_1492288452" CREATED="1687010160226" MODIFIED="1697897868977">
-<arrowlink COLOR="#006600" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="24.75 pt;0 pt;" ENDINCLINATION="-224.24999 pt;33.75 pt;"/>
+<arrowlink COLOR="#006600" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="24.75 pt;0 pt;" ENDINCLINATION="-218.24999 pt;33.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2609,7 +2828,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Теоретическая работа - основы" ID="ID_1690776229" CREATED="1687010436035" MODIFIED="1697897868978">
-<arrowlink COLOR="#ffff99" TRANSPARENCY="255" DESTINATION="ID_911497786" STARTINCLINATION="492.74999 pt;0 pt;" ENDINCLINATION="-185.24999 pt;0 pt;"/>
+<arrowlink COLOR="#ffff99" TRANSPARENCY="255" DESTINATION="ID_911497786" STARTINCLINATION="492.74999 pt;0 pt;" ENDINCLINATION="-179.24999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2785,12 +3004,11 @@
       6) В плане решения внешних конфликтов у вас появляется одновременно и козырь, и проблема. Во первых, вы имеете &quot;моральное обоснование&quot; для внешних симпатий - вы помогаете людям. Во вторых, частое применение этого козыря его обесценит, и поможет прикрыть проблемы организации лишь на время. Кроме того, некоторые вещи, вроде странных высказываний, вы им прикрыть не сможете. Не используйте это обоснование вообще. Люди которые его ценят - и без того про это вспомнят, а те кто не ценят - и не поймут.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Система организации общения и основы внутренней безопасности" ID="ID_1215325420" CREATED="1686413922218" MODIFIED="1697897868980">
-<arrowlink COLOR="#666666" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="545.99998 pt;26.25 pt;" ENDINCLINATION="-427.49999 pt;-30 pt;"/>
+<arrowlink COLOR="#666666" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="545.99998 pt;26.25 pt;" ENDINCLINATION="-421.49999 pt;-24 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2850,7 +3068,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Система генерации ресурсов" ID="ID_920389084" CREATED="1686419807413" MODIFIED="1697897868981">
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_402188662" STARTINCLINATION="706.49998 pt;0 pt;" ENDINCLINATION="-522.74998 pt;0 pt;"/>
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_402188662" STARTINCLINATION="706.49998 pt;0 pt;" ENDINCLINATION="-516.74998 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2888,7 +3106,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Основы внешней безопасности" ID="ID_287150511" CREATED="1687007163624" MODIFIED="1697897868982">
-<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="191.24999 pt;0 pt;" ENDINCLINATION="-452.24999 pt;-0.75 pt;"/>
+<arrowlink COLOR="#666600" TRANSPARENCY="255" DESTINATION="ID_1107120210" STARTINCLINATION="191.24999 pt;0 pt;" ENDINCLINATION="-446.24999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2919,8 +3137,8 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Медицинский пост" ID="ID_336451355" CREATED="1691854087084" MODIFIED="1697897868983">
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_311276620" STARTINCLINATION="507.74998 pt;0 pt;" ENDINCLINATION="-488.99999 pt;95.25 pt;"/>
+<node TEXT="Медицинский пост" ID="ID_336451355" CREATED="1691854087084" MODIFIED="1700325753913">
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_311276620" STARTINCLINATION="425.99999 pt;0 pt;" ENDINCLINATION="-371.24999 pt;81 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -2962,8 +3180,8 @@
 </html></richcontent>
 <hook NAME="FreeNode"/>
 <node TEXT="Малая касса" ID="ID_80983957" CREATED="1679858240036" MODIFIED="1697897868984">
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1364688242" STARTINCLINATION="728.24998 pt;0 pt;" ENDINCLINATION="-88.5 pt;0 pt;"/>
-<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="342.74999 pt;0 pt;" ENDINCLINATION="0 pt;-51 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1364688242" STARTINCLINATION="728.24998 pt;0 pt;" ENDINCLINATION="-82.5 pt;0 pt;"/>
+<arrowlink COLOR="#ccffcc" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="342.74999 pt;0 pt;" ENDINCLINATION="0 pt;-45 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3004,10 +3222,10 @@
 </node>
 </node>
 <node TEXT="Партийное\организационное расписание" ID="ID_1676922237" CREATED="1681038280333" MODIFIED="1697897868989">
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_87990140" STARTINCLINATION="461.24999 pt;0 pt;" ENDINCLINATION="-159 pt;0 pt;"/>
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-69.75 pt;0 pt;"/>
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="161.25 pt;11.25 pt;" ENDINCLINATION="-145.5 pt;-21 pt;"/>
-<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="278.99999 pt;29.25 pt;" ENDINCLINATION="96.75 pt;-316.49999 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="132.75 pt;0 pt;" ENDINCLINATION="-63.75 pt;0 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="161.25 pt;11.25 pt;" ENDINCLINATION="-139.5 pt;-15 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_87990140" STARTINCLINATION="461.24999 pt;0 pt;" ENDINCLINATION="-153 pt;0 pt;"/>
+<arrowlink COLOR="#006666" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="278.99999 pt;29.25 pt;" ENDINCLINATION="96.75 pt;-310.49999 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3036,7 +3254,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Аналитический клуб" ID="ID_51861887" CREATED="1681043487876" MODIFIED="1697897868992">
-<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_587119677" STARTINCLINATION="826.49998 pt;0 pt;" ENDINCLINATION="-88.5 pt;0 pt;"/>
+<arrowlink COLOR="#ff0033" TRANSPARENCY="255" DESTINATION="ID_587119677" STARTINCLINATION="826.49998 pt;0 pt;" ENDINCLINATION="-82.5 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3074,8 +3292,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Агитационный клуб" ID="ID_1067976847" CREATED="1681647400481" MODIFIED="1697897868994">
-<arrowlink COLOR="#ffcc66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="194.99999 pt;0 pt;" ENDINCLINATION="-14.25 pt;-20.25 pt;"/>
-<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_200334904" STARTINCLINATION="2156.99994 pt;0 pt;" ENDINCLINATION="-268.49999 pt;-3.75 pt;"/>
+<arrowlink COLOR="#ffcc66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="194.99999 pt;0 pt;" ENDINCLINATION="-8.25 pt;-14.25 pt;"/>
+<arrowlink COLOR="#ffcc33" TRANSPARENCY="255" DESTINATION="ID_200334904" STARTINCLINATION="2156.99994 pt;0 pt;" ENDINCLINATION="-262.49999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3101,8 +3319,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Пропагандистский клуб" ID="ID_1949269221" CREATED="1681928919947" MODIFIED="1697897868997">
-<arrowlink COLOR="#ff66ff" TRANSPARENCY="255" DESTINATION="ID_1829181281" STARTINCLINATION="199.49999 pt;0 pt;" ENDINCLINATION="10.5 pt;-45 pt;"/>
-<arrowlink COLOR="#ff66cc" TRANSPARENCY="255" DESTINATION="ID_1823356431" STARTINCLINATION="2139.74994 pt;0 pt;" ENDINCLINATION="-124.5 pt;0 pt;"/>
+<arrowlink COLOR="#ff66ff" TRANSPARENCY="255" DESTINATION="ID_1829181281" STARTINCLINATION="199.49999 pt;0 pt;" ENDINCLINATION="10.5 pt;-39 pt;"/>
+<arrowlink COLOR="#ff66cc" TRANSPARENCY="255" DESTINATION="ID_1823356431" STARTINCLINATION="2139.74994 pt;0 pt;" ENDINCLINATION="-118.5 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3146,8 +3364,8 @@
 </html></richcontent>
 </node>
 <node TEXT="Сборник учебных материалов" ID="ID_1603938111" CREATED="1681933278098" MODIFIED="1697897868999">
-<arrowlink COLOR="#cc00cc" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="189.74999 pt;0 pt;" ENDINCLINATION="0 pt;-121.5 pt;"/>
-<arrowlink COLOR="#ff00ff" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="2128.49994 pt;0 pt;" ENDINCLINATION="-96.75 pt;3.75 pt;"/>
+<arrowlink COLOR="#ff00ff" TRANSPARENCY="255" DESTINATION="ID_31343375" STARTINCLINATION="2128.49994 pt;0 pt;" ENDINCLINATION="-90.75 pt;3.75 pt;"/>
+<arrowlink COLOR="#cc00cc" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="189.74999 pt;0 pt;" ENDINCLINATION="0 pt;-115.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3175,12 +3393,12 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Техническое обеспечение - минимальный уровень" ID="ID_1245802533" CREATED="1681936174954" MODIFIED="1699708414612">
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="39 pt;0 pt;" ENDINCLINATION="24 pt;-10.5 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="498.74999 pt;0 pt;" ENDINCLINATION="-130.5 pt;0 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="76.5 pt;0 pt;" ENDINCLINATION="53.25 pt;-16.5 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1017731120" STARTINCLINATION="2028.74994 pt;0 pt;" ENDINCLINATION="-495.74999 pt;0 pt;"/>
-<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_421795661" STARTINCLINATION="1159.49997 pt;-35.25 pt;" ENDINCLINATION="-219.74999 pt;-16.5 pt;"/>
+<node TEXT="Техническое обеспечение - минимальный уровень" ID="ID_1245802533" CREATED="1681936174954" MODIFIED="1701530279316">
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="39 pt;0 pt;" ENDINCLINATION="24 pt;-4.5 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1486278885" STARTINCLINATION="76.5 pt;0 pt;" ENDINCLINATION="53.25 pt;-10.5 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1215325420" STARTINCLINATION="498.74999 pt;0 pt;" ENDINCLINATION="-124.5 pt;0 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_421795661" STARTINCLINATION="1159.49997 pt;-29.25 pt;" ENDINCLINATION="-226.49999 pt;-21.75 pt;"/>
+<arrowlink COLOR="#66ff66" TRANSPARENCY="255" DESTINATION="ID_1017731120" STARTINCLINATION="2028.74994 pt;0 pt;" ENDINCLINATION="-489.74999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3212,11 +3430,11 @@
 </html></richcontent>
 </node>
 <node TEXT="Внешние связи - каталог и интерфейсы" ID="ID_1280865951" CREATED="1682248427435" MODIFIED="1697897869005">
-<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="98.25 pt;3.75 pt;" ENDINCLINATION="1.5 pt;-38.25 pt;"/>
-<arrowlink COLOR="#33ffff" TRANSPARENCY="255" DESTINATION="ID_1834417423" STARTINCLINATION="2049.74994 pt;0 pt;" ENDINCLINATION="-15.75 pt;2.25 pt;"/>
-<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1265233484" STARTINCLINATION="1493.99996 pt;0 pt;" ENDINCLINATION="-342.74999 pt;0 pt;"/>
-<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1679934744" STARTINCLINATION="1442.99996 pt;0 pt;" ENDINCLINATION="-223.49999 pt;0 pt;"/>
-<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1579701706" STARTINCLINATION="248.24999 pt;0 pt;" ENDINCLINATION="-475.49999 pt;39 pt;"/>
+<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1679934744" STARTINCLINATION="1442.99996 pt;0 pt;" ENDINCLINATION="-217.49999 pt;0 pt;"/>
+<arrowlink COLOR="#33ffff" TRANSPARENCY="255" DESTINATION="ID_1834417423" STARTINCLINATION="2049.74994 pt;0 pt;" ENDINCLINATION="-9.75 pt;2.25 pt;"/>
+<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1265233484" STARTINCLINATION="1493.99996 pt;0 pt;" ENDINCLINATION="-336.74999 pt;0 pt;"/>
+<arrowlink COLOR="#ccffff" TRANSPARENCY="255" DESTINATION="ID_326272518" STARTINCLINATION="98.25 pt;3.75 pt;" ENDINCLINATION="1.5 pt;-32.25 pt;"/>
+<arrowlink COLOR="#00ffff" TRANSPARENCY="255" DESTINATION="ID_1579701706" STARTINCLINATION="248.24999 pt;0 pt;" ENDINCLINATION="-469.49999 pt;39 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3235,8 +3453,8 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Исследования и ауторефлексия" ID="ID_200845134" CREATED="1682249858489" MODIFIED="1697897869007">
-<arrowlink DESTINATION="ID_1442517125" STARTINCLINATION="1492.49996 pt;-81 pt;" ENDINCLINATION="-186.74999 pt;4.5 pt;"/>
+<node TEXT="Исследования и ауторефлексия" ID="ID_200845134" CREATED="1682249858489" MODIFIED="1702137292520">
+<arrowlink DESTINATION="ID_1442517125" STARTINCLINATION="1492.49996 pt;-75 pt;" ENDINCLINATION="-180.74999 pt;4.5 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3282,9 +3500,9 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Базовая система контроля над ресурсами" ID="ID_1235068404" CREATED="1681649064242" MODIFIED="1699716029228">
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_89672790" STARTINCLINATION="626.24998 pt;0 pt;" ENDINCLINATION="-225.74999 pt;0 pt;"/>
-<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="193.49999 pt;78.75 pt;" ENDINCLINATION="-575.99998 pt;-60 pt;"/>
+<node TEXT="Базовая система контроля над ресурсами" ID="ID_1235068404" CREATED="1681649064242" MODIFIED="1709387448667">
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_920389084" STARTINCLINATION="193.49999 pt;78.75 pt;" ENDINCLINATION="-628.49998 pt;-34.5 pt;"/>
+<arrowlink COLOR="#009999" TRANSPARENCY="255" DESTINATION="ID_89672790" STARTINCLINATION="626.24998 pt;0 pt;" ENDINCLINATION="-219.74999 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3307,9 +3525,9 @@
 </html></richcontent>
 </node>
 <node TEXT="Собрание планирования" ID="ID_1703981505" CREATED="1682252287643" MODIFIED="1699112048979">
+<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1738433834" STARTINCLINATION="733.49998 pt;-150.75 pt;" ENDINCLINATION="-211.49999 pt;0 pt;"/>
 <arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1265189305" STARTINCLINATION="94.5 pt;0 pt;" ENDINCLINATION="3 pt;0 pt;"/>
-<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1738433834" STARTINCLINATION="733.49998 pt;-156.75 pt;" ENDINCLINATION="-217.49999 pt;0 pt;"/>
-<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="221.24999 pt;11.25 pt;" ENDINCLINATION="-392.24999 pt;12.75 pt;"/>
+<arrowlink COLOR="#00cc00" TRANSPARENCY="255" DESTINATION="ID_1226545065" STARTINCLINATION="221.24999 pt;11.25 pt;" ENDINCLINATION="-386.24999 pt;12.75 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3377,7 +3595,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Практическая деятельность" ID="ID_197761191" CREATED="1683446737133" MODIFIED="1697897869012" VGAP_QUANTITY="3 pt">
-<arrowlink COLOR="#cccccc" TRANSPARENCY="255" DESTINATION="ID_1329099653" STARTINCLINATION="349.49999 pt;0 pt;" ENDINCLINATION="-695.24998 pt;0 pt;"/>
+<arrowlink COLOR="#cccccc" TRANSPARENCY="255" DESTINATION="ID_1329099653" STARTINCLINATION="349.49999 pt;0 pt;" ENDINCLINATION="-689.24998 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3591,8 +3809,7 @@
       7) Старайтесь уделять время &quot;человеческому обслуживанию&quot; ваших работников. Если человек устаёт и уделяет вам много времени, вам нужно подумать как с него снять нагрузку или хотя бы попробовать внутренним волонтёрством сбросить его нагрузку в других областях (быт, основная работа). Если у человека шалит психическое состояние, то замотивируйте его отдохнуть или сходить к психологу (или иногда, даже психиатру). Нет ничего грустнее чем ценный волонтёр у которого поехала крыша.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node TEXT="Идеологическая подготовка" ID="ID_1164016728" CREATED="1690646595310" MODIFIED="1697897869016"><richcontent TYPE="DETAILS" HIDDEN="true">
@@ -3606,7 +3823,7 @@
 </html></richcontent>
 </node>
 <node TEXT="Ответственный за медицину&#xa;(консультант)" ID="ID_923173040" CREATED="1691853021164" MODIFIED="1697897869018">
-<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_336451355" STARTINCLINATION="636.74998 pt;26.25 pt;" ENDINCLINATION="-85.5 pt;0 pt;"/>
+<arrowlink COLOR="#ffcccc" TRANSPARENCY="255" DESTINATION="ID_336451355" STARTINCLINATION="636.74998 pt;26.25 pt;" ENDINCLINATION="-79.5 pt;0 pt;"/>
 <richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
   <head>
@@ -3790,7 +4007,7 @@
   </body>
 </html></richcontent>
 </node>
-<node TEXT="Ликвидационный список" ID="ID_1456418470" CREATED="1696690140196" MODIFIED="1697897869026"><richcontent TYPE="DETAILS" HIDDEN="true">
+<node TEXT="Ликвидационный список" ID="ID_1456418470" CREATED="1696690140196" MODIFIED="1697897869026"><richcontent TYPE="DETAILS">
 <html>
   <head>
     
@@ -4313,8 +4530,7 @@
   <body>
     1) Теперь это отдел. Если ранее вы могли поддерживать людей состоявших в вашей организации на работе, то сейчас люди в этом отделе не будут работать нигде, следовательно их роль уйдёт от прямой к организационно - аналитической. Они будут решать, кому, где, как и зачем помогать, а так же анализировать состояние этой помощи. 2) Помните что никто не может создать профсоюз &quot;снаружи&quot; - это обычно бесполезно. Следовательно, вам стоит ориентировать отдел на инструктаж желающих таковой создать у себя &quot;на местах&quot;, на обеспечение их информацией и поддержкой. То же самое касается остальных видов помощи, кроме разве что информационной, которую вы можете делать на собственной основе, имея только информацию с мест. 3) На первую роль теперь выходит не простая логистика и информационное освещение - вам нужно начинать проактивную деятельность, а не реактивную. Вы должны собирать информацию о том, какая обстановка на местах, что происходит в предприятиях местности вашей дислокации, какие там зарплаты, насколько коллективы имеют протестный потенциал. Это нужно для увеличения области вашего действия и нахождения &quot;уязвимых мест&quot;. Для этого используйте ваш отдел внешней разведки. 4) Когда вы работаете с рабочими, вы должны чётко доносить до них ответственных лиц вашего отдела. Они не должны &quot;приходить в организацию&quot;, достаточно будет того что они чётко поймут кому звонить в случае проблем. Дальше уже вы можете с ними работать идеологически, когда ваша помощь будет им нужна. К примеру, вы должны сразу донести контакт вашей горячей линии\ вашего юриста по рабочим вопросам, а не разводить болтовню о важности рабочей борьбы. Сначала помощь, потом объяснения. 5) Теперь, когда ваши люди уже создают много работы на пользу борьбы, вы можете активнее пиариться. Но ваша основная цель всё же создание крепких рабочих коллективов, способных к борьбе. Так что старайтесь инструктировать рабочих, приходящих к вам с проблемами. 6) Вы должны заранее вырабатывать протоколы для самых распространённых ситуаций в рабочей борьбе. Чем меньше времени вы тратите на &quot;изобретение велосипедов&quot; - тем лучше. Любой прецедент борьбы должен быть как можно лучше задокументирован и потом проанализирован - почему удалось, или почему не получилось. 7) Вам важно координироваться с властями и правоохранительными органами, но уже не совсем по старому. Вам желательно обзавестись там знакомствами и более &quot;прямыми&quot; каналами чем официальные запросы. Хотя бы на уровне того что вас там знают, я уж не говорю о заинтересованности в вашем деле сотрудников организации. 8) Теперь вы должны отслеживать инспирированность ваших действий со стороны. Загружайте систему внутренней безопасности, отслеживая аналитически кому могут быть выгодны ваши действия и нет ли цепочек от них в вашу организацию.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node TEXT="Гуманитарная помощь" ID="ID_1353172840" CREATED="1699715777914" MODIFIED="1699716614354"><richcontent TYPE="DETAILS" HIDDEN="true">
 <html>
@@ -4341,8 +4557,513 @@
       6) Постарайтесь обеспечить дублирующую финансовую систему для прозрачности сборов и прочих финансовых потоков. Это добавит вам большой плюс к репутации.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
+</node>
+<node TEXT="Пропаганда" ID="ID_1388121827" CREATED="1700324312729" MODIFIED="1700325750414"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Ваша организация достаточно разрослась чтобы это направление было полноценной повесткой организации, а не отдельной активностью. Вам по любому понадобится собственная пропаганда и реклама чтобы о вас знали. Так что это направление теперь трансформируется в стык собственной рекламы, просветительской деятельности и &quot;дружественной&quot; рекламы, когда вы занимаетесь пропагандой для дружественных, меньших организаций.
+    </p>
+    <p>
+      2) На данном уровне вам придётся работать над собственным имиджем и имиджем сопредельных дружественных организаций. Это направление может заточить вашу организацию под раскрутку и медийное освещение других организаций.
+    </p>
+    <p>
+      3) На этот момент вы скорее всего уже наработаете стандартные ответы на большинство внешних вопросов к вам, вашей организации и вашей идеологии. Это одновременно и благо, и снижающая вашу эффективность штука. У вас будет три подхода к такому:
+    </p>
+    <ul>
+      <li>
+        Создать наглядный темник и методичку для того чтобы минимизировать усилия основных медийных лиц и переложить работу на минорных ломов или просто активных сочувствующих. Это подход хороший, но отсекает людей которым не нужны &quot;стандартные&quot; ответы.
+      </li>
+      <li>
+        Регулярно повторять в ваших материалах ответы на эти вопросы. Это сильно утомляет &quot;старую&quot; аудиторию, так что вам нужно заранее предусмотреть пути &quot;съёма&quot; старой аудитории и перевода её на другие информресурсы.
+      </li>
+      <li>
+        Создать отсылочный аппарат или раздробить ваши ресурсы на слои погружения. Это хороший вариант, но вам всё равно нужен путь &quot;съёма&quot; старой аудитории. Готовьтесь к тому что большое количество людей (сколько слоёв вы ни придумали бы) - упрётся в то что никаких ответов вы им дать не можете и следовательно, становитесь просто развлекательным контентом. А если ваш контент не был развлекательным, то он станет просто потерей времени.
+      </li>
+      <li>
+        Четвёртый, нереальный вариант - это накопить достаточно хорошо образованных в вашем деле людей, что эти ответы будут давать полноценно и развёрнуто в прямой беседе. Этого не будет за пределами какой либо узкой группы лиц, пусть этот вариант и очень заманчив.
+      </li>
+    </ul>
+    <p>
+      4) Время создать явную и чёткую политику по борьбе с троллингом, медийными атаками и просто ненавистниками, которые по идеологическим или личным причинам вбрасывают вредную вам информацию. Если вы занимаетесь широкой пропагандой, вам придётся постоянно отвечать за косяки других, и вы не сможете переложить эту ответственность если вы не готовы с этими людьми размежеваться полностью.Следовательно, значительная доля вреда прилетит по вам просто за компанию, а не за ваши реальные проблемы. Этот вред нужно минимизировать грамотной политикой как модерации, так и реальной работы с обратной связью.
+    </p>
+    <p>
+      5) Принципы пропаганды ваших идей остаются теми же, но теперь вам придётся подтверждать ваши слова какими либо делами. Озаботьтесь тем чтобы создать себе имидж деятельной организации или рупора деятельных организаций, иначе к вам будут регулярно возникать вопросы, на которые вы ответить будете не в состоянии.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Творчество" ID="ID_736348083" CREATED="1700325952657" MODIFIED="1700326840695"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Вы уже крупная организация и можете позволить себе полноценный продукт. Его желательно делать осмысленно и качественно. Старайтесь фокусироваться на том, чтобы делать то, что вы любите.
+    </p>
+    <p>
+      2) Старайтесь не совать свою повестку в продукт.
+    </p>
+    <p>
+      3) Творчество - это вечная воронка для денег. Готовьтесь к тому что вам придётся урезать аппетиты творцов, блокировать долгострои и участвовать в крупных срачах с судьбой проектов.
+    </p>
+    <p>
+      4) Готовьтесь к осложнению юридических проблем с копирайтом или судебными исками за плагиат. Вам нужна либо система которая будет работать с отслеживанием возможных проблем, либо мощная юридическая поддержка, либо комбинация этих мер. Возможно, придётся наладить сотрудничество с издателями для вашего контента.
+    </p>
+    <p>
+      5) Поскольку ваши продукты достаточно крупные, вы можете пользоваться монетизацией и поиском инвесторов. Помните впрочем, что с идеологической точки зрения, эти инструменты желательно не использовать - это лучше работает как реклама. Но если рекламный вопрос не стоит, то почему бы и не монетизировать продукт на пользу организации.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Кружковая деятельность" ID="ID_655901989" CREATED="1701526245793" MODIFIED="1701529398055"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Кружковая деятельность слишком мелкая для организации такого масштаба, теперь она трансформируется в поддержку других кружков. Ваша задача - сформировать отдел, способный организовать и обеспечить всем нужным кружок &quot;с нуля&quot; при нахождении желающих, а так же собственно искать и агитировать желающих.
+    </p>
+    <p>
+      2) Фактически, функционирование этого отдела будет нужно для создания среды вербовки новых сочувствующих и рекрутов для организации. Сосредоточьтесь на том, чтобы собирать в кружки именно перспективных людей, а не просто &quot;завсегдатаев болота&quot;.
+    </p>
+    <p>
+      3) Если ваша организация выросла из кружка, или поддерживала такой кружок на ранних этапах - нужно внимательно изучить ваш опыт.
+    </p>
+    <p>
+      4) Основной момент вашей деятельности - это создание методичек и набора шаблонов для быстрого развёртывания кружка, желательно с заранее подсчитанными расценками для внедрения членских сборов под какой то заранее известный ориентир.
+    </p>
+    <p>
+      5) Помимо &quot;сеяния&quot; таких кружков, вам стоит накапливать контакты с уже созданными и внимательно следить за их успехами. Поскольку на вас ложится часть организационной работы, вы должны отслеживать состояние кружков. Если они начинают деградировать, раскалываться или они просто &quot;созрели&quot; и там есть куча завершивших обучение - желательно их аккуратно свернуть и абсорбировать всех, кто готов к вам вступить или просто ценен.
+    </p>
+    <p>
+      6) Вы должны стремится к одиночному циклу кружка - не нужно его переиспользовать по сто раз, набирая цикл за циклом. Ничего страшного в том что группа людей завершила обучение и кружок распался - нет, главное чтобы эти люди примкнули к вашей организации или были пристроены к делу.
+    </p>
+    <p>
+      7) Альтернативный способ утилизации &quot;дозревших&quot; кружков - это выделение их в малые организации - саттелиты. Это удобно, это хорошо, но подразумевает наличие у вас крепкого отдела контроля малых организаций (см. агрегационные системы управления).
+    </p>
+    <p>
+      8) Так же можно &quot;подбирать&quot; ранее существовавшие кружки, но к каждому из них нужен индивидуальный подход. Вам придётся пересматривать их подход к обучению и проверять уровень знаний, чтобы ваша программа сработала без &quot;белых пятен&quot; и при этом не перепроходила то что уже есть.
+    </p>
+    <p>
+      9) Внимательно оценивайте организационный подход ранее существовавших кружков (которые вы хотите взять под опеку) чтобы не стать жертвой энтризма или не словить уход кружка после получения некоторой выгоды.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Образование" ID="ID_827642536" CREATED="1701530308021" MODIFIED="1701531494417"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Фактически, это отдел ликбеза, превращённый в цель организации. Это подразумевает увеличение его размера, финансирования и подготовку новых стандартов обучения - под большее количество менее заинтересованных людей.
+    </p>
+    <p>
+      2) Вам нужно будет создать стимул обучения именно у вас. Это может быть активная пропаганда, это может быть соответствование текущей ситуации (использование хайповых тем в обучении). Но наилучшим стимулом всегда является выгода. Старайтесь продумать,чем ваше образование может быть полезно для человека, а не для вашего &quot;воспитания&quot;, &quot;просвещения&quot; и так далее. К примеру, вы можете давать профессиональную подготовку или курсы повышения квалификации, попутно давая отдельные дисциплины. Но помните, что важно при этом не переборщить - иначе ваше &quot;просвещение&quot; будет вызывать раздражение.
+    </p>
+    <p>
+      3) Старайтесь не выделять субъект вашего просвещения в отдельный предмет\дисциплину. В идеале он должен быть встроен в весь ваш учебный процесс. Это очень сложная задача, которой должны заняться энтузиасты, а не линейные специалисты.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Теоретическая работа - сбор данных" ID="ID_651799167" CREATED="1701531508936" MODIFIED="1701532131699"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Для ведения любой теоретической работы вам необходимы релевантные данные. Много релевантных данных. Естественно, вы можете пользоваться внешними источниками, но нужно понимать, что далеко не всё можно найти, и что самое важное - далеко не всегда статистика точна.
+    </p>
+    <p>
+      2) Для получения данных вам будет необходим отдел сбора данных. Во многом он будет дублировать отдел внешней разведки, с теми же подотделами и концентрацией на подготовке статистических отчётов.
+    </p>
+    <p>
+      3) Вам потребуется техническое оснащение. Как только вы работаете с достаточно большим объёмом данных, вы не можете просто хранить их в текстовом виде, или того хуже - в бумаге. Вам потребуется хорошо настроенная база данных, возможно с подстроенным индексатором, с рабочей системой построения отчётов и мощной системой поиска. Возможно, вам даже потребуется специалист для работы с большим объёмом данных (big data). Возможно, это хорошая точка для внедрения машинного обучения. Как бы то ни было, получение данных - лишь половина работы, нормальное их хранение и доступ - это вторая половина.
+    </p>
+    <p>
+      4) Задачи этому отделу будет ставить &quot;потребитель&quot; данных - либо другой отдел, либо другая организация. Важный момент - оценка сложности задач и скидывание излишнего объёма задач так, чтобы не перегружать мощности организации. Далеко не все данные нужны - иногда их сложно получить, иногда они бессмыслены для работы. Старайтесь интегрировать потребителя данных и производителя так, чтобы потребитель старался максимизировать объём потребления, а производитель - минимизировать объём реально собранного.
+    </p>
+    <p>
+      5) Некоторые данные можно &quot;подсмотреть&quot; в других источниках. Для этого отдел должен иметь так же функционал оценки достоверности и источниковедения. Это полезно для ситуаций когда нужные данные приходят из источника, замеченного за фальсификацией или манипуляциями выборок.
+    </p>
+    <p>
+      6) Естественно, вам потребуется в этот отдел человек, хорошо владеющий статистикой. А ещё, возможно социолог и экономист.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Теоретическая работа - анализ данных" ID="ID_1384978255" CREATED="1701532135879" MODIFIED="1701533489856"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот отдел занимается тем, что применяет собранные данные и проводит ваши основные исследования. Для функционирования ему нужен широкий источник данных, желательно с высокой степенью достоверности (ваш отдел сбора данных, достоверный внешний источник).
+    </p>
+    <p>
+      2) Вам нужны лучшие специалисты. Это далеко не всегда энтузиасты, так что будьте готовы к противостоянию точек зрения, теорий и прочего. Важно - начальство отдела должно хорошо разбираться в людях и оценивать их вне зависимости от качества представления материала. Если начальство не разбирается в людях - есть высокая вероятность того что достойный анализ будет провален из-за внутренних ссор и будет выбран именно вариант предоставленный активным и компанейским членом команды, а не верный.
+    </p>
+    <p>
+      3) Вам нужно ЧЁТКОЕ формулирование задач. Главная ловушка любой научной деятельности - это вбрасывание ресурсов в исследования без чётко сформулированной цели.
+    </p>
+    <p>
+      4) Сразу после основания данного отдела вам нужно чётко проработать &quot;разгонный график&quot; для него - т.е. постепенно усложняющиеся задачи, начиная с малого, с выходом на крупный анализ в течении рассчётного времени. Исследовательская деятельность очень сложна и очень просто её провалить из за того что &quot;первый блин комом&quot;. Наращивайте опыт ваших исследований, смотрите на ошибки, на то, сбываются ли прогнозы. Помните, что даже очевидные результаты которые были получены путём полного цикла исследований - это всё равно полезный опыт для приспособления вашей команды к возросшей сложности задач. К примеру, тезис про &quot;экономику России завязанную на экспорт ресурсов&quot; - можно для проверки эффективности ваших исследований попробовать подтвердить.
+    </p>
+    <p>
+      5) Заранее позаботьтесь о том, чтобы ваши материалы не пропадали, а в идеале - выходили в научное сообщество. Возможно, вы будете иметь своё издание-сборник, или ваши статьи будут публиковаться на общих основаниях. Как бы то ни было, это хороший опыт и возможность выйти на новый уровень дискуссии.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Производство" ID="ID_1272408137" CREATED="1702131445554" MODIFIED="1702134122503"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) На данном этапе вы можете полностью сформировать производственный отдел вашей организации - то есть, штат сотрудников занимающихся исключительно работой на производстве. Это поставит перед организацией &quot;теоретический вопрос&quot; (для не-коммунистических он невалиден) - почему вы изымаете прибавочную стоимость и почему у вас эксплуатация. Дело в том, что вы будете поддерживать большое количество отделов не имеющих отношения к производству, но &quot;проедающих&quot; его деньги - к примеру, теоретиков, пропагандистов, медиков и прочая и прочая. У вас есть несколько вариантов &quot;прикрыть&quot; это - добровольно-принудительные взносы, неявное изъятие через систему распределения или явное открытое изъятие с отчётностью. Ну или просто не скрывать что на этом этапе вам придётся эксплуатировать рабочих. Как бы то ни было, это влияет на вашу стабильность.
+    </p>
+    <p>
+      2) Вы можете либо сращивать структуру отделов для производства и для организации, либо дробить. К примеру, фин отдел можно оставить совместным, а можно разделить. В пользу совместного отдела говорит более простая структура, обмен опытом и отсутствие излишней бюрократии при движении средств. В пользу раздельного - более скрытная, более независимая и более сложная структура вам пригодится в случае если вы привлекаете внимание. Помимо всего, вам придётся заниматься дроблением когда производств под контролем будет больше чем вы можете проконтролировать централизованно. Выбирайте вариант по желанию.
+    </p>
+    <p>
+      3) У вас может появится желание использовать основные фонды и сборы организации для инвестиций, как в своё производство, так и в чужое. Следует это желание упорядочить и ознакомится с возможными минусами - см. отдел финансовой экспансии.
+    </p>
+    <p>
+      4) Следует заранее озаботится стабильностью производства, а так же планом на случай его банкротства. Ваш фин отдел и юр. отдел должны работать на то, чтобы производство в случае отсутствия прибылей было безболезненно закрыто и не тянуло организацию на дно.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Научпоп" ID="ID_1151048039" CREATED="1702134141750" MODIFIED="1702136344940"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Теперь вы можете поставить на поток наиболее качественный с точки зрения актуальности и качества приближённости к объективным научным данным. Это важно для того, чтобы исполнять основную задачу научпопа - просвещения.
+    </p>
+    <p>
+      2) Вам придётся работать с собственным контентом, который был издан ранее и сильно проседает по качеству (или просто не подкидывается алгоритмами достаточно часто). Не стесняйтесь просто переделывать ролики и запускать их заново.
+    </p>
+    <p>
+      3) Самое время встроить вашу повестку в контент. Будьте аккуратными и старайтесь всегда обеспечивать 2-3 градации политизированности контента, возможно на разных, но союзных каналах. Отличная идея - делать большое количество гиперссылок на видео других &quot;своих&quot; каналов, таким образом создавая &quot;эффект википедии&quot; - когда человек продолжает поглощать информацию из гиперссылок. Таким же образом можно создавать сетку медленной политизации.
+    </p>
+    <p>
+      4) У вас возникнет желание начать монетизацию вашей деятельности, поскольку вы всё равно заняты просветительской деятельностью, а это часто поддерживают разнообразные фонды с помощью грантов. К этому нужно относится с крайней осторожностью, поскольку можно легко подсесть на грантовую иглу и перейти под контроль фонда (как минимум, идеологически). Старайтесь брать стороннюю поддержку только в случае уверенности в том что на вас не будут влиять, и только разово, без контрактов или продолжительных программ поддержки. Хорошее правило - минимум 80% ваших поступлений не должно идти из грантовых источников, чтобы в случае чего спокойно свернуть взаимодействие с фондом, который требует чего то не того.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Стабилизация системы управления" ID="ID_830743114" CREATED="1702136369416" MODIFIED="1702136654090"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Поскольку вы довольно сильно разрослись как по численности, так и по доступным ресурсам, самое время пересмотреть вашу систему управления. Наверняка она уже потихоньку начинает вызывать недовольство и показывать неповоротливость.
+    </p>
+    <p>
+      2) Ваша задача не меняется - нужно создать систему контроля организации, при этом не слишком сильно заморозив её развитие и приход новых людей.
+    </p>
+    <p>
+      3) Если вы пользовались одним из подходов к системам управления, время обдумать - не стоит ли сменить подход. К примеру, от жёсткой системы, к мягкой, или ваша организация уже по факту разделена на подорганизации и время попробовать использовать агреггационный подход.
+    </p>
+    <p>
+      4) Время определится с количеством бюрократии в принятии решений и модернизировать механизмы бюрократии. К примеру, попробовать заменить подписи на ЭЦП, использовать автоматизированные системы раздачи задач и голосования, а так же наладить сбор обратной связи через различные формы и отчёты.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="&quot;Жёсткая&quot; система управления" ID="ID_1730801154" CREATED="1702136661573" MODIFIED="1702137275251"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) В случае наличия выборности, вам нужно пересмотреть механизмы и бюрократию выборности. Если они плохо отлажены, или голосования занимают слишком много времени, или личности на постах не справляются - самое время всё это переделать.
+    </p>
+    <p>
+      2) В случае отсутствия выборности, время провести комплексную оценку производительности управляющего состава и текущего курса организации. Так же, неплохо бы провести учения по экстренной замене руководства (временно запустив цепочку передачи дел). Хороший результат учений - если всё руководство смогло уйти в отпуск хотя бы на месяц без процесса передачи дел, и потом спокойно вернуться. Любые отклонения в этой цепочке вам нужно принять во внимание. Такие учения лучше проводить пока организация не разрослась настолько, что негативный результат может ей сильно навредить.
+    </p>
+    <p>
+      3) Пересмотрите все списки обязанностей разнообразных позиций в организации - тут их должно было скопится очень много. Время вычеркнуть лишнее или не оправдавшее себя.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node TEXT="Подходы к развитию организации" FOLDED="true" ID="ID_1925166870" CREATED="1703352516514" MODIFIED="1703352770880"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Эти подходы носят рекомендательный характер, вы можете не выбирать их вообще, или выбрать комбинацию из подходов.
+    </p>
+    <p>
+      2) Эти рекомендации улучшают разные аспекты организации и требовательны к определённым видам ресурсов. Старайтесь выбирать их не только идеологически или на перспективу но и соотвественно с тем что у вас уже есть.
+    </p>
+    <p>
+      3) Вы не обязательно должны заниматься развитием организации, если она уже заняла своё место. К примеру, если вы исчерпали возможности для роста или задачи, которые вы можете исполнять
+    </p>
+    <p>
+      4) Вы не обязательно должны выбрать этот подход сейчас. Вы могли его выбрать раньше (просто скорее всего вам не хватило бы ресурсов) или позже. 4 уровень - это просто удобная точка для старта.
+    </p>
+  </body>
+</html></richcontent>
+<node TEXT="Экстенсивный униорганизационный подход" ID="ID_1872742395" CREATED="1703352774831" MODIFIED="1703353700393"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот подход подразумевает экстенсивное использование человеческого ресурса. Вы расширяетесь за счёт простой интеграции новых и новых сотрудников для уже существующей структуры организации, расширяя спектр задач которые вы можете делать.
+    </p>
+    <p>
+      2) Этот подход не подразумевает дробление организации. Вы будете наращивать свою основную организацию, проводить реформирование управления под большее количество людей.
+    </p>
+    <p>
+      3) Этот подход требователен к собственно наличию людей которых вы сможете к себе принять. Если вы упёрлись в потолок сочувствующих, то вы не сможете использовать экстенсивный подход, вам придётся расти интенсивно.
+    </p>
+    <p>
+      4) Если ваша организация требовательна к безопасности, то этот подход оставляет вас довольно уязвимыми. Вы должны понимать, что после зачистки вашей администрации сконструированная таким образом организация останется &quot;без головы&quot;, а все действия будут связывать с вами, а не с &quot;прокси&quot;.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Экстенсивный полиорганизационный подход" ID="ID_326481203" CREATED="1703353710161" MODIFIED="1703354735166"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) При этом подходе вы используете человеческий ресурс для создания дочерних организаций, которые подчиняются вам, но в остальном самодостаточны. Они могут дублировать ваш функционал или затачиваться под выполнение одной задачи.
+    </p>
+    <p>
+      2) Как и униорганизационный подход, этот экстенсивный подход требователен к ресурсам - вам нужно много людей, готовых создавать такие организации.
+    </p>
+    <p>
+      3) Важной проблемой является то, что эти организации потребуют большего времени простоя перед запуском - им надо будет наладить внутренние процессы, которые уже были налажены у вас. При этом, это спасёт вас от трат времени в своей организации на реформирование. А ещё существует риск того что ваша дочерняя организация распадётся или выйдет из под контроля.
+    </p>
+    <p>
+      4) Вам потребуется какой либо способ проекции своей власти над дочерними организациями. Коммерческие компании имеют целый ряд законных способов вернуть контроль над &quot;дочкой&quot;. У вас, по естественным причинам, далеко не всегда будет возможность прибегнуть к законам (но не стесняйтесь некоторые ваши дочерние организации привязывать пользуясь законными коммерческими инструментами). Постарайтесь придумать способ проекции власти так, чтобы от вас не ушли &quot;так просто&quot;. Хотя бы позаботьтесь о планах того, как уничтожить отвалившуюся организацию для освобождения ресурса.
+    </p>
+    <p>
+      5) Заранее определитесь, как вы будете строить материальные связи. Помните, что чем сильнее вы привязываете всё к своей центральной организации, тем меньше этот подход несёт плюсов. В идеале ваши организации должны быть достаточно независимыми чтобы продолжить существование в случае уничтожения центральной организации и чтобы это уничтожение их не затронуло (связи должны быть достаточно прикрытыми).
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Экстенсивный ячеечный подход" ID="ID_1444919973" CREATED="1705763574240" MODIFIED="1705763920708"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) При этом подходе вы используете человеческий ресурс для создания ячеек, которые не самодостаточны, но при этом по большей части вопросов самостоятельны. Эти ячейки могут дублировать ваш функционал или затачиваться под выполнение одной задачи.
+    </p>
+    <p>
+      2) Этот подход требователен к человеческим ресурсам, но менее требователен нежели полиорганизационный подход - ячейке нужно меньше дублирующей инфраструктуры и они обычно меньше чем дочерняя организация, следовательно и людей потребуется меньше.
+    </p>
+    <p>
+      3) Ячеечная структура подразумевает частое сотрудничество ячеек для выполнения общих задач, координация которых лежит на основной организации. Это важно, потому что ячейки обычно не способны к комплексным задачам. Зато и контролировать их проще, а в случае откола ячейка не представляет конкурентной угрозы.
+    </p>
+    <p>
+      4) Вам требуется способ проекции власти над ячейками, но он может быть значительно менее комплексным нежели над организациями.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Экстенсивный ячейкосвязующий подход" ID="ID_1986887347" CREATED="1705764214210" MODIFIED="1705764573449"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Отличается от обычного ячеечного подхода ещё большей миниатюризацией ячеек, фактически сводя их к состоянию &quot;одна ячейка-одна задача&quot;.
+    </p>
+    <p>
+      2) Такие ячейки практически несамостоятельны, но при этом отвязаны от организации и менее уязвимы к блокировке работы основной организации.
+    </p>
+    <p>
+      3) Такая структура организации подразумевает то, что у вас будет расширенный бюрократический отдел, который будет заниматься микроменеджментом этих ячеек.
+    </p>
+    <p>
+      4) Такая структура ещё менее уязвима к отколам - урон от одного &quot;откола&quot; практически минимален. Но организовать достойный внутренний обмен кадрами или механизмы обратной связи достаточно тяжело, что может подтолкнуть к обособлению таких ячеек - их не будут ни о чём спрашивать, только давать задачи и пересобирать в случае проблем.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Экстенсивный сетецентричный подход" ID="ID_1025204779" CREATED="1705764726060" MODIFIED="1705765448400"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот подход подразумевает создание сложной системы подчинения, которая будет создавать большое количество жёстко связанных ячеек с несколькими центрами, которые могут в случае чего принимать на себя главенствующую роль.
+    </p>
+    <p>
+      2) Этот подход подразумевает значительный уровень резервирования. Многие ваши системы инфраструктуры и контроля будут повторяться в каждом вашем новом центре и в большинстве ячеек. Кроме того, вам потребуется значительный резерв кадров, который может справиться с сложными задачами в случае постановки на пост.
+    </p>
+    <p>
+      3) Вам потребуется сложная система контроля кадров и проекции коллективной власти. Вы не должны забывать, что сетецентрическая организация очень легко может расползтись на множество сегментов. Это одновременно и плюс и минус - вы сможете легко оправиться после того как вам сломают часть ячеек или цепь подчинения, но и в случае потери проекции власти вы можете легко сами развалится.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Экстенсивный сетецентричный двойного копирования" ID="ID_942885267" CREATED="1705765458501" MODIFIED="1705766093885"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Это модификация сетецентричного подхода, но с дополнительным копированием всех важных для организации органов для каждого центра, когда есть единый набор инфраструктуры и локальный.
+    </p>
+    <p>
+      2) Такая модификация нужна исключительно для крайне волатильной и опасной обстановки, чтобы пережить частые выключения важных узлов из сети. Это очень сильно расходует человеческий ресурс (у вас будет много людей которые ничего полезного не делают, просто дублируют), но даёт очень большой запас прочности.
+    </p>
+    <p>
+      3) У вас будет много &quot;запасных&quot; которые будут редко использовать свои навыки. Постарайтесь обеспечить им хотя бы учебную нагрузку, или иногда передавайте им полную нагрузку.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Интенсивный техноцентричный подход" ID="ID_241087882" CREATED="1705766110275" MODIFIED="1705766904713"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот подход ориентирован на автоматизацию, усовершенствование навыков и широкое использование современных технологий. Вы должны использовать всевозможные современные системы обработки данных, иногда даже самописные под конкретные задачи. В идеальном случае вы можете собрать полноценную автоматизированную систему контроля организации и исполнения большей части задач не требующих человеческого вмешательства с помощью этой системы.
+    </p>
+    <p>
+      2) Обратная сторона этого подхода - очень большие требования к финансам и техническим специалистам. Помните, что ваши специалисты - могут быть либо сторонними, либо бесполезными вне автоматизации.
+    </p>
+    <p>
+      3) Важно уметь определить, что требует автоматизации, а что не требует. Оценивайте это по принципу &quot;что дольше - автоматизировать или несколько лет подряд выполнять рутину вручную&quot;. Очень часто рутина проще и быстрее.
+    </p>
+    <p>
+      4) Этот подход может легко упереться в вашу практическую деятельность. Вы не сможете автоматизировать огромный пласт работ из практики, там нужны люди. Так что в какой то момент вы завершите интенсивное развитие и начнёте заниматься экстенсивным.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Интесивный техноцентричный дальнего горизонта планирования" ID="ID_893360263" CREATED="1705766908126" MODIFIED="1705767161098"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1)Этот подход подразумевает переход к экстенсивному развитию после подготовки автоматизированной инфраструктурной базы.
+    </p>
+    <p>
+      2) При нём, все автоматизационные задачи исходят из планируемого в будущем размера организации и её задач. Таким образом, большей частью сделанного организация пользоваться до массового донабора не будет.
+    </p>
+    <p>
+      3) Такой подход хорошо справляется с подготовкой к возможной массовой политизации, но часто утыкается в то, что планируемый объём не достигается и организация оказывается никому не нужна.
+    </p>
+    <p>
+      4) Как и обычный техноцентричный подход, требует денег и специалистов.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Интенсивный НИОКР-центричный" ID="ID_667085964" CREATED="1705767176752" MODIFIED="1705767436988"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Это максимизированный техноцентричный подход. При нём организация отказывается от роста в пользу фундаментальных теорических разработок в сфере автоматизации. Это может очень сильно помочь другим организациям, но на практической деятельности конкретной организации ставится крест.
+    </p>
+    <p>
+      2) Плодами данного исследования сама организация воспользоваться тоже не сможет - к примеру, ей вообще не нужна будет система глобального экономического планирования.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Интенсивный идеецентричный подход" ID="ID_1754983807" CREATED="1705767442955" MODIFIED="1705767811983"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот подход концентрируется на том, чтобы прорабатывать идейную мотивацию своего персонала, вместо роста вширь. Таким образом получается рост производительности за счёт мотивированности и большей трудоспособности персонала.
+    </p>
+    <p>
+      2) При крайне низкой затратности данного подхода, он несёт в себе много минусов. Во первых, можно скатится в секту. Во вторых, люди могут выгорать, потому что не каждый человек способен даже будучи мотивированным, поддерживать высокую трудоспособность. В третьих, вы можете &quot;доточить&quot; свою идеологию до того, что она не будет способна ни к чему, кроме как к мотивации вашего персонала, в критичных случаях - даже не способна завлечь к вам новых людей.
+    </p>
+    <p>
+      3) Есть и побочный эффект высокой идейной мотивированности - при ней люди и организация лучше выносят стороннее давление и легче переносят удары по организации. Но данный эффект далеко не всегда необходим, так что не стоит к нему стремится.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Интенсивный персоналоцентричный подход" ID="ID_1991984742" CREATED="1705767831384" MODIFIED="1705768118851"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот подход концентрируется на повышении квалификации вашего персонала, на освобождении их от основной работы и жизненных проблем.
+    </p>
+    <p>
+      2) Это требует высокого уровня работы с персоналом. Вы должны знать, кто какими навыками обладает, кто к чему способен, чьё вовлечение можно увеличить и за счёт каких ресурсов.
+    </p>
+    <p>
+      3) Это даёт возможность использовать вашу организацию в корыстных целях - выучится там, получить опыт, решить жизненные проблемы и потом уйти. Это не очень хорошо - вы можете из за этого потерять время и деньги.
+    </p>
+    <p>
+      4) У этого подхода есть предел роста, потому что из человека не получится выжать больше, чем он может физически сделать.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node TEXT="Интенсивный администрациецентричный подход" ID="ID_570558554" CREATED="1705768124910" MODIFIED="1705768260375"><richcontent TYPE="DETAILS" HIDDEN="true">
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1) Этот подход завязан на подготовке управляющих для более высокой производительности и последующего перехода к экстенсивному расширению
+    </p>
+    <p>
+      2) Улучшая навыки администрации, вы получите довольно низкий рост производительности, но расширите себе количество новых людей которых вы сможете принять.
+    </p>
+    <p>
+      3) В остальном, этот подход быстро изживает себя, поскольку администраторы должны получить под контроль новых людей, иначе они толком ничего и не делают.
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 </node>
